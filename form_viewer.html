@@ -1,0 +1,525 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Enhanced Form — Prototype Viewer</title>
+    <style>
+      :root {
+        --bg: #0b1220;
+        --panel: #121a2b;
+        --panel-2: #0f1726;
+        --text: #e6eaf2;
+        --muted: #9aa6bd;
+        --border: rgba(255, 255, 255, 0.08);
+        --win: #2f9e44;
+        --draw: #6c757d;
+        --loss: #e03131;
+        --chip: rgba(255, 255, 255, 0.07);
+        --chip-2: rgba(255, 255, 255, 0.09);
+        --focus: #5c7cfa;
+      }
+
+      body {
+        margin: 0;
+        font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji",
+          "Segoe UI Emoji";
+        background: radial-gradient(1200px 800px at 20% -10%, rgba(92, 124, 250, 0.18), transparent 60%),
+          radial-gradient(1000px 700px at 80% 0%, rgba(47, 158, 68, 0.12), transparent 55%),
+          radial-gradient(900px 600px at 50% 120%, rgba(224, 49, 49, 0.1), transparent 50%), var(--bg);
+        color: var(--text);
+      }
+
+      .container {
+        max-width: 1100px;
+        margin: 0 auto;
+        padding: 28px 18px 50px;
+      }
+
+      .header {
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: 16px;
+        margin-bottom: 18px;
+      }
+
+      h1 {
+        margin: 0;
+        font-size: 18px;
+        letter-spacing: 0.2px;
+        font-weight: 650;
+      }
+
+      .subtitle {
+        color: var(--muted);
+        font-size: 13px;
+        margin-top: 6px;
+      }
+
+      .card {
+        background: linear-gradient(180deg, rgba(255, 255, 255, 0.06), rgba(255, 255, 255, 0.03));
+        border: 1px solid var(--border);
+        border-radius: 14px;
+        padding: 14px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+      }
+
+      .toolbar {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 14px;
+      }
+
+      .toolbar-left,
+      .toolbar-right {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        align-items: center;
+      }
+
+      label {
+        font-size: 12px;
+        color: var(--muted);
+      }
+
+      input[type="text"] {
+        width: min(640px, 92vw);
+        background: var(--panel);
+        border: 1px solid var(--border);
+        color: var(--text);
+        border-radius: 10px;
+        padding: 10px 10px;
+        outline: none;
+      }
+
+      input[type="text"]:focus {
+        border-color: rgba(92, 124, 250, 0.6);
+        box-shadow: 0 0 0 4px rgba(92, 124, 250, 0.15);
+      }
+
+      button {
+        background: var(--chip);
+        border: 1px solid var(--border);
+        color: var(--text);
+        border-radius: 10px;
+        padding: 10px 12px;
+        cursor: pointer;
+        font-weight: 600;
+        letter-spacing: 0.1px;
+      }
+
+      button:hover {
+        background: var(--chip-2);
+      }
+
+      .segmented {
+        display: inline-flex;
+        background: var(--panel-2);
+        border: 1px solid var(--border);
+        border-radius: 12px;
+        overflow: hidden;
+      }
+
+      .segmented button {
+        border: none;
+        border-right: 1px solid var(--border);
+        border-radius: 0;
+        padding: 9px 12px;
+        background: transparent;
+      }
+      .segmented button:last-child {
+        border-right: none;
+      }
+      .segmented button[aria-pressed="true"] {
+        background: rgba(92, 124, 250, 0.18);
+        outline: 1px solid rgba(92, 124, 250, 0.35);
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 12px;
+      }
+
+      .row {
+        border: 1px solid var(--border);
+        border-radius: 14px;
+        padding: 12px;
+        background: rgba(0, 0, 0, 0.12);
+      }
+
+      .row-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        margin-bottom: 10px;
+      }
+
+      .team {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+
+      .badge {
+        font-size: 11px;
+        padding: 4px 8px;
+        border-radius: 999px;
+        background: rgba(255, 255, 255, 0.08);
+        border: 1px solid var(--border);
+        color: var(--muted);
+        white-space: nowrap;
+      }
+
+      .team-name {
+        font-weight: 700;
+        letter-spacing: 0.2px;
+      }
+
+      .pills {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+      }
+
+      .pill {
+        font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        font-size: 12px;
+        padding: 8px 10px;
+        border-radius: 999px;
+        border: 1px solid var(--border);
+        background: rgba(255, 255, 255, 0.06);
+        display: inline-flex;
+        gap: 6px;
+        align-items: center;
+        white-space: nowrap;
+      }
+
+      .pill.win {
+        background: rgba(47, 158, 68, 0.16);
+        border-color: rgba(47, 158, 68, 0.35);
+      }
+      .pill.draw {
+        background: rgba(108, 117, 125, 0.22);
+        border-color: rgba(108, 117, 125, 0.35);
+      }
+      .pill.loss {
+        background: rgba(224, 49, 49, 0.14);
+        border-color: rgba(224, 49, 49, 0.35);
+      }
+
+      .pill .tier {
+        font-size: 10px;
+        padding: 2px 6px;
+        border-radius: 999px;
+        border: 1px solid var(--border);
+        background: rgba(255, 255, 255, 0.06);
+        color: var(--muted);
+        margin-left: 6px;
+      }
+
+      .pill.strength-1 .tier {
+        color: #8ce99a;
+        border-color: rgba(140, 233, 154, 0.45);
+        background: rgba(140, 233, 154, 0.12);
+      }
+
+      .pill.strength-2 .tier {
+        color: #63e6be;
+        border-color: rgba(99, 230, 190, 0.4);
+        background: rgba(99, 230, 190, 0.12);
+      }
+
+      .pill.strength-3 .tier {
+        color: #bac8ff;
+        border-color: rgba(92, 124, 250, 0.45);
+        background: rgba(92, 124, 250, 0.12);
+      }
+
+      .pill.strength-4 .tier {
+        color: #ffd8a8;
+        border-color: rgba(255, 169, 77, 0.45);
+        background: rgba(255, 169, 77, 0.12);
+      }
+
+      .pill.strength-5 .tier {
+        color: #d0bfff;
+        border-color: rgba(151, 117, 250, 0.45);
+        background: rgba(151, 117, 250, 0.15);
+      }
+
+      .summary {
+        margin-top: 10px;
+        color: var(--text);
+        font-size: 13px;
+        line-height: 1.35;
+      }
+
+      .muted {
+        color: var(--muted);
+      }
+
+      .error {
+        color: #ffa8a8;
+        background: rgba(224, 49, 49, 0.12);
+        border: 1px solid rgba(224, 49, 49, 0.35);
+        padding: 10px 12px;
+        border-radius: 12px;
+        margin-top: 12px;
+        white-space: pre-wrap;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <div>
+          <h1>Enhanced Form — Two-Team Prototype Viewer</h1>
+          <div class="subtitle">Synthetic pipeline output (pills + summaries)</div>
+        </div>
+        <div class="muted" style="font-size: 12px">Localhost only</div>
+      </div>
+
+      <div class="card">
+        <div class="toolbar">
+          <div class="toolbar-left">
+            <div>
+              <label for="runPath">Run folder</label><br />
+              <input id="runPath" type="text" spellcheck="false" />
+            </div>
+            <button id="reloadBtn">Load</button>
+          </div>
+          <div class="toolbar-right">
+            <div class="segmented" role="group" aria-label="View mode">
+              <button id="modeCombined" aria-pressed="true">Combined</button>
+              <button id="modeHomeAway" aria-pressed="false">Home/Away</button>
+            </div>
+          </div>
+        </div>
+
+        <div id="content" class="grid"></div>
+        <div id="error" class="error" style="display: none"></div>
+      </div>
+    </div>
+
+    <script>
+      const DEFAULT_RUN =
+        new URLSearchParams(window.location.search).get("run") || "Output/local_run_2026-04-01_handover_rules";
+      const HOME_TEAM_DIR = "north_london_red";
+      const AWAY_TEAM_DIR = "west_glamorgan_city";
+
+      const state = {
+        mode: "combined", // combined | homeaway
+        runPath: DEFAULT_RUN,
+        home: null,
+        away: null,
+      };
+
+      const els = {
+        runPath: document.getElementById("runPath"),
+        reloadBtn: document.getElementById("reloadBtn"),
+        content: document.getElementById("content"),
+        error: document.getElementById("error"),
+        modeCombined: document.getElementById("modeCombined"),
+        modeHomeAway: document.getElementById("modeHomeAway"),
+      };
+
+      function slugToCode(name) {
+        const parts = String(name || "")
+          .trim()
+          .split(/\s+/)
+          .filter(Boolean);
+        if (!parts.length) return "UNK";
+        if (parts.length === 1) return parts[0].slice(0, 3).toUpperCase();
+        const letters = parts.map((p) => p[0]).join("");
+        if (letters.length >= 3) return letters.slice(0, 3).toUpperCase();
+        const padded = (letters + parts[0].slice(1, 4)).slice(0, 3);
+        return padded.toUpperCase();
+      }
+
+      function resultClass(m) {
+        const gf = m.score.for;
+        const ga = m.score.against;
+        if (gf > ga) return "win";
+        if (gf < ga) return "loss";
+        return "draw";
+      }
+
+      function sortByDateDesc(matches) {
+        return [...matches].sort((a, b) => String(b.date).localeCompare(String(a.date)));
+      }
+
+      function pickCombined5(form) {
+        return sortByDateDesc(form.recent_matches).slice(0, 5);
+      }
+      function pickHome5(form) {
+        return sortByDateDesc(form.recent_matches.filter((m) => m.home_away === "home")).slice(0, 5);
+      }
+      function pickAway5(form) {
+        return sortByDateDesc(form.recent_matches.filter((m) => m.home_away === "away")).slice(0, 5);
+      }
+
+      function pillText(teamCode, match) {
+        const oppCode = slugToCode(match.opponent?.name);
+        return `${teamCode} ${match.score.for}-${match.score.against} ${oppCode}`;
+      }
+
+      function normalizeStrengthTier(rawStrength) {
+        if (typeof rawStrength === "number" && rawStrength >= 1 && rawStrength <= 5) return rawStrength;
+        const parsed = Number(rawStrength);
+        if (Number.isFinite(parsed) && parsed >= 1 && parsed <= 5) return parsed;
+        const legacyMap = { weak: 1, average: 3, strong: 5 };
+        return legacyMap[String(rawStrength || "").toLowerCase()] || 3;
+      }
+
+      function getSummary(form, mode, isHomeTeamRow) {
+        const s = form.form_window?.summaries || {};
+        if (mode === "combined") return s.combined_recent_5_text || "";
+        return isHomeTeamRow ? s.home_text || "" : s.away_text || "";
+      }
+
+      function getMatchesForRow(form, mode, isHomeTeamRow) {
+        if (mode === "combined") return pickCombined5(form);
+        return isHomeTeamRow ? pickHome5(form) : pickAway5(form);
+      }
+
+      function renderRow(teamData, badgeLabel, mode, isHomeTeamRow) {
+        const form = teamData.form;
+        const teamName = form.entity.team_name;
+        const teamCode = slugToCode(teamName);
+        const matches = getMatchesForRow(form, mode, isHomeTeamRow);
+        const summary = getSummary(form, mode, isHomeTeamRow);
+
+        const row = document.createElement("div");
+        row.className = "row";
+
+        const header = document.createElement("div");
+        header.className = "row-header";
+
+        const team = document.createElement("div");
+        team.className = "team";
+
+        const name = document.createElement("div");
+        name.className = "team-name";
+        name.textContent = teamName;
+
+        const badge = document.createElement("div");
+        badge.className = "badge";
+        badge.textContent = badgeLabel;
+
+        team.appendChild(name);
+        team.appendChild(badge);
+
+        const pills = document.createElement("div");
+        pills.className = "pills";
+
+        for (const m of matches) {
+          const pill = document.createElement("div");
+          const strength = normalizeStrengthTier(m.opponent?.strength_tier);
+          pill.className = `pill ${resultClass(m)} strength-${strength}`;
+
+          const text = document.createElement("span");
+          text.textContent = pillText(teamCode, m);
+
+          const tier = document.createElement("span");
+          tier.className = "tier";
+          tier.textContent = String(strength);
+
+          pill.appendChild(text);
+          pill.appendChild(tier);
+          pill.title = `${m.date} • ${m.competition} • ${m.home_away} • vs ${m.opponent?.name} • strength ${strength}/5`;
+          pills.appendChild(pill);
+        }
+
+        header.appendChild(team);
+        header.appendChild(pills);
+
+        const summaryEl = document.createElement("div");
+        summaryEl.className = "summary";
+        // Summaries may contain lightweight <b> tags (generated by step 4 prompt).
+        summaryEl.innerHTML = summary || "";
+
+        row.appendChild(header);
+        row.appendChild(summaryEl);
+        return row;
+      }
+
+      function setError(msg) {
+        if (!msg) {
+          els.error.style.display = "none";
+          els.error.textContent = "";
+          return;
+        }
+        els.error.style.display = "block";
+        els.error.textContent = msg;
+      }
+
+      async function fetchJson(path) {
+        const r = await fetch(path, { cache: "no-store" });
+        if (!r.ok) throw new Error(`Failed to load ${path} (${r.status})`);
+        return await r.json();
+      }
+
+      async function loadRun() {
+        setError("");
+        els.content.innerHTML = "";
+        const base = state.runPath.replace(/\/+$/, "");
+        const homePath = `${base}/${HOME_TEAM_DIR}/05_with_summary.json`;
+        const awayPath = `${base}/${AWAY_TEAM_DIR}/05_with_summary.json`;
+
+        const [home, away] = await Promise.all([fetchJson(homePath), fetchJson(awayPath)]);
+        state.home = home;
+        state.away = away;
+      }
+
+      function render() {
+        els.content.innerHTML = "";
+        if (!state.home || !state.away) return;
+        els.content.appendChild(renderRow(state.home, "Home team", state.mode, true));
+        els.content.appendChild(renderRow(state.away, "Away team", state.mode, false));
+      }
+
+      function setMode(mode) {
+        state.mode = mode;
+        els.modeCombined.setAttribute("aria-pressed", String(mode === "combined"));
+        els.modeHomeAway.setAttribute("aria-pressed", String(mode === "homeaway"));
+        render();
+      }
+
+      async function init() {
+        els.runPath.value = state.runPath;
+
+        els.reloadBtn.addEventListener("click", async () => {
+          state.runPath = els.runPath.value.trim();
+          try {
+            await loadRun();
+            render();
+          } catch (e) {
+            setError(String(e?.message || e));
+          }
+        });
+
+        els.modeCombined.addEventListener("click", () => setMode("combined"));
+        els.modeHomeAway.addEventListener("click", () => setMode("homeaway"));
+
+        try {
+          await loadRun();
+          render();
+        } catch (e) {
+          setError(
+            `Could not load run.\n\nTried:\n- ${state.runPath}/${HOME_TEAM_DIR}/05_with_summary.json\n- ${state.runPath}/${AWAY_TEAM_DIR}/05_with_summary.json\n\n` +
+              String(e?.message || e)
+          );
+        }
+      }
+
+      init();
+    </script>
+  </body>
+</html>

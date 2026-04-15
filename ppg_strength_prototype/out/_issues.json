@@ -1,0 +1,32 @@
+[
+  {
+    "type": "missing_last_season",
+    "team": "Sunderland",
+    "venue": "home"
+  },
+  {
+    "type": "missing_last_season",
+    "team": "Leeds United",
+    "venue": "home"
+  },
+  {
+    "type": "missing_last_season",
+    "team": "Burnley",
+    "venue": "home"
+  },
+  {
+    "type": "missing_last_season",
+    "team": "Sunderland",
+    "venue": "away"
+  },
+  {
+    "type": "missing_last_season",
+    "team": "Leeds United",
+    "venue": "away"
+  },
+  {
+    "type": "missing_last_season",
+    "team": "Burnley",
+    "venue": "away"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {"team":"Liverpool","matches_played":19,"points":38},
+  {"team":"Arsenal","matches_played":19,"points":35},
+  {"team":"Nottingham Forest","matches_played":19,"points":33},
+  {"team":"Manchester City","matches_played":19,"points":29},
+  {"team":"Brighton","matches_played":19,"points":29},
+  {"team":"AFC Bournemouth","matches_played":19,"points":28},
+  {"team":"Chelsea","matches_played":19,"points":28},
+  {"team":"Fulham","matches_played":19,"points":28},
+  {"team":"Crystal Palace","matches_played":19,"points":28},
+  {"team":"Newcastle United","matches_played":19,"points":28},
+  {"team":"Aston Villa","matches_played":19,"points":26},
+  {"team":"Brentford","matches_played":19,"points":25},
+  {"team":"Everton","matches_played":19,"points":24},
+  {"team":"West Ham United","matches_played":19,"points":23},
+  {"team":"Wolves","matches_played":19,"points":21},
+  {"team":"Manchester United","matches_played":19,"points":18},
+  {"team":"Tottenham Hotspur","matches_played":19,"points":17},
+  {"team":"Ipswich Town","matches_played":19,"points":15},
+  {"team":"Leicester City","matches_played":19,"points":10},
+  {"team":"Southampton","matches_played":19,"points":6}
+]

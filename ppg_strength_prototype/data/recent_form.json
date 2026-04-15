@@ -1,0 +1,47 @@
+{
+  "Arsenal": [
+    {"opponent":"Tottenham Hotspur","venue":"home","score_for":4,"score_against":1},
+    {"opponent":"Chelsea","venue":"away","score_for":1,"score_against":1},
+    {"opponent":"Brentford","venue":"home","score_for":2,"score_against":0},
+    {"opponent":"Aston Villa","venue":"away","score_for":1,"score_against":2},
+    {"opponent":"Wolves","venue":"home","score_for":2,"score_against":1},
+    {"opponent":"Everton","venue":"away","score_for":1,"score_against":1},
+    {"opponent":"Brighton","venue":"home","score_for":2,"score_against":1},
+    {"opponent":"Aston Villa","venue":"home","score_for":4,"score_against":1},
+    {"opponent":"AFC Bournemouth","venue":"away","score_for":3,"score_against":2},
+    {"opponent":"Liverpool","venue":"home","score_for":0,"score_against":0},
+    {"opponent":"Nottingham Forest","venue":"away","score_for":0,"score_against":0},
+    {"opponent":"Manchester United","venue":"home","score_for":2,"score_against":3},
+    {"opponent":"Leeds United","venue":"away","score_for":4,"score_against":0},
+    {"opponent":"Sunderland","venue":"home","score_for":3,"score_against":0}
+  ],
+  "Brentford": [
+    {"opponent":"Newcastle United","venue":"home","score_for":3,"score_against":2},
+    {"opponent":"Arsenal","venue":"away","score_for":0,"score_against":2},
+    {"opponent":"Tottenham Hotspur","venue":"away","score_for":0,"score_against":2},
+    {"opponent":"Leeds United","venue":"home","score_for":1,"score_against":1},
+    {"opponent":"Wolves","venue":"away","score_for":2,"score_against":0},
+    {"opponent":"AFC Bournemouth","venue":"home","score_for":4,"score_against":1},
+    {"opponent":"Tottenham Hotspur","venue":"home","score_for":0,"score_against":0},
+    {"opponent":"Everton","venue":"away","score_for":4,"score_against":2},
+    {"opponent":"Sunderland","venue":"home","score_for":3,"score_against":0},
+    {"opponent":"Chelsea","venue":"away","score_for":0,"score_against":2},
+    {"opponent":"Nottingham Forest","venue":"home","score_for":0,"score_against":2},
+    {"opponent":"Aston Villa","venue":"away","score_for":1,"score_against":0},
+    {"opponent":"Newcastle United","venue":"away","score_for":3,"score_against":2}
+  ],
+  "Newcastle United": [
+    {"opponent":"Leeds United","venue":"home","score_for":4,"score_against":3},
+    {"opponent":"Wolves","venue":"away","score_for":0,"score_against":0},
+    {"opponent":"Aston Villa","venue":"home","score_for":0,"score_against":2},
+    {"opponent":"Liverpool","venue":"away","score_for":1,"score_against":4},
+    {"opponent":"Brentford","venue":"home","score_for":2,"score_against":3}
+  ],
+  "Tottenham Hotspur": [
+    {"opponent":"AFC Bournemouth","venue":"away","score_for":2,"score_against":3},
+    {"opponent":"West Ham United","venue":"home","score_for":1,"score_against":2},
+    {"opponent":"Burnley","venue":"away","score_for":2,"score_against":2},
+    {"opponent":"Manchester City","venue":"home","score_for":2,"score_against":2},
+    {"opponent":"Manchester United","venue":"away","score_for":0,"score_against":2}
+  ]
+}

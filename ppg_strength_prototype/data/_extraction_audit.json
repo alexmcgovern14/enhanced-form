@@ -1,0 +1,76 @@
+{
+  "home_table_teams": [
+    "Arsenal",
+    "Manchester City",
+    "Manchester United",
+    "Sunderland",
+    "Aston Villa",
+    "Brentford",
+    "Liverpool",
+    "Fulham",
+    "AFC Bournemouth",
+    "Newcastle United",
+    "Leeds United",
+    "Chelsea",
+    "Brighton",
+    "Everton",
+    "Crystal Palace",
+    "Nottingham Forest",
+    "Tottenham Hotspur",
+    "Burnley",
+    "West Ham United",
+    "Wolves"
+  ],
+  "away_table_teams": [
+    "Arsenal",
+    "Chelsea",
+    "Aston Villa",
+    "Manchester City",
+    "Everton",
+    "Crystal Palace",
+    "Tottenham Hotspur",
+    "Manchester United",
+    "Liverpool",
+    "Brentford",
+    "Nottingham Forest",
+    "West Ham United",
+    "Fulham",
+    "AFC Bournemouth",
+    "Brighton",
+    "Newcastle United",
+    "Sunderland",
+    "Leeds United",
+    "Burnley",
+    "Wolves"
+  ],
+  "name_normalisation": {
+    "Man City": "Manchester City",
+    "Man United": "Manchester United",
+    "Spurs": "Tottenham Hotspur",
+    "Tottenham": "Tottenham Hotspur",
+    "Newcastle": "Newcastle United",
+    "Nottingham": "Nottingham Forest",
+    "West Ham": "West Ham United",
+    "Bournemouth": "AFC Bournemouth"
+  },
+  "counts": {
+    "form_matches": {
+      "Arsenal": 14,
+      "Brentford": 13,
+      "Newcastle United": 5,
+      "Tottenham Hotspur": 5
+    },
+    "fixtures": {
+      "Arsenal": 13,
+      "Chelsea": 13,
+      "Manchester City": 13,
+      "Newcastle United": 13,
+      "Tottenham Hotspur": 13
+    },
+    "last_season_tables": {
+      "home": 20,
+      "away": 20
+    }
+  },
+  "issues": []
+}

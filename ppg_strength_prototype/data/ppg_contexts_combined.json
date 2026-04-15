@@ -1,0 +1,282 @@
+[
+  {
+    "team": "Arsenal",
+    "venue": "home",
+    "matches": 32,
+    "points": 71,
+    "ppg": 2.219
+  },
+  {
+    "team": "Manchester City",
+    "venue": "home",
+    "matches": 31,
+    "points": 71,
+    "ppg": 2.29
+  },
+  {
+    "team": "Manchester United",
+    "venue": "home",
+    "matches": 32,
+    "points": 51,
+    "ppg": 1.594
+  },
+  {
+    "team": "Sunderland",
+    "venue": "home",
+    "matches": 12,
+    "points": 26,
+    "ppg": 2.167
+  },
+  {
+    "team": "Aston Villa",
+    "venue": "home",
+    "matches": 31,
+    "points": 65,
+    "ppg": 2.097
+  },
+  {
+    "team": "Brentford",
+    "venue": "home",
+    "matches": 31,
+    "points": 55,
+    "ppg": 1.774
+  },
+  {
+    "team": "Liverpool",
+    "venue": "home",
+    "matches": 32,
+    "points": 70,
+    "ppg": 2.188
+  },
+  {
+    "team": "Fulham",
+    "venue": "home",
+    "matches": 32,
+    "points": 49,
+    "ppg": 1.531
+  },
+  {
+    "team": "AFC Bournemouth",
+    "venue": "home",
+    "matches": 32,
+    "points": 51,
+    "ppg": 1.594
+  },
+  {
+    "team": "Newcastle United",
+    "venue": "home",
+    "matches": 32,
+    "points": 61,
+    "ppg": 1.906
+  },
+  {
+    "team": "Leeds United",
+    "venue": "home",
+    "matches": 13,
+    "points": 22,
+    "ppg": 1.692
+  },
+  {
+    "team": "Chelsea",
+    "venue": "home",
+    "matches": 31,
+    "points": 62,
+    "ppg": 2.0
+  },
+  {
+    "team": "Brighton",
+    "venue": "home",
+    "matches": 32,
+    "points": 53,
+    "ppg": 1.656
+  },
+  {
+    "team": "Everton",
+    "venue": "home",
+    "matches": 31,
+    "points": 40,
+    "ppg": 1.29
+  },
+  {
+    "team": "Crystal Palace",
+    "venue": "home",
+    "matches": 31,
+    "points": 37,
+    "ppg": 1.194
+  },
+  {
+    "team": "Nottingham Forest",
+    "venue": "home",
+    "matches": 31,
+    "points": 44,
+    "ppg": 1.419
+  },
+  {
+    "team": "Tottenham Hotspur",
+    "venue": "home",
+    "matches": 31,
+    "points": 31,
+    "ppg": 1.0
+  },
+  {
+    "team": "Burnley",
+    "venue": "home",
+    "matches": 13,
+    "points": 10,
+    "ppg": 0.769
+  },
+  {
+    "team": "West Ham United",
+    "venue": "home",
+    "matches": 31,
+    "points": 30,
+    "ppg": 0.968
+  },
+  {
+    "team": "Wolves",
+    "venue": "home",
+    "matches": 32,
+    "points": 26,
+    "ppg": 0.812
+  },
+  {
+    "team": "Arsenal",
+    "venue": "away",
+    "matches": 31,
+    "points": 59,
+    "ppg": 1.903
+  },
+  {
+    "team": "Chelsea",
+    "venue": "away",
+    "matches": 32,
+    "points": 50,
+    "ppg": 1.562
+  },
+  {
+    "team": "Aston Villa",
+    "venue": "away",
+    "matches": 32,
+    "points": 48,
+    "ppg": 1.5
+  },
+  {
+    "team": "Manchester City",
+    "venue": "away",
+    "matches": 32,
+    "points": 50,
+    "ppg": 1.562
+  },
+  {
+    "team": "Everton",
+    "venue": "away",
+    "matches": 32,
+    "points": 45,
+    "ppg": 1.406
+  },
+  {
+    "team": "Crystal Palace",
+    "venue": "away",
+    "matches": 32,
+    "points": 48,
+    "ppg": 1.5
+  },
+  {
+    "team": "Tottenham Hotspur",
+    "venue": "away",
+    "matches": 32,
+    "points": 36,
+    "ppg": 1.125
+  },
+  {
+    "team": "Manchester United",
+    "venue": "away",
+    "matches": 31,
+    "points": 35,
+    "ppg": 1.129
+  },
+  {
+    "team": "Liverpool",
+    "venue": "away",
+    "matches": 31,
+    "points": 53,
+    "ppg": 1.71
+  },
+  {
+    "team": "Brentford",
+    "venue": "away",
+    "matches": 32,
+    "points": 40,
+    "ppg": 1.25
+  },
+  {
+    "team": "Nottingham Forest",
+    "venue": "away",
+    "matches": 32,
+    "points": 47,
+    "ppg": 1.469
+  },
+  {
+    "team": "West Ham United",
+    "venue": "away",
+    "matches": 32,
+    "points": 36,
+    "ppg": 1.125
+  },
+  {
+    "team": "Fulham",
+    "venue": "away",
+    "matches": 31,
+    "points": 39,
+    "ppg": 1.258
+  },
+  {
+    "team": "AFC Bournemouth",
+    "venue": "away",
+    "matches": 31,
+    "points": 39,
+    "ppg": 1.258
+  },
+  {
+    "team": "Brighton",
+    "venue": "away",
+    "matches": 31,
+    "points": 39,
+    "ppg": 1.258
+  },
+  {
+    "team": "Newcastle United",
+    "venue": "away",
+    "matches": 31,
+    "points": 38,
+    "ppg": 1.226
+  },
+  {
+    "team": "Sunderland",
+    "venue": "away",
+    "matches": 13,
+    "points": 10,
+    "ppg": 0.769
+  },
+  {
+    "team": "Leeds United",
+    "venue": "away",
+    "matches": 12,
+    "points": 7,
+    "ppg": 0.583
+  },
+  {
+    "team": "Burnley",
+    "venue": "away",
+    "matches": 12,
+    "points": 5,
+    "ppg": 0.417
+  },
+  {
+    "team": "Wolves",
+    "venue": "away",
+    "matches": 31,
+    "points": 24,
+    "ppg": 0.774
+  }
+]

@@ -1,0 +1,314 @@
+{
+  "home_form": {
+    "scope": "home",
+    "record": {
+      "wins": 3,
+      "draws": 2,
+      "losses": 0
+    },
+    "goals_vs_xg": {
+      "goals_for": 9,
+      "xg_for": 7.87,
+      "goals_minus_xg_for": 1.13,
+      "goals_against": 3,
+      "xg_against": 4.74,
+      "goals_minus_xg_against": -1.74
+    },
+    "opponent_strength": {
+      "1": 0,
+      "2": 1,
+      "3": 2,
+      "4": 2,
+      "5": 0
+    },
+    "trends": {
+      "finishing_efficiency": "overperforming xG",
+      "defensive_efficiency": "conceding fewer than xG"
+    },
+    "matches": [
+      {
+        "date": "2026-01-11",
+        "home_away": "home",
+        "opponent": "Tyneside",
+        "result": "draw",
+        "score": {
+          "for": 1,
+          "against": 1
+        },
+        "xg": {
+          "for": 1.28,
+          "against": 1.04
+        },
+        "assessment": "fair draw"
+      },
+      {
+        "date": "2026-01-04",
+        "home_away": "home",
+        "opponent": "Yorkshire Whites",
+        "result": "draw",
+        "score": {
+          "for": 1,
+          "against": 1
+        },
+        "xg": {
+          "for": 1.54,
+          "against": 1.03
+        },
+        "assessment": "unfair draw"
+      },
+      {
+        "date": "2025-12-28",
+        "home_away": "home",
+        "opponent": "The Potteries",
+        "result": "win",
+        "score": {
+          "for": 2,
+          "against": 0
+        },
+        "xg": {
+          "for": 2.14,
+          "against": 0.2
+        },
+        "assessment": "deserved win"
+      },
+      {
+        "date": "2025-12-14",
+        "home_away": "home",
+        "opponent": "Hertfordshire",
+        "result": "win",
+        "score": {
+          "for": 2,
+          "against": 0
+        },
+        "xg": {
+          "for": 1.56,
+          "against": 0.39
+        },
+        "assessment": "deserved win"
+      },
+      {
+        "date": "2025-12-07",
+        "home_away": "home",
+        "opponent": "Norfolk City",
+        "result": "win",
+        "score": {
+          "for": 3,
+          "against": 1
+        },
+        "xg": {
+          "for": 1.35,
+          "against": 2.08
+        },
+        "assessment": "lucky win"
+      }
+    ]
+  },
+  "away_form": {
+    "scope": "away",
+    "record": {
+      "wins": 2,
+      "draws": 2,
+      "losses": 1
+    },
+    "goals_vs_xg": {
+      "goals_for": 7,
+      "xg_for": 3.81,
+      "goals_minus_xg_for": 3.19,
+      "goals_against": 5,
+      "xg_against": 7.31,
+      "goals_minus_xg_against": -2.31
+    },
+    "opponent_strength": {
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 1
+    },
+    "trends": {
+      "finishing_efficiency": "overperforming xG",
+      "defensive_efficiency": "conceding fewer than xG"
+    },
+    "matches": [
+      {
+        "date": "2026-01-25",
+        "home_away": "away",
+        "opponent": "Merseyside Red",
+        "result": "draw",
+        "score": {
+          "for": 0,
+          "against": 0
+        },
+        "xg": {
+          "for": 0.2,
+          "against": 1.41
+        },
+        "assessment": "fair draw"
+      },
+      {
+        "date": "2026-01-18",
+        "home_away": "away",
+        "opponent": "Man Red",
+        "result": "win",
+        "score": {
+          "for": 4,
+          "against": 3
+        },
+        "xg": {
+          "for": 1.93,
+          "against": 1.83
+        },
+        "assessment": "deserved win"
+      },
+      {
+        "date": "2025-12-21",
+        "home_away": "away",
+        "opponent": "Pompy",
+        "result": "loss",
+        "score": {
+          "for": 0,
+          "against": 1
+        },
+        "xg": {
+          "for": 0.2,
+          "against": 1.71
+        },
+        "assessment": "deserved loss"
+      },
+      {
+        "date": "2025-11-30",
+        "home_away": "away",
+        "opponent": "North East London",
+        "result": "draw",
+        "score": {
+          "for": 1,
+          "against": 1
+        },
+        "xg": {
+          "for": 0.31,
+          "against": 1.07
+        },
+        "assessment": "fair draw"
+      },
+      {
+        "date": "2025-11-23",
+        "home_away": "away",
+        "opponent": "West Midlands Gold",
+        "result": "win",
+        "score": {
+          "for": 2,
+          "against": 0
+        },
+        "xg": {
+          "for": 1.17,
+          "against": 1.29
+        },
+        "assessment": "deserved win"
+      }
+    ]
+  },
+  "combined_recent_5": {
+    "scope": "combined_recent_5",
+    "record": {
+      "wins": 2,
+      "draws": 3,
+      "losses": 0
+    },
+    "goals_vs_xg": {
+      "goals_for": 8,
+      "xg_for": 7.09,
+      "goals_minus_xg_for": 0.91,
+      "goals_against": 5,
+      "xg_against": 5.51,
+      "goals_minus_xg_against": -0.51
+    },
+    "opponent_strength": {
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 1
+    },
+    "trends": {
+      "finishing_efficiency": "finishing near xG",
+      "defensive_efficiency": "conceding near xG"
+    },
+    "matches": [
+      {
+        "date": "2026-01-25",
+        "home_away": "away",
+        "opponent": "Merseyside Red",
+        "result": "draw",
+        "score": {
+          "for": 0,
+          "against": 0
+        },
+        "xg": {
+          "for": 0.2,
+          "against": 1.41
+        },
+        "assessment": "fair draw"
+      },
+      {
+        "date": "2026-01-18",
+        "home_away": "away",
+        "opponent": "Man Red",
+        "result": "win",
+        "score": {
+          "for": 4,
+          "against": 3
+        },
+        "xg": {
+          "for": 1.93,
+          "against": 1.83
+        },
+        "assessment": "deserved win"
+      },
+      {
+        "date": "2026-01-11",
+        "home_away": "home",
+        "opponent": "Tyneside",
+        "result": "draw",
+        "score": {
+          "for": 1,
+          "against": 1
+        },
+        "xg": {
+          "for": 1.28,
+          "against": 1.04
+        },
+        "assessment": "fair draw"
+      },
+      {
+        "date": "2026-01-04",
+        "home_away": "home",
+        "opponent": "Yorkshire Whites",
+        "result": "draw",
+        "score": {
+          "for": 1,
+          "against": 1
+        },
+        "xg": {
+          "for": 1.54,
+          "against": 1.03
+        },
+        "assessment": "unfair draw"
+      },
+      {
+        "date": "2025-12-28",
+        "home_away": "home",
+        "opponent": "The Potteries",
+        "result": "win",
+        "score": {
+          "for": 2,
+          "against": 0
+        },
+        "xg": {
+          "for": 2.14,
+          "against": 0.2
+        },
+        "assessment": "deserved win"
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "fixture_date": "2026-02-01",
+  "competition": "Premier League",
+  "home_team": "West Glamorgan City",
+  "away_team": "North London Red",
+  "window_size": 10,
+  "seed": 101,
+  "must_include": {
+    "requested": [
+      "Merseyside Red",
+      "Man Red",
+      "Tyneside",
+      "Yorkshire Whites",
+      "The Potteries",
+      "Pompy"
+    ]
+  },
+  "validation": {
+    "home_team_errors": [],
+    "away_team_errors": []
+  }
+}

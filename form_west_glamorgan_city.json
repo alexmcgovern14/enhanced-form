@@ -1,0 +1,528 @@
+{
+  "form": {
+    "entity": {
+      "team_id": "686d0f1d",
+      "team_name": "West Glamorgan City",
+      "primary_domestic_competition": "Premier League"
+    },
+    "upcoming_event": {
+      "date": "2026-02-01",
+      "competition": "Premier League",
+      "opponent": "North London Red",
+      "home_away": "home"
+    },
+    "season_context": {
+      "competition": "Premier League",
+      "matches_played": 21,
+      "points": 44,
+      "ppg": 2.09,
+      "goals_for_per_game": 1.65,
+      "goals_against_per_game": 1.29,
+      "league_goals_for_per_game_avg": 1.41,
+      "league_goals_against_per_game_avg": 1.41,
+      "league_ppg_average": 1.4,
+      "league_ppg_p25": 1.05,
+      "league_ppg_p75": 1.75
+    },
+    "form_window": {
+      "window_size": 10,
+      "competitions_included": "all",
+      "rollup": {
+        "record": {
+          "wins": 3,
+          "draws": 5,
+          "losses": 2
+        },
+        "goals_for": 9,
+        "goals_against": 11,
+        "goals_for_per_game": 0.9,
+        "goals_against_per_game": 1.1,
+        "xg_for": 14.37,
+        "xg_against": 11.35,
+        "xg_for_per_game": 1.44,
+        "xg_against_per_game": 1.14,
+        "goals_minus_xg_for": -5.37,
+        "goals_minus_xg_against": -0.35
+      },
+      "opponent_strength_counts": {
+        "1": 1,
+        "2": 2,
+        "3": 5,
+        "4": 2,
+        "5": 0
+      }
+    },
+    "recent_matches": [
+      {
+        "match_id": "2026-01-25_merseyside_red",
+        "date": "2026-01-25",
+        "competition": "Premier League",
+        "home_away": "away",
+        "opponent": {
+          "name": "Merseyside Red",
+          "primary_domestic_competition": "Premier League",
+          "ppg_at_time": 1.48,
+          "league_position_at_time": 12,
+          "strength_tier": 3
+        },
+        "score": {
+          "for": 3,
+          "against": 2
+        },
+        "xg": {
+          "for": 1.79,
+          "against": 1.99
+        },
+        "shots": {
+          "for": 18,
+          "against": 20
+        },
+        "shots_on_target": {
+          "for": 7,
+          "against": 8
+        },
+        "red_cards": {
+          "for": 0,
+          "against": 1
+        },
+        "goals_minus_xg": {
+          "for": 1.21,
+          "against": 0.01
+        },
+        "narrative_summary": "West Glamorgan City beat Merseyside Red 3-2 away, and reports would likely say they played a fairly even contest with both sides having spells. Notably, Merseyside Red were reduced to ten men after a red card. The result felt representative, and West Glamorgan City made the most of their opportunities with clinical finishing.",
+        "statistical_assessment": {
+          "label": "TBC",
+          "confidence": "TBC",
+          "primary_evidence": [
+            "TBC",
+            "TBC"
+          ],
+          "narrative_alignment": "TBC"
+        }
+      },
+      {
+        "match_id": "2026-01-18_man_red",
+        "date": "2026-01-18",
+        "competition": "Premier League",
+        "home_away": "home",
+        "opponent": {
+          "name": "Man Red",
+          "primary_domestic_competition": "Premier League",
+          "ppg_at_time": 1.9,
+          "league_position_at_time": 8,
+          "strength_tier": 3
+        },
+        "score": {
+          "for": 0,
+          "against": 0
+        },
+        "xg": {
+          "for": 1.21,
+          "against": 1.05
+        },
+        "shots": {
+          "for": 15,
+          "against": 13
+        },
+        "shots_on_target": {
+          "for": 6,
+          "against": 6
+        },
+        "red_cards": {
+          "for": 0,
+          "against": 0
+        },
+        "goals_minus_xg": {
+          "for": -1.21,
+          "against": -1.05
+        },
+        "narrative_summary": "West Glamorgan City drew Man Red 0-0 at home, and reports would likely say they played a fairly even contest with both sides having spells. Notably, they missed a big chance that could have changed the game. The result felt representative, and West Glamorgan City could have scored more, but wasteful finishing left them short.",
+        "statistical_assessment": {
+          "label": "TBC",
+          "confidence": "TBC",
+          "primary_evidence": [
+            "TBC",
+            "TBC"
+          ],
+          "narrative_alignment": "TBC"
+        }
+      },
+      {
+        "match_id": "2026-01-11_tyneside",
+        "date": "2026-01-11",
+        "competition": "Premier League",
+        "home_away": "home",
+        "opponent": {
+          "name": "Tyneside",
+          "primary_domestic_competition": "Premier League",
+          "ppg_at_time": 2.15,
+          "league_position_at_time": 5,
+          "strength_tier": 4
+        },
+        "score": {
+          "for": 3,
+          "against": 1
+        },
+        "xg": {
+          "for": 1.46,
+          "against": 1.12
+        },
+        "shots": {
+          "for": 15,
+          "against": 10
+        },
+        "shots_on_target": {
+          "for": 7,
+          "against": 4
+        },
+        "red_cards": {
+          "for": 0,
+          "against": 0
+        },
+        "goals_minus_xg": {
+          "for": 1.54,
+          "against": -0.12
+        },
+        "narrative_summary": "West Glamorgan City beat Tyneside 3-1 at home, and reports would likely say they played a fairly even contest with both sides having spells. Notably, a quick double after the break settled the game. The result felt representative, and West Glamorgan City made the most of their opportunities with clinical finishing.",
+        "statistical_assessment": {
+          "label": "TBC",
+          "confidence": "TBC",
+          "primary_evidence": [
+            "TBC",
+            "TBC"
+          ],
+          "narrative_alignment": "TBC"
+        }
+      },
+      {
+        "match_id": "2026-01-04_yorkshire_whites",
+        "date": "2026-01-04",
+        "competition": "Premier League",
+        "home_away": "home",
+        "opponent": {
+          "name": "Yorkshire Whites",
+          "primary_domestic_competition": "Premier League",
+          "ppg_at_time": 0.89,
+          "league_position_at_time": 17,
+          "strength_tier": 2
+        },
+        "score": {
+          "for": 3,
+          "against": 2
+        },
+        "xg": {
+          "for": 1.82,
+          "against": 0.26
+        },
+        "shots": {
+          "for": 22,
+          "against": 8
+        },
+        "shots_on_target": {
+          "for": 9,
+          "against": 3
+        },
+        "red_cards": {
+          "for": 1,
+          "against": 0
+        },
+        "goals_minus_xg": {
+          "for": 1.18,
+          "against": 1.74
+        },
+        "narrative_summary": "West Glamorgan City beat Yorkshire Whites 3-2 at home, and reports would likely say they created the clearer chances and were on top for long spells. Notably, West Glamorgan City played a spell with ten men after a red card. The result did not fully reflect the balance of play, and West Glamorgan City made the most of their opportunities with clinical finishing.",
+        "statistical_assessment": {
+          "label": "TBC",
+          "confidence": "TBC",
+          "primary_evidence": [
+            "TBC",
+            "TBC"
+          ],
+          "narrative_alignment": "TBC"
+        }
+      },
+      {
+        "match_id": "2025-12-28_the_potteries",
+        "date": "2025-12-28",
+        "competition": "Premier League",
+        "home_away": "away",
+        "opponent": {
+          "name": "The Potteries",
+          "primary_domestic_competition": "Premier League",
+          "ppg_at_time": 1.94,
+          "league_position_at_time": 7,
+          "strength_tier": 4
+        },
+        "score": {
+          "for": 0,
+          "against": 0
+        },
+        "xg": {
+          "for": 1.29,
+          "against": 1.5
+        },
+        "shots": {
+          "for": 21,
+          "against": 15
+        },
+        "shots_on_target": {
+          "for": 7,
+          "against": 4
+        },
+        "red_cards": {
+          "for": 0,
+          "against": 0
+        },
+        "goals_minus_xg": {
+          "for": -1.29,
+          "against": -1.5
+        },
+        "narrative_summary": "West Glamorgan City drew The Potteries 0-0 away, and reports would likely say they played a fairly even contest with both sides having spells. Notably, a missed penalty was widely seen as a turning point. The result felt representative, and West Glamorgan City could have scored more, but wasteful finishing left them short.",
+        "statistical_assessment": {
+          "label": "TBC",
+          "confidence": "TBC",
+          "primary_evidence": [
+            "TBC",
+            "TBC"
+          ],
+          "narrative_alignment": "TBC"
+        }
+      },
+      {
+        "match_id": "2025-12-21_pompy",
+        "date": "2025-12-21",
+        "competition": "Premier League",
+        "home_away": "away",
+        "opponent": {
+          "name": "Pompy",
+          "primary_domestic_competition": "Premier League",
+          "ppg_at_time": 1.66,
+          "league_position_at_time": 10,
+          "strength_tier": 3
+        },
+        "score": {
+          "for": 0,
+          "against": 2
+        },
+        "xg": {
+          "for": 1.07,
+          "against": 1.34
+        },
+        "shots": {
+          "for": 10,
+          "against": 13
+        },
+        "shots_on_target": {
+          "for": 3,
+          "against": 4
+        },
+        "red_cards": {
+          "for": 0,
+          "against": 0
+        },
+        "goals_minus_xg": {
+          "for": -1.07,
+          "against": 0.66
+        },
+        "narrative_summary": "West Glamorgan City lost to Pompy 0-2 away, and reports would likely say they played a fairly even contest with both sides having spells. Notably, a missed penalty was widely seen as a turning point. The result felt representative, and West Glamorgan City could have scored more, but wasteful finishing left them short.",
+        "statistical_assessment": {
+          "label": "TBC",
+          "confidence": "TBC",
+          "primary_evidence": [
+            "TBC",
+            "TBC"
+          ],
+          "narrative_alignment": "TBC"
+        }
+      },
+      {
+        "match_id": "2025-12-14_hampshire_red",
+        "date": "2025-12-14",
+        "competition": "Premier League",
+        "home_away": "home",
+        "opponent": {
+          "name": "Hampshire Red",
+          "primary_domestic_competition": "Premier League",
+          "ppg_at_time": 0.64,
+          "league_position_at_time": 20,
+          "strength_tier": 1
+        },
+        "score": {
+          "for": 0,
+          "against": 0
+        },
+        "xg": {
+          "for": 2.03,
+          "against": 0.9
+        },
+        "shots": {
+          "for": 18,
+          "against": 14
+        },
+        "shots_on_target": {
+          "for": 7,
+          "against": 6
+        },
+        "red_cards": {
+          "for": 0,
+          "against": 0
+        },
+        "goals_minus_xg": {
+          "for": -2.03,
+          "against": -0.9
+        },
+        "narrative_summary": "West Glamorgan City drew Hampshire Red 0-0 at home, and reports would likely say they created the clearer chances and were on top for long spells. Notably, they had a goal ruled out after a tight VAR check. The result did not fully reflect the balance of play, and West Glamorgan City could have scored more, but wasteful finishing left them short.",
+        "statistical_assessment": {
+          "label": "TBC",
+          "confidence": "TBC",
+          "primary_evidence": [
+            "TBC",
+            "TBC"
+          ],
+          "narrative_alignment": "TBC"
+        }
+      },
+      {
+        "match_id": "2025-12-07_east_london",
+        "date": "2025-12-07",
+        "competition": "Premier League",
+        "home_away": "away",
+        "opponent": {
+          "name": "East London",
+          "primary_domestic_competition": "Premier League",
+          "ppg_at_time": 1.02,
+          "league_position_at_time": 16,
+          "strength_tier": 2
+        },
+        "score": {
+          "for": 0,
+          "against": 0
+        },
+        "xg": {
+          "for": 0.97,
+          "against": 1.14
+        },
+        "shots": {
+          "for": 13,
+          "against": 12
+        },
+        "shots_on_target": {
+          "for": 6,
+          "against": 5
+        },
+        "red_cards": {
+          "for": 0,
+          "against": 0
+        },
+        "goals_minus_xg": {
+          "for": -0.97,
+          "against": -1.14
+        },
+        "narrative_summary": "West Glamorgan City drew East London 0-0 away, and reports would likely say they played a fairly even contest with both sides having spells. Notably, a VAR decision played a part in a key moment. The result felt representative, and West Glamorgan City turned their chances into a scoreline that broadly matched the chances created.",
+        "statistical_assessment": {
+          "label": "TBC",
+          "confidence": "TBC",
+          "primary_evidence": [
+            "TBC",
+            "TBC"
+          ],
+          "narrative_alignment": "TBC"
+        }
+      },
+      {
+        "match_id": "2025-11-30_wearside",
+        "date": "2025-11-30",
+        "competition": "Premier League",
+        "home_away": "away",
+        "opponent": {
+          "name": "Wearside",
+          "primary_domestic_competition": "Premier League",
+          "ppg_at_time": 1.33,
+          "league_position_at_time": 13,
+          "strength_tier": 3
+        },
+        "score": {
+          "for": 0,
+          "against": 4
+        },
+        "xg": {
+          "for": 0.86,
+          "against": 1.35
+        },
+        "shots": {
+          "for": 15,
+          "against": 13
+        },
+        "shots_on_target": {
+          "for": 7,
+          "against": 6
+        },
+        "red_cards": {
+          "for": 0,
+          "against": 0
+        },
+        "goals_minus_xg": {
+          "for": -0.86,
+          "against": 2.65
+        },
+        "narrative_summary": "West Glamorgan City lost to Wearside 0-4 away, and reports would likely say they played a fairly even contest with both sides having spells. The result felt representative, and West Glamorgan City turned their chances into a scoreline that broadly matched the chances created.",
+        "statistical_assessment": {
+          "label": "TBC",
+          "confidence": "TBC",
+          "primary_evidence": [
+            "TBC",
+            "TBC"
+          ],
+          "narrative_alignment": "TBC"
+        }
+      },
+      {
+        "match_id": "2025-11-23_north_london_red",
+        "date": "2025-11-23",
+        "competition": "Premier League",
+        "home_away": "home",
+        "opponent": {
+          "name": "North London Red",
+          "primary_domestic_competition": "Premier League",
+          "ppg_at_time": 1.32,
+          "league_position_at_time": 13,
+          "strength_tier": 3
+        },
+        "score": {
+          "for": 0,
+          "against": 0
+        },
+        "xg": {
+          "for": 1.87,
+          "against": 0.7
+        },
+        "shots": {
+          "for": 17,
+          "against": 7
+        },
+        "shots_on_target": {
+          "for": 7,
+          "against": 2
+        },
+        "red_cards": {
+          "for": 0,
+          "against": 0
+        },
+        "goals_minus_xg": {
+          "for": -1.87,
+          "against": -0.7
+        },
+        "narrative_summary": "West Glamorgan City drew North London Red 0-0 at home, and reports would likely say they created the clearer chances and were on top for long spells. Notably, a late goal swung the momentum. The result did not fully reflect the balance of play, and West Glamorgan City could have scored more, but wasteful finishing left them short.",
+        "statistical_assessment": {
+          "label": "TBC",
+          "confidence": "TBC",
+          "primary_evidence": [
+            "TBC",
+            "TBC"
+          ],
+          "narrative_alignment": "TBC"
+        }
+      }
+    ]
+  }
+}

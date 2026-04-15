@@ -1,0 +1,110 @@
+## Context
+
+This file provides description and context for each data point found in sample_json_structure.
+
+## entity — Info on team
+
+| Field | Description | Reason to include |
+|------|------------|------------------|
+| team_id | Internal ID |  |
+| team_name | Display name of the team | Model knows what team it is generating about |
+| primary_domestic_competition | League the team normally plays in | Context + grounds relative strength in cup matches |
+
+## entity — Info on team
+
+| Field | Description | Reason to include |
+|------|------------|------------------|
+| team_id | Internal ID |  |
+| team_name | Display name of the team | Model knows what team it is generating about |
+| primary_domestic_competition | League the team normally plays in | Context + grounds relative strength in cup matches |
+
+## upcoming_event — Details on next match for model context
+
+| Field | Description | Reason to include |
+|------|------------|------------------|
+| upcoming_event.date | when the match is | Context vs previous matches (eg after big break) |
+| upcoming_event.competition | Competition of upcoming match | Context most important for cups/if opposition are in same league |
+| upcoming_event.opponent | Name of upcoming opponent | Context for output writing |
+| upcoming_event.home_away | Home or away | Signals relevance of home/away form |
+
+## season_context — Season-wide baseline and league benchmarks
+
+| Field | Description | Reason to include |
+|------|------------|------------------|
+| competition | What competition the contextual data is for |  |
+| matches_played | how many games played by team |  |
+| points | how many points for team | Context for output writing |
+| ppg | points per game: PPG = total_points / matches_played | Signals relevance of home/away form |
+| goals_for_per_game | goals divided by matches<br>goals_for_per_game = goals / matches_played |  |
+| goals_against_per_game | goals_against_per_game = goals / matches_played |  |
+| league_goals_for_per_game_avg | total league goals divided by matches | defines avg goals per game — and therefore if a team’s goals count = high/low |
+| league_ppg_average | Mean PPG across league |  |
+| league_ppg_p25 | Upper quartile of PPG across league | Legacy league benchmark still useful for context |
+| league_ppg_p75 | Lower quartile of PPG across league | Legacy league benchmark still useful for context |
+
+## form_window — Rollup across form window (5 or 10 matches)
+
+| Field | Description | Reason to include |
+|------|------------|------------------|
+| window_size | Number of matches included (5 or 10) |  |
+| competitions_included | Count of different competitions | Clarifies context of form |
+| rollup.record | Results summary (W/D/L) | Rollup of W/D/L |
+| rollup.goals_for | Total goals scored over window |  |
+| rollup.goals_against | Total goals conceded over window |  |
+| rollup.goals_for_per_game | Average goals per game in window | So LLM doesn’t have to calculate |
+| rollup.goals_against_per_game | Average goals against per game in window | So LLM doesn’t have to calculate |
+| rollup.xg_for | Total expected goals created | Performance quality signal |
+| rollup.xg_against | Total expected goals conceded | Defensive performance signal |
+| rollup.xg_for_per_game | Average xG per game in window | So LLM doesn’t have to calculate |
+| rollup.xg_against_per_game | Average xG against per game in window | So LLM doesn’t have to calculate |
+| goals_minus_xg_for | Goals scored minus xG | Measures finishing over/underperformance |
+| goals_minus_xg_against | Goals conceded minus xG conceded | Measures defensive variance / keeper effect |
+| opponent_strength_counts | Count of teams by shaped strength tier (`1` to `5`) | So LLM doesn’t have to calculate |
+
+## recent_matches — Match-level breakdown per game
+
+| Field | Description | Reason to include |
+|------|------------|------------------|
+| match_id | Unique match identifier | Traceability |
+| date | Event date |  |
+| competition | Competition of the match | Contextual relevance |
+| home_away | Home or away | Explains performance variance at home vs away |
+
+## opponent — Opposition strength context
+
+| Field | Description | Reason to include |
+|------|------------|------------------|
+| opponent.name | Opponent team name | Narrative clarity |
+| opponent.primary_domestic_competition | Opponent’s usual domestic league | Identifies cross-league strength in cups |
+| opponent.ppg_at_time | Opponent PPG before the match | Stable strength signal (use current PPG for prototype) |
+| opponent.league_position_at_time | League position at time of match | Secondary context only |
+| opponent.strength_tier | Shaped tier from `1` to `5` | `1` easiest opposition, `5` hardest; extremes intentionally rare |
+
+## opponent.strength_tier — Calculation
+
+Use a shaped 5-tier scale:
+
+- Tier `5` = top 10% of opponent PPG values
+- Tier `4` = next 25%
+- Tier `3` = middle 30%
+- Tier `2` = next 25%
+- Tier `1` = bottom 10%
+
+This keeps tiers `1` and `5` deliberately rare while preserving a broad middle.
+
+## match_performance — How well the team played
+
+| Field | Description | Reason to include |
+|------|------------|------------------|
+| score.for / score.against | Final score | Outcome anchor |
+| xg.for / xg.against | Expected goals | Core performance metric |
+| shots.for / shots.against | Total shots | Intuitive pressure indicator |
+| shots_on_target.for / against | Shots on target | Intuitive pressure indicator |
+| red_cards | Red cards for/against | Explains anomalies |
+| goals_minus_xg | Goals vs xG delta | Match-level luck / variance |
+
+## narrative — Match narrative
+
+| Field | Description | Reason to include |
+|------|------------|------------------|
+| narrative_summary | Concise description from reports | Captures popular perception & context to anchor how the match went |
