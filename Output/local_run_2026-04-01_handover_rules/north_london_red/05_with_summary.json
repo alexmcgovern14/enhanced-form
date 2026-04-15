@@ -52,9 +52,9 @@
         "5": 1
       },
       "summaries": {
-        "home_text": "North London Red's home form (last five home matches) reads 3W-2D-0L, with 9 scored and 3 conceded. In chance quality they generated 7.87 xG and allowed 4.74 xG, overperforming xG and conceding fewer than xG.",
-        "away_text": "North London Red's away form (last five away matches) reads 2W-2D-1L, with 7 scored and 5 conceded. In chance quality they generated 3.81 xG and allowed 7.31 xG, overperforming xG and conceding fewer than xG.",
-        "combined_recent_5_text": "North London Red's last five matches (home+away) reads 2W-3D-0L, with 8 scored and 5 conceded. In chance quality they generated 7.09 xG and allowed 5.51 xG, finishing near xG and conceding near xG."
+        "home_text": "North London Red are in <b>strong home form with an unbeaten 3W-2D record</b>, showing <b>clinical finishing by overperforming their xG</b> and a <b>solid defense conceding fewer chances than expected</b>. Their only slight caveat is a <b>lucky win against Norfolk City</b> where they were second best but capitalized well on chances.",
+        "away_text": "North London Red are in <b>solid away form with 2 wins, 2 draws, and 1 loss</b>, showing <b>clinical finishing by scoring well above their xG</b> and conceding fewer goals than expected. Their only defeat was a <b>deserved loss</b> against Pompy, while their wins and draws generally reflected the balance of play against <b>mostly strong opposition</b>.",
+        "combined_recent_5_text": "North London Red are in <b>solid recent form with 2 wins and 3 draws unbeaten</b>, showing <b>finishing and defensive efficiency close to their xG</b> across a varied set of opponents. Their only notable caveat is an <b>unfair draw at home while down to ten men</b>, but overall their results fairly reflect their performances."
       }
     },
     "recent_matches": [
@@ -845,9 +845,9 @@
         }
       },
       "summary": {
-        "home_text": "North London Red's home form (last five home matches) reads 3W-2D-0L, with 9 scored and 3 conceded. In chance quality they generated 7.87 xG and allowed 4.74 xG, overperforming xG and conceding fewer than xG.",
-        "away_text": "North London Red's away form (last five away matches) reads 2W-2D-1L, with 7 scored and 5 conceded. In chance quality they generated 3.81 xG and allowed 7.31 xG, overperforming xG and conceding fewer than xG.",
-        "combined_recent_5_text": "North London Red's last five matches (home+away) reads 2W-3D-0L, with 8 scored and 5 conceded. In chance quality they generated 7.09 xG and allowed 5.51 xG, finishing near xG and conceding near xG."
+        "home_text": "North London Red are in <b>strong home form with an unbeaten 3W-2D record</b>, showing <b>clinical finishing by overperforming their xG</b> and a <b>solid defense conceding fewer chances than expected</b>. Their only slight caveat is a <b>lucky win against Norfolk City</b> where they were second best but capitalized well on chances.",
+        "away_text": "North London Red are in <b>solid away form with 2 wins, 2 draws, and 1 loss</b>, showing <b>clinical finishing by scoring well above their xG</b> and conceding fewer goals than expected. Their only defeat was a <b>deserved loss</b> against Pompy, while their wins and draws generally reflected the balance of play against <b>mostly strong opposition</b>.",
+        "combined_recent_5_text": "North London Red are in <b>solid recent form with 2 wins and 3 draws unbeaten</b>, showing <b>finishing and defensive efficiency close to their xG</b> across a varied set of opponents. Their only notable caveat is an <b>unfair draw at home while down to ten men</b>, but overall their results fairly reflect their performances."
       }
     }
   }

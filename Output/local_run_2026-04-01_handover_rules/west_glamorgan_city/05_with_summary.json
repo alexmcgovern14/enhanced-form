@@ -52,9 +52,9 @@
         "5": 0
       },
       "summaries": {
-        "home_text": "West Glamorgan City's home form (last five home matches) reads 2W-3D-0L, with 6 scored and 3 conceded. In chance quality they generated 8.39 xG and allowed 4.03 xG, underperforming xG and conceding fewer than xG.",
-        "away_text": "West Glamorgan City's away form (last five away matches) reads 1W-2D-2L, with 3 scored and 8 conceded. In chance quality they generated 5.98 xG and allowed 7.32 xG, underperforming xG and conceding near xG.",
-        "combined_recent_5_text": "West Glamorgan City's last five matches (home+away) reads 3W-2D-0L, with 9 scored and 5 conceded. In chance quality they generated 7.57 xG and allowed 5.92 xG, overperforming xG and conceding near xG."
+        "home_text": "West Glamorgan City are in <b>solid home form with 2 wins and 3 draws unbeaten</b>, showing <b>strong defensive efficiency by conceding fewer than expected</b>. However, their <b>finishing has underperformed xG</b>, with several draws feeling harsh due to wasteful finishing despite creating good chances against mostly mid-tier opposition.",
+        "away_text": "West Glamorgan City have shown <b>mixed away form with 1 win, 2 draws, and 2 losses</b>, underperforming their expected goals by nearly 3 scored while conceding close to their xG. Their <b>only away win was deserved</b>, but overall they have been <b>wasteful in attack and defensively vulnerable</b> in recent matches.",
+        "combined_recent_5_text": "West Glamorgan City are in <b>strong recent form with 3 wins and 2 draws unbeaten</b>, showing <b>clinical finishing that outperforms their xG</b> across mostly mid-to-high tier opposition. Their only caveat is a couple of <b>fair draws marked by missed chances</b>, but overall their results well reflect solid performances."
       }
     },
     "recent_matches": [
@@ -845,9 +845,9 @@
         }
       },
       "summary": {
-        "home_text": "West Glamorgan City's home form (last five home matches) reads 2W-3D-0L, with 6 scored and 3 conceded. In chance quality they generated 8.39 xG and allowed 4.03 xG, underperforming xG and conceding fewer than xG.",
-        "away_text": "West Glamorgan City's away form (last five away matches) reads 1W-2D-2L, with 3 scored and 8 conceded. In chance quality they generated 5.98 xG and allowed 7.32 xG, underperforming xG and conceding near xG.",
-        "combined_recent_5_text": "West Glamorgan City's last five matches (home+away) reads 3W-2D-0L, with 9 scored and 5 conceded. In chance quality they generated 7.57 xG and allowed 5.92 xG, overperforming xG and conceding near xG."
+        "home_text": "West Glamorgan City are in <b>solid home form with 2 wins and 3 draws unbeaten</b>, showing <b>strong defensive efficiency by conceding fewer than expected</b>. However, their <b>finishing has underperformed xG</b>, with several draws feeling harsh due to wasteful finishing despite creating good chances against mostly mid-tier opposition.",
+        "away_text": "West Glamorgan City have shown <b>mixed away form with 1 win, 2 draws, and 2 losses</b>, underperforming their expected goals by nearly 3 scored while conceding close to their xG. Their <b>only away win was deserved</b>, but overall they have been <b>wasteful in attack and defensively vulnerable</b> in recent matches.",
+        "combined_recent_5_text": "West Glamorgan City are in <b>strong recent form with 3 wins and 2 draws unbeaten</b>, showing <b>clinical finishing that outperforms their xG</b> across mostly mid-to-high tier opposition. Their only caveat is a couple of <b>fair draws marked by missed chances</b>, but overall their results well reflect solid performances."
       }
     }
   }
