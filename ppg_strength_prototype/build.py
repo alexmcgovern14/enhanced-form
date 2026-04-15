@@ -380,7 +380,7 @@ def render_form_block(team, matches):
 
 def render_fixtures_block(team, payload):
     rows = []
-    strength_counts = {1: 0, 2: 0}
+    strength_counts = {1: 0, 5: 0}
     for fixture in payload["fixtures"]:
         strength = fixture.get("opponent_strength")
         color = COLOR_SCALE.get(strength, "#bdbdbd")
@@ -395,7 +395,7 @@ def render_fixtures_block(team, payload):
             "</tr>"
         )
     avg_display = "?" if payload["avg_strength"] is None else f"{payload['avg_strength']:.2f}"
-    counts_display = f"<strong>1s: {strength_counts[1]}</strong> · 2s: {strength_counts[2]}"
+    counts_display = f"<strong>1s: {strength_counts[1]}</strong> · 5s: {strength_counts[5]}"
     return (
         f"<div class=\"card\">"
         f"<div class=\"card-title\">{team} fixtures</div>"

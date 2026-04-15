@@ -1,6 +1,6 @@
 {
   "Arsenal": {
-    "avg_strength": 2.62,
+    "avg_strength": 2.54,
     "fixtures": [
       {
         "opponent": "Brentford",
@@ -69,7 +69,7 @@
         "opponent": "Fulham",
         "venue": "home",
         "date": "02 May",
-        "opponent_strength": 3,
+        "opponent_strength": 2,
         "opponent_venue_context_used": "away"
       },
       {
@@ -96,7 +96,7 @@
     ]
   },
   "Chelsea": {
-    "avg_strength": 3.23,
+    "avg_strength": 3.08,
     "fixtures": [
       {
         "opponent": "Leeds United",
@@ -137,7 +137,7 @@
         "opponent": "Everton",
         "venue": "away",
         "date": "21 Mar",
-        "opponent_strength": 3,
+        "opponent_strength": 2,
         "opponent_venue_context_used": "home"
       },
       {
@@ -179,7 +179,7 @@
         "opponent": "Tottenham Hotspur",
         "venue": "home",
         "date": "17 May",
-        "opponent_strength": 2,
+        "opponent_strength": 1,
         "opponent_venue_context_used": "away"
       },
       {
@@ -192,13 +192,13 @@
     ]
   },
   "Manchester City": {
-    "avg_strength": 3.0,
+    "avg_strength": 2.77,
     "fixtures": [
       {
         "opponent": "Fulham",
         "venue": "home",
         "date": "11 Feb",
-        "opponent_strength": 3,
+        "opponent_strength": 2,
         "opponent_venue_context_used": "away"
       },
       {
@@ -212,7 +212,7 @@
         "opponent": "Leeds United",
         "venue": "away",
         "date": "28 Feb",
-        "opponent_strength": 4,
+        "opponent_strength": 3,
         "opponent_venue_context_used": "home"
       },
       {
@@ -261,7 +261,7 @@
         "opponent": "Everton",
         "venue": "away",
         "date": "02 May",
-        "opponent_strength": 3,
+        "opponent_strength": 2,
         "opponent_venue_context_used": "home"
       },
       {
@@ -288,7 +288,7 @@
     ]
   },
   "Newcastle United": {
-    "avg_strength": 2.92,
+    "avg_strength": 3.08,
     "fixtures": [
       {
         "opponent": "Tottenham Hotspur",
@@ -329,7 +329,7 @@
         "opponent": "Sunderland",
         "venue": "home",
         "date": "22 Mar",
-        "opponent_strength": 1,
+        "opponent_strength": 2,
         "opponent_venue_context_used": "away"
       },
       {
@@ -378,13 +378,13 @@
         "opponent": "Fulham",
         "venue": "away",
         "date": "24 May",
-        "opponent_strength": 3,
+        "opponent_strength": 4,
         "opponent_venue_context_used": "home"
       }
     ]
   },
   "Tottenham Hotspur": {
-    "avg_strength": 3.38,
+    "avg_strength": 3.46,
     "fixtures": [
       {
         "opponent": "Newcastle United",
@@ -404,7 +404,7 @@
         "opponent": "Fulham",
         "venue": "away",
         "date": "01 Mar",
-        "opponent_strength": 3,
+        "opponent_strength": 4,
         "opponent_venue_context_used": "home"
       },
       {

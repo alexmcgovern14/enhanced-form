@@ -13,7 +13,7 @@
       "venue": "away",
       "score_for": 1,
       "score_against": 1,
-      "opponent_strength": 4,
+      "opponent_strength": 3,
       "opponent_venue_context_used": "home"
     },
     {
@@ -53,7 +53,7 @@
       "venue": "home",
       "score_for": 2,
       "score_against": 1,
-      "opponent_strength": 2,
+      "opponent_strength": 3,
       "opponent_venue_context_used": "away"
     },
     {
@@ -61,7 +61,7 @@
       "venue": "home",
       "score_for": 4,
       "score_against": 1,
-      "opponent_strength": 4,
+      "opponent_strength": 3,
       "opponent_venue_context_used": "away"
     },
     {
@@ -85,7 +85,7 @@
       "venue": "away",
       "score_for": 0,
       "score_against": 0,
-      "opponent_strength": 3,
+      "opponent_strength": 2,
       "opponent_venue_context_used": "home"
     },
     {
@@ -101,7 +101,7 @@
       "venue": "away",
       "score_for": 4,
       "score_against": 0,
-      "opponent_strength": 4,
+      "opponent_strength": 3,
       "opponent_venue_context_used": "home"
     },
     {
@@ -135,7 +135,7 @@
       "venue": "away",
       "score_for": 0,
       "score_against": 2,
-      "opponent_strength": 2,
+      "opponent_strength": 1,
       "opponent_venue_context_used": "home"
     },
     {
@@ -143,7 +143,7 @@
       "venue": "home",
       "score_for": 1,
       "score_against": 1,
-      "opponent_strength": 1,
+      "opponent_strength": 2,
       "opponent_venue_context_used": "away"
     },
     {
@@ -151,7 +151,7 @@
       "venue": "away",
       "score_for": 2,
       "score_against": 0,
-      "opponent_strength": 1,
+      "opponent_strength": 2,
       "opponent_venue_context_used": "home"
     },
     {
@@ -159,7 +159,7 @@
       "venue": "home",
       "score_for": 4,
       "score_against": 1,
-      "opponent_strength": 2,
+      "opponent_strength": 3,
       "opponent_venue_context_used": "away"
     },
     {
@@ -191,7 +191,7 @@
       "venue": "away",
       "score_for": 0,
       "score_against": 2,
-      "opponent_strength": 4,
+      "opponent_strength": 3,
       "opponent_venue_context_used": "home"
     },
     {
@@ -199,7 +199,7 @@
       "venue": "home",
       "score_for": 0,
       "score_against": 2,
-      "opponent_strength": 3,
+      "opponent_strength": 2,
       "opponent_venue_context_used": "away"
     },
     {
@@ -225,7 +225,7 @@
       "venue": "home",
       "score_for": 4,
       "score_against": 3,
-      "opponent_strength": 1,
+      "opponent_strength": 2,
       "opponent_venue_context_used": "away"
     },
     {
@@ -233,7 +233,7 @@
       "venue": "away",
       "score_for": 0,
       "score_against": 0,
-      "opponent_strength": 1,
+      "opponent_strength": 2,
       "opponent_venue_context_used": "home"
     },
     {
@@ -241,7 +241,7 @@
       "venue": "home",
       "score_for": 0,
       "score_against": 2,
-      "opponent_strength": 4,
+      "opponent_strength": 3,
       "opponent_venue_context_used": "away"
     },
     {
@@ -275,7 +275,7 @@
       "venue": "home",
       "score_for": 1,
       "score_against": 2,
-      "opponent_strength": 3,
+      "opponent_strength": 2,
       "opponent_venue_context_used": "away"
     },
     {
@@ -283,7 +283,7 @@
       "venue": "away",
       "score_for": 2,
       "score_against": 2,
-      "opponent_strength": 2,
+      "opponent_strength": 1,
       "opponent_venue_context_used": "home"
     },
     {
@@ -291,7 +291,7 @@
       "venue": "home",
       "score_for": 2,
       "score_against": 2,
-      "opponent_strength": 3,
+      "opponent_strength": 4,
       "opponent_venue_context_used": "away"
     },
     {
@@ -299,7 +299,7 @@
       "venue": "away",
       "score_for": 0,
       "score_against": 2,
-      "opponent_strength": 4,
+      "opponent_strength": 5,
       "opponent_venue_context_used": "home"
     }
   ]

@@ -6,1433 +6,321 @@
           {
             "team": "Arsenal",
             "venue": "home",
-            "matches": 13,
-            "points": 32,
-            "ppg": 2.462,
+            "matches": 16,
+            "points": 38,
+            "ppg": 2.375,
             "strength": 5
           },
           {
             "team": "Manchester City",
             "venue": "home",
-            "matches": 12,
-            "points": 29,
-            "ppg": 2.417,
+            "matches": 15,
+            "points": 36,
+            "ppg": 2.4,
             "strength": 5
           },
           {
             "team": "Manchester United",
             "venue": "home",
-            "matches": 13,
-            "points": 27,
-            "ppg": 2.077,
-            "strength": 5
-          },
-          {
-            "team": "Sunderland",
-            "venue": "home",
-            "matches": 12,
-            "points": 26,
-            "ppg": 2.167,
+            "matches": 16,
+            "points": 33,
+            "ppg": 2.062,
             "strength": 5
           },
           {
             "team": "Aston Villa",
             "venue": "home",
-            "matches": 12,
-            "points": 25,
-            "ppg": 2.083,
-            "strength": 5
-          },
-          {
-            "team": "Brentford",
-            "venue": "home",
-            "matches": 12,
-            "points": 24,
+            "matches": 16,
+            "points": 32,
             "ppg": 2.0,
             "strength": 5
           },
           {
             "team": "Liverpool",
             "venue": "home",
-            "matches": 13,
-            "points": 24,
-            "ppg": 1.846,
+            "matches": 16,
+            "points": 31,
+            "ppg": 1.938,
+            "strength": 5
+          },
+          {
+            "team": "Sunderland",
+            "venue": "home",
+            "matches": 16,
+            "points": 29,
+            "ppg": 1.812,
             "strength": 5
           },
           {
             "team": "Fulham",
             "venue": "home",
-            "matches": 13,
-            "points": 23,
-            "ppg": 1.769,
+            "matches": 16,
+            "points": 29,
+            "ppg": 1.812,
+            "strength": 5
+          },
+          {
+            "team": "Brentford",
+            "venue": "home",
+            "matches": 16,
+            "points": 27,
+            "ppg": 1.688,
+            "strength": 4
+          },
+          {
+            "team": "Brighton",
+            "venue": "home",
+            "matches": 16,
+            "points": 27,
+            "ppg": 1.688,
             "strength": 4
           },
           {
             "team": "AFC Bournemouth",
             "venue": "home",
-            "matches": 13,
-            "points": 23,
-            "ppg": 1.769,
+            "matches": 16,
+            "points": 26,
+            "ppg": 1.625,
             "strength": 4
           },
           {
             "team": "Newcastle United",
             "venue": "home",
-            "matches": 13,
-            "points": 23,
-            "ppg": 1.769,
-            "strength": 4
-          },
-          {
-            "team": "Leeds United",
-            "venue": "home",
-            "matches": 13,
-            "points": 22,
-            "ppg": 1.692,
+            "matches": 16,
+            "points": 26,
+            "ppg": 1.625,
             "strength": 4
           },
           {
             "team": "Chelsea",
             "venue": "home",
-            "matches": 12,
-            "points": 21,
+            "matches": 16,
+            "points": 23,
+            "ppg": 1.438,
+            "strength": 3
+          },
+          {
+            "team": "Leeds United",
+            "venue": "home",
+            "matches": 16,
+            "points": 23,
+            "ppg": 1.438,
+            "strength": 3
+          },
+          {
+            "team": "Everton",
+            "venue": "home",
+            "matches": 16,
+            "points": 22,
+            "ppg": 1.375,
+            "strength": 3
+          },
+          {
+            "team": "Crystal Palace",
+            "venue": "home",
+            "matches": 16,
+            "points": 19,
+            "ppg": 1.188,
+            "strength": 2
+          },
+          {
+            "team": "West Ham United",
+            "venue": "home",
+            "matches": 16,
+            "points": 16,
+            "ppg": 1.0,
+            "strength": 2
+          },
+          {
+            "team": "Nottingham Forest",
+            "venue": "home",
+            "matches": 16,
+            "points": 15,
+            "ppg": 0.938,
+            "strength": 1
+          },
+          {
+            "team": "Wolves",
+            "venue": "home",
+            "matches": 16,
+            "points": 12,
+            "ppg": 0.75,
+            "strength": 1
+          },
+          {
+            "team": "Burnley",
+            "venue": "home",
+            "matches": 16,
+            "points": 11,
+            "ppg": 0.688,
+            "strength": 1
+          },
+          {
+            "team": "Tottenham Hotspur",
+            "venue": "home",
+            "matches": 16,
+            "points": 10,
+            "ppg": 0.625,
+            "strength": 1
+          },
+          {
+            "team": "Arsenal",
+            "venue": "away",
+            "matches": 16,
+            "points": 32,
+            "ppg": 2.0,
+            "strength": 5
+          },
+          {
+            "team": "Manchester City",
+            "venue": "away",
+            "matches": 16,
+            "points": 28,
             "ppg": 1.75,
             "strength": 4
           },
           {
-            "team": "Brighton",
-            "venue": "home",
-            "matches": 13,
-            "points": 21,
-            "ppg": 1.615,
+            "team": "Chelsea",
+            "venue": "away",
+            "matches": 16,
+            "points": 25,
+            "ppg": 1.562,
             "strength": 4
           },
           {
             "team": "Everton",
-            "venue": "home",
-            "matches": 12,
-            "points": 16,
-            "ppg": 1.333,
-            "strength": 3
+            "venue": "away",
+            "matches": 16,
+            "points": 25,
+            "ppg": 1.562,
+            "strength": 4
           },
           {
             "team": "Crystal Palace",
-            "venue": "home",
-            "matches": 12,
-            "points": 12,
-            "ppg": 1.0,
-            "strength": 2
-          },
-          {
-            "team": "Nottingham Forest",
-            "venue": "home",
-            "matches": 12,
-            "points": 12,
-            "ppg": 1.0,
-            "strength": 2
-          },
-          {
-            "team": "Tottenham Hotspur",
-            "venue": "home",
-            "matches": 12,
-            "points": 10,
-            "ppg": 0.833,
-            "strength": 2
-          },
-          {
-            "team": "Burnley",
-            "venue": "home",
-            "matches": 13,
-            "points": 10,
-            "ppg": 0.769,
-            "strength": 1
-          },
-          {
-            "team": "West Ham United",
-            "venue": "home",
-            "matches": 12,
-            "points": 10,
-            "ppg": 0.833,
-            "strength": 2
-          },
-          {
-            "team": "Wolves",
-            "venue": "home",
-            "matches": 13,
-            "points": 5,
-            "ppg": 0.385,
-            "strength": 1
-          },
-          {
-            "team": "Arsenal",
             "venue": "away",
-            "matches": 12,
-            "points": 24,
-            "ppg": 2.0,
-            "strength": 5
-          },
-          {
-            "team": "Chelsea",
-            "venue": "away",
-            "matches": 13,
-            "points": 22,
-            "ppg": 1.692,
+            "matches": 15,
+            "points": 23,
+            "ppg": 1.533,
             "strength": 4
           },
           {
             "team": "Aston Villa",
             "venue": "away",
-            "matches": 13,
-            "points": 22,
-            "ppg": 1.692,
-            "strength": 4
-          },
-          {
-            "team": "Manchester City",
-            "venue": "away",
-            "matches": 13,
-            "points": 21,
-            "ppg": 1.615,
-            "strength": 4
-          },
-          {
-            "team": "Everton",
-            "venue": "away",
-            "matches": 13,
-            "points": 21,
-            "ppg": 1.615,
-            "strength": 4
-          },
-          {
-            "team": "Crystal Palace",
-            "venue": "away",
-            "matches": 13,
-            "points": 20,
-            "ppg": 1.538,
-            "strength": 3
-          },
-          {
-            "team": "Tottenham Hotspur",
-            "venue": "away",
-            "matches": 13,
-            "points": 19,
-            "ppg": 1.462,
+            "matches": 16,
+            "points": 23,
+            "ppg": 1.438,
             "strength": 3
           },
           {
             "team": "Manchester United",
             "venue": "away",
-            "matches": 12,
-            "points": 17,
-            "ppg": 1.417,
+            "matches": 16,
+            "points": 22,
+            "ppg": 1.375,
             "strength": 3
           },
           {
             "team": "Liverpool",
             "venue": "away",
-            "matches": 12,
-            "points": 15,
+            "matches": 16,
+            "points": 21,
+            "ppg": 1.312,
+            "strength": 3
+          },
+          {
+            "team": "Tottenham Hotspur",
+            "venue": "away",
+            "matches": 16,
+            "points": 20,
             "ppg": 1.25,
             "strength": 3
           },
           {
             "team": "Brentford",
             "venue": "away",
-            "matches": 13,
+            "matches": 16,
+            "points": 20,
+            "ppg": 1.25,
+            "strength": 3
+          },
+          {
+            "team": "Brighton",
+            "venue": "away",
+            "matches": 16,
+            "points": 19,
+            "ppg": 1.188,
+            "strength": 2
+          },
+          {
+            "team": "AFC Bournemouth",
+            "venue": "away",
+            "matches": 16,
+            "points": 19,
+            "ppg": 1.188,
+            "strength": 2
+          },
+          {
+            "team": "Nottingham Forest",
+            "venue": "away",
+            "matches": 16,
+            "points": 18,
+            "ppg": 1.125,
+            "strength": 2
+          },
+          {
+            "team": "Sunderland",
+            "venue": "away",
+            "matches": 16,
+            "points": 17,
+            "ppg": 1.062,
+            "strength": 2
+          },
+          {
+            "team": "Newcastle United",
+            "venue": "away",
+            "matches": 16,
+            "points": 16,
+            "ppg": 1.0,
+            "strength": 2
+          },
+          {
+            "team": "West Ham United",
+            "venue": "away",
+            "matches": 16,
+            "points": 16,
+            "ppg": 1.0,
+            "strength": 2
+          },
+          {
+            "team": "Fulham",
+            "venue": "away",
+            "matches": 16,
             "points": 15,
-            "ppg": 1.154,
-            "strength": 3
+            "ppg": 0.938,
+            "strength": 1
           },
           {
-            "team": "Nottingham Forest",
+            "team": "Leeds United",
             "venue": "away",
-            "matches": 13,
-            "points": 14,
-            "ppg": 1.077,
-            "strength": 2
-          },
-          {
-            "team": "West Ham United",
-            "venue": "away",
-            "matches": 13,
+            "matches": 16,
             "points": 13,
-            "ppg": 1.0,
-            "strength": 2
-          },
-          {
-            "team": "Fulham",
-            "venue": "away",
-            "matches": 12,
-            "points": 11,
-            "ppg": 0.917,
-            "strength": 2
-          },
-          {
-            "team": "AFC Bournemouth",
-            "venue": "away",
-            "matches": 12,
-            "points": 11,
-            "ppg": 0.917,
-            "strength": 2
-          },
-          {
-            "team": "Brighton",
-            "venue": "away",
-            "matches": 12,
-            "points": 10,
-            "ppg": 0.833,
-            "strength": 2
-          },
-          {
-            "team": "Newcastle United",
-            "venue": "away",
-            "matches": 12,
-            "points": 10,
-            "ppg": 0.833,
-            "strength": 2
-          },
-          {
-            "team": "Sunderland",
-            "venue": "away",
-            "matches": 13,
-            "points": 10,
-            "ppg": 0.769,
-            "strength": 1
-          },
-          {
-            "team": "Leeds United",
-            "venue": "away",
-            "matches": 12,
-            "points": 7,
-            "ppg": 0.583,
-            "strength": 1
-          },
-          {
-            "team": "Burnley",
-            "venue": "away",
-            "matches": 12,
-            "points": 5,
-            "ppg": 0.417,
-            "strength": 1
-          },
-          {
-            "team": "Wolves",
-            "venue": "away",
-            "matches": 12,
-            "points": 3,
-            "ppg": 0.25,
-            "strength": 1
-          }
-        ],
-        "form": {
-          "Arsenal": [
-            {
-              "opponent": "Tottenham Hotspur",
-              "venue": "home",
-              "score_for": 4,
-              "score_against": 1,
-              "opponent_strength": 3,
-              "opponent_venue_context_used": "away"
-            },
-            {
-              "opponent": "Chelsea",
-              "venue": "away",
-              "score_for": 1,
-              "score_against": 1,
-              "opponent_strength": 4,
-              "opponent_venue_context_used": "home"
-            },
-            {
-              "opponent": "Brentford",
-              "venue": "home",
-              "score_for": 2,
-              "score_against": 0,
-              "opponent_strength": 3,
-              "opponent_venue_context_used": "away"
-            },
-            {
-              "opponent": "Aston Villa",
-              "venue": "away",
-              "score_for": 1,
-              "score_against": 2,
-              "opponent_strength": 5,
-              "opponent_venue_context_used": "home"
-            },
-            {
-              "opponent": "Wolves",
-              "venue": "home",
-              "score_for": 2,
-              "score_against": 1,
-              "opponent_strength": 1,
-              "opponent_venue_context_used": "away"
-            },
-            {
-              "opponent": "Everton",
-              "venue": "away",
-              "score_for": 1,
-              "score_against": 1,
-              "opponent_strength": 3,
-              "opponent_venue_context_used": "home"
-            },
-            {
-              "opponent": "Brighton",
-              "venue": "home",
-              "score_for": 2,
-              "score_against": 1,
-              "opponent_strength": 2,
-              "opponent_venue_context_used": "away"
-            },
-            {
-              "opponent": "Aston Villa",
-              "venue": "home",
-              "score_for": 4,
-              "score_against": 1,
-              "opponent_strength": 4,
-              "opponent_venue_context_used": "away"
-            },
-            {
-              "opponent": "AFC Bournemouth",
-              "venue": "away",
-              "score_for": 3,
-              "score_against": 2,
-              "opponent_strength": 4,
-              "opponent_venue_context_used": "home"
-            },
-            {
-              "opponent": "Liverpool",
-              "venue": "home",
-              "score_for": 0,
-              "score_against": 0,
-              "opponent_strength": 3,
-              "opponent_venue_context_used": "away"
-            },
-            {
-              "opponent": "Nottingham Forest",
-              "venue": "away",
-              "score_for": 0,
-              "score_against": 0,
-              "opponent_strength": 2,
-              "opponent_venue_context_used": "home"
-            },
-            {
-              "opponent": "Manchester United",
-              "venue": "home",
-              "score_for": 2,
-              "score_against": 3,
-              "opponent_strength": 3,
-              "opponent_venue_context_used": "away"
-            },
-            {
-              "opponent": "Leeds United",
-              "venue": "away",
-              "score_for": 4,
-              "score_against": 0,
-              "opponent_strength": 4,
-              "opponent_venue_context_used": "home"
-            },
-            {
-              "opponent": "Sunderland",
-              "venue": "home",
-              "score_for": 3,
-              "score_against": 0,
-              "opponent_strength": 1,
-              "opponent_venue_context_used": "away"
-            }
-          ],
-          "Brentford": [
-            {
-              "opponent": "Newcastle United",
-              "venue": "home",
-              "score_for": 3,
-              "score_against": 2,
-              "opponent_strength": 2,
-              "opponent_venue_context_used": "away"
-            },
-            {
-              "opponent": "Arsenal",
-              "venue": "away",
-              "score_for": 0,
-              "score_against": 2,
-              "opponent_strength": 5,
-              "opponent_venue_context_used": "home"
-            },
-            {
-              "opponent": "Tottenham Hotspur",
-              "venue": "away",
-              "score_for": 0,
-              "score_against": 2,
-              "opponent_strength": 2,
-              "opponent_venue_context_used": "home"
-            },
-            {
-              "opponent": "Leeds United",
-              "venue": "home",
-              "score_for": 1,
-              "score_against": 1,
-              "opponent_strength": 1,
-              "opponent_venue_context_used": "away"
-            },
-            {
-              "opponent": "Wolves",
-              "venue": "away",
-              "score_for": 2,
-              "score_against": 0,
-              "opponent_strength": 1,
-              "opponent_venue_context_used": "home"
-            },
-            {
-              "opponent": "AFC Bournemouth",
-              "venue": "home",
-              "score_for": 4,
-              "score_against": 1,
-              "opponent_strength": 2,
-              "opponent_venue_context_used": "away"
-            },
-            {
-              "opponent": "Tottenham Hotspur",
-              "venue": "home",
-              "score_for": 0,
-              "score_against": 0,
-              "opponent_strength": 3,
-              "opponent_venue_context_used": "away"
-            },
-            {
-              "opponent": "Everton",
-              "venue": "away",
-              "score_for": 4,
-              "score_against": 2,
-              "opponent_strength": 3,
-              "opponent_venue_context_used": "home"
-            },
-            {
-              "opponent": "Sunderland",
-              "venue": "home",
-              "score_for": 3,
-              "score_against": 0,
-              "opponent_strength": 1,
-              "opponent_venue_context_used": "away"
-            },
-            {
-              "opponent": "Chelsea",
-              "venue": "away",
-              "score_for": 0,
-              "score_against": 2,
-              "opponent_strength": 4,
-              "opponent_venue_context_used": "home"
-            },
-            {
-              "opponent": "Nottingham Forest",
-              "venue": "home",
-              "score_for": 0,
-              "score_against": 2,
-              "opponent_strength": 2,
-              "opponent_venue_context_used": "away"
-            },
-            {
-              "opponent": "Aston Villa",
-              "venue": "away",
-              "score_for": 1,
-              "score_against": 0,
-              "opponent_strength": 5,
-              "opponent_venue_context_used": "home"
-            },
-            {
-              "opponent": "Newcastle United",
-              "venue": "away",
-              "score_for": 3,
-              "score_against": 2,
-              "opponent_strength": 4,
-              "opponent_venue_context_used": "home"
-            }
-          ],
-          "Newcastle United": [
-            {
-              "opponent": "Leeds United",
-              "venue": "home",
-              "score_for": 4,
-              "score_against": 3,
-              "opponent_strength": 1,
-              "opponent_venue_context_used": "away"
-            },
-            {
-              "opponent": "Wolves",
-              "venue": "away",
-              "score_for": 0,
-              "score_against": 0,
-              "opponent_strength": 1,
-              "opponent_venue_context_used": "home"
-            },
-            {
-              "opponent": "Aston Villa",
-              "venue": "home",
-              "score_for": 0,
-              "score_against": 2,
-              "opponent_strength": 4,
-              "opponent_venue_context_used": "away"
-            },
-            {
-              "opponent": "Liverpool",
-              "venue": "away",
-              "score_for": 1,
-              "score_against": 4,
-              "opponent_strength": 5,
-              "opponent_venue_context_used": "home"
-            },
-            {
-              "opponent": "Brentford",
-              "venue": "home",
-              "score_for": 2,
-              "score_against": 3,
-              "opponent_strength": 3,
-              "opponent_venue_context_used": "away"
-            }
-          ],
-          "Tottenham Hotspur": [
-            {
-              "opponent": "AFC Bournemouth",
-              "venue": "away",
-              "score_for": 2,
-              "score_against": 3,
-              "opponent_strength": 4,
-              "opponent_venue_context_used": "home"
-            },
-            {
-              "opponent": "West Ham United",
-              "venue": "home",
-              "score_for": 1,
-              "score_against": 2,
-              "opponent_strength": 2,
-              "opponent_venue_context_used": "away"
-            },
-            {
-              "opponent": "Burnley",
-              "venue": "away",
-              "score_for": 2,
-              "score_against": 2,
-              "opponent_strength": 1,
-              "opponent_venue_context_used": "home"
-            },
-            {
-              "opponent": "Manchester City",
-              "venue": "home",
-              "score_for": 2,
-              "score_against": 2,
-              "opponent_strength": 4,
-              "opponent_venue_context_used": "away"
-            },
-            {
-              "opponent": "Manchester United",
-              "venue": "away",
-              "score_for": 0,
-              "score_against": 2,
-              "opponent_strength": 5,
-              "opponent_venue_context_used": "home"
-            }
-          ]
-        },
-        "fixtures": {
-          "Arsenal": {
-            "avg_strength": 2.77,
-            "fixtures": [
-              {
-                "opponent": "Brentford",
-                "venue": "away",
-                "date": "12 Feb",
-                "opponent_strength": 5,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Wolves",
-                "venue": "away",
-                "date": "18 Feb",
-                "opponent_strength": 1,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Tottenham Hotspur",
-                "venue": "away",
-                "date": "22 Feb",
-                "opponent_strength": 2,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Chelsea",
-                "venue": "home",
-                "date": "01 Mar",
-                "opponent_strength": 4,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Brighton",
-                "venue": "away",
-                "date": "08 Mar",
-                "opponent_strength": 4,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Everton",
-                "venue": "home",
-                "date": "15 Mar",
-                "opponent_strength": 4,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "AFC Bournemouth",
-                "venue": "home",
-                "date": "01 Apr",
-                "opponent_strength": 2,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Manchester City",
-                "venue": "away",
-                "date": "08 Apr",
-                "opponent_strength": 5,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Newcastle United",
-                "venue": "home",
-                "date": "25 Apr",
-                "opponent_strength": 2,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Fulham",
-                "venue": "home",
-                "date": "02 May",
-                "opponent_strength": 2,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "West Ham United",
-                "venue": "away",
-                "date": "08 May",
-                "opponent_strength": 2,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Burnley",
-                "venue": "home",
-                "date": "17 May",
-                "opponent_strength": 1,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Crystal Palace",
-                "venue": "away",
-                "date": "24 May",
-                "opponent_strength": 2,
-                "opponent_venue_context_used": "home"
-              }
-            ]
-          },
-          "Chelsea": {
-            "avg_strength": 3.31,
-            "fixtures": [
-              {
-                "opponent": "Leeds United",
-                "venue": "home",
-                "date": "13 Feb",
-                "opponent_strength": 1,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Burnley",
-                "venue": "home",
-                "date": "21 Feb",
-                "opponent_strength": 1,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Arsenal",
-                "venue": "away",
-                "date": "28 Feb",
-                "opponent_strength": 5,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Aston Villa",
-                "venue": "away",
-                "date": "04 Mar",
-                "opponent_strength": 5,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Newcastle United",
-                "venue": "home",
-                "date": "14 Mar",
-                "opponent_strength": 2,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Everton",
-                "venue": "away",
-                "date": "21 Mar",
-                "opponent_strength": 3,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Manchester City",
-                "venue": "home",
-                "date": "01 Apr",
-                "opponent_strength": 4,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Manchester United",
-                "venue": "home",
-                "date": "18 Apr",
-                "opponent_strength": 3,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Brighton",
-                "venue": "away",
-                "date": "25 Apr",
-                "opponent_strength": 4,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Nottingham Forest",
-                "venue": "home",
-                "date": "02 May",
-                "opponent_strength": 2,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Liverpool",
-                "venue": "away",
-                "date": "09 May",
-                "opponent_strength": 5,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Tottenham Hotspur",
-                "venue": "home",
-                "date": "17 May",
-                "opponent_strength": 3,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Sunderland",
-                "venue": "away",
-                "date": "24 May",
-                "opponent_strength": 5,
-                "opponent_venue_context_used": "home"
-              }
-            ]
-          },
-          "Manchester City": {
-            "avg_strength": 3.0,
-            "fixtures": [
-              {
-                "opponent": "Fulham",
-                "venue": "home",
-                "date": "11 Feb",
-                "opponent_strength": 2,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Newcastle United",
-                "venue": "home",
-                "date": "21 Feb",
-                "opponent_strength": 2,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Leeds United",
-                "venue": "away",
-                "date": "28 Feb",
-                "opponent_strength": 4,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Nottingham Forest",
-                "venue": "home",
-                "date": "04 Mar",
-                "opponent_strength": 2,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "West Ham United",
-                "venue": "away",
-                "date": "14 Mar",
-                "opponent_strength": 2,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Crystal Palace",
-                "venue": "home",
-                "date": "21 Mar",
-                "opponent_strength": 3,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Chelsea",
-                "venue": "away",
-                "date": "01 Apr",
-                "opponent_strength": 4,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Arsenal",
-                "venue": "home",
-                "date": "13 Apr",
-                "opponent_strength": 5,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Burnley",
-                "venue": "away",
-                "date": "25 Apr",
-                "opponent_strength": 1,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Everton",
-                "venue": "away",
-                "date": "02 May",
-                "opponent_strength": 3,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Brentford",
-                "venue": "home",
-                "date": "08 May",
-                "opponent_strength": 3,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "AFC Bournemouth",
-                "venue": "away",
-                "date": "17 May",
-                "opponent_strength": 4,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Aston Villa",
-                "venue": "home",
-                "date": "24 May",
-                "opponent_strength": 4,
-                "opponent_venue_context_used": "away"
-              }
-            ]
-          },
-          "Newcastle United": {
-            "avg_strength": 2.92,
-            "fixtures": [
-              {
-                "opponent": "Tottenham Hotspur",
-                "venue": "away",
-                "date": "14 Feb",
-                "opponent_strength": 2,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Manchester City",
-                "venue": "away",
-                "date": "21 Feb",
-                "opponent_strength": 5,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Everton",
-                "venue": "home",
-                "date": "28 Feb",
-                "opponent_strength": 4,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Manchester United",
-                "venue": "home",
-                "date": "04 Mar",
-                "opponent_strength": 3,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Chelsea",
-                "venue": "away",
-                "date": "14 Mar",
-                "opponent_strength": 4,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Sunderland",
-                "venue": "home",
-                "date": "22 Mar",
-                "opponent_strength": 1,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Crystal Palace",
-                "venue": "away",
-                "date": "11 Apr",
-                "opponent_strength": 2,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "AFC Bournemouth",
-                "venue": "home",
-                "date": "18 Apr",
-                "opponent_strength": 2,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Arsenal",
-                "venue": "away",
-                "date": "25 Apr",
-                "opponent_strength": 5,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Brighton",
-                "venue": "home",
-                "date": "02 May",
-                "opponent_strength": 2,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Nottingham Forest",
-                "venue": "away",
-                "date": "08 May",
-                "opponent_strength": 2,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "West Ham United",
-                "venue": "home",
-                "date": "17 May",
-                "opponent_strength": 2,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Fulham",
-                "venue": "away",
-                "date": "24 May",
-                "opponent_strength": 4,
-                "opponent_venue_context_used": "home"
-              }
-            ]
-          },
-          "Tottenham Hotspur": {
-            "avg_strength": 3.31,
-            "fixtures": [
-              {
-                "opponent": "Newcastle United",
-                "venue": "home",
-                "date": "14 Feb",
-                "opponent_strength": 2,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Arsenal",
-                "venue": "home",
-                "date": "22 Feb",
-                "opponent_strength": 5,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Fulham",
-                "venue": "away",
-                "date": "01 Mar",
-                "opponent_strength": 4,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Crystal Palace",
-                "venue": "home",
-                "date": "05 Mar",
-                "opponent_strength": 3,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Liverpool",
-                "venue": "away",
-                "date": "15 Mar",
-                "opponent_strength": 5,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Nottingham Forest",
-                "venue": "home",
-                "date": "22 Mar",
-                "opponent_strength": 2,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Sunderland",
-                "venue": "away",
-                "date": "11 Apr",
-                "opponent_strength": 5,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Brighton",
-                "venue": "home",
-                "date": "18 Apr",
-                "opponent_strength": 2,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Wolves",
-                "venue": "away",
-                "date": "25 Apr",
-                "opponent_strength": 1,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Aston Villa",
-                "venue": "away",
-                "date": "02 May",
-                "opponent_strength": 5,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Leeds United",
-                "venue": "home",
-                "date": "09 May",
-                "opponent_strength": 1,
-                "opponent_venue_context_used": "away"
-              },
-              {
-                "opponent": "Chelsea",
-                "venue": "away",
-                "date": "17 May",
-                "opponent_strength": 4,
-                "opponent_venue_context_used": "home"
-              },
-              {
-                "opponent": "Everton",
-                "venue": "home",
-                "date": "24 May",
-                "opponent_strength": 4,
-                "opponent_venue_context_used": "away"
-              }
-            ]
-          }
-        }
-      },
-      "combined": {
-        "ratings": [
-          {
-            "team": "Arsenal",
-            "venue": "home",
-            "matches": 32,
-            "points": 71,
-            "ppg": 2.219,
-            "strength": 5
-          },
-          {
-            "team": "Manchester City",
-            "venue": "home",
-            "matches": 31,
-            "points": 71,
-            "ppg": 2.29,
-            "strength": 5
-          },
-          {
-            "team": "Manchester United",
-            "venue": "home",
-            "matches": 32,
-            "points": 51,
-            "ppg": 1.594,
-            "strength": 4
-          },
-          {
-            "team": "Sunderland",
-            "venue": "home",
-            "matches": 12,
-            "points": 26,
-            "ppg": 2.167,
-            "strength": 5
-          },
-          {
-            "team": "Aston Villa",
-            "venue": "home",
-            "matches": 31,
-            "points": 65,
-            "ppg": 2.097,
-            "strength": 5
-          },
-          {
-            "team": "Brentford",
-            "venue": "home",
-            "matches": 31,
-            "points": 55,
-            "ppg": 1.774,
-            "strength": 4
-          },
-          {
-            "team": "Liverpool",
-            "venue": "home",
-            "matches": 32,
-            "points": 70,
-            "ppg": 2.188,
-            "strength": 5
-          },
-          {
-            "team": "Fulham",
-            "venue": "home",
-            "matches": 32,
-            "points": 49,
-            "ppg": 1.531,
-            "strength": 3
-          },
-          {
-            "team": "AFC Bournemouth",
-            "venue": "home",
-            "matches": 32,
-            "points": 51,
-            "ppg": 1.594,
-            "strength": 4
-          },
-          {
-            "team": "Newcastle United",
-            "venue": "home",
-            "matches": 32,
-            "points": 61,
-            "ppg": 1.906,
-            "strength": 5
-          },
-          {
-            "team": "Leeds United",
-            "venue": "home",
-            "matches": 13,
-            "points": 22,
-            "ppg": 1.692,
-            "strength": 4
-          },
-          {
-            "team": "Chelsea",
-            "venue": "home",
-            "matches": 31,
-            "points": 62,
-            "ppg": 2.0,
-            "strength": 5
-          },
-          {
-            "team": "Brighton",
-            "venue": "home",
-            "matches": 32,
-            "points": 53,
-            "ppg": 1.656,
-            "strength": 4
-          },
-          {
-            "team": "Everton",
-            "venue": "home",
-            "matches": 31,
-            "points": 40,
-            "ppg": 1.29,
-            "strength": 3
-          },
-          {
-            "team": "Crystal Palace",
-            "venue": "home",
-            "matches": 31,
-            "points": 37,
-            "ppg": 1.194,
-            "strength": 2
-          },
-          {
-            "team": "Nottingham Forest",
-            "venue": "home",
-            "matches": 31,
-            "points": 44,
-            "ppg": 1.419,
-            "strength": 3
-          },
-          {
-            "team": "Tottenham Hotspur",
-            "venue": "home",
-            "matches": 31,
-            "points": 31,
-            "ppg": 1.0,
-            "strength": 1
-          },
-          {
-            "team": "Burnley",
-            "venue": "home",
-            "matches": 13,
-            "points": 10,
-            "ppg": 0.769,
-            "strength": 1
-          },
-          {
-            "team": "West Ham United",
-            "venue": "home",
-            "matches": 31,
-            "points": 30,
-            "ppg": 0.968,
-            "strength": 1
-          },
-          {
-            "team": "Wolves",
-            "venue": "home",
-            "matches": 32,
-            "points": 26,
             "ppg": 0.812,
             "strength": 1
           },
           {
-            "team": "Arsenal",
-            "venue": "away",
-            "matches": 31,
-            "points": 59,
-            "ppg": 1.903,
-            "strength": 5
-          },
-          {
-            "team": "Chelsea",
-            "venue": "away",
-            "matches": 32,
-            "points": 50,
-            "ppg": 1.562,
-            "strength": 4
-          },
-          {
-            "team": "Aston Villa",
-            "venue": "away",
-            "matches": 32,
-            "points": 48,
-            "ppg": 1.5,
-            "strength": 3
-          },
-          {
-            "team": "Manchester City",
-            "venue": "away",
-            "matches": 32,
-            "points": 50,
-            "ppg": 1.562,
-            "strength": 4
-          },
-          {
-            "team": "Everton",
-            "venue": "away",
-            "matches": 32,
-            "points": 45,
-            "ppg": 1.406,
-            "strength": 3
-          },
-          {
-            "team": "Crystal Palace",
-            "venue": "away",
-            "matches": 32,
-            "points": 48,
-            "ppg": 1.5,
-            "strength": 3
-          },
-          {
-            "team": "Tottenham Hotspur",
-            "venue": "away",
-            "matches": 32,
-            "points": 36,
-            "ppg": 1.125,
-            "strength": 2
-          },
-          {
-            "team": "Manchester United",
-            "venue": "away",
-            "matches": 31,
-            "points": 35,
-            "ppg": 1.129,
-            "strength": 2
-          },
-          {
-            "team": "Liverpool",
-            "venue": "away",
-            "matches": 31,
-            "points": 53,
-            "ppg": 1.71,
-            "strength": 4
-          },
-          {
-            "team": "Brentford",
-            "venue": "away",
-            "matches": 32,
-            "points": 40,
-            "ppg": 1.25,
-            "strength": 2
-          },
-          {
-            "team": "Nottingham Forest",
-            "venue": "away",
-            "matches": 32,
-            "points": 47,
-            "ppg": 1.469,
-            "strength": 3
-          },
-          {
-            "team": "West Ham United",
-            "venue": "away",
-            "matches": 32,
-            "points": 36,
-            "ppg": 1.125,
-            "strength": 2
-          },
-          {
-            "team": "Fulham",
-            "venue": "away",
-            "matches": 31,
-            "points": 39,
-            "ppg": 1.258,
-            "strength": 3
-          },
-          {
-            "team": "AFC Bournemouth",
-            "venue": "away",
-            "matches": 31,
-            "points": 39,
-            "ppg": 1.258,
-            "strength": 3
-          },
-          {
-            "team": "Brighton",
-            "venue": "away",
-            "matches": 31,
-            "points": 39,
-            "ppg": 1.258,
-            "strength": 3
-          },
-          {
-            "team": "Newcastle United",
-            "venue": "away",
-            "matches": 31,
-            "points": 38,
-            "ppg": 1.226,
-            "strength": 2
-          },
-          {
-            "team": "Sunderland",
-            "venue": "away",
-            "matches": 13,
-            "points": 10,
-            "ppg": 0.769,
-            "strength": 1
-          },
-          {
-            "team": "Leeds United",
-            "venue": "away",
-            "matches": 12,
-            "points": 7,
-            "ppg": 0.583,
-            "strength": 1
-          },
-          {
             "team": "Burnley",
             "venue": "away",
-            "matches": 12,
-            "points": 5,
-            "ppg": 0.417,
+            "matches": 16,
+            "points": 9,
+            "ppg": 0.562,
             "strength": 1
           },
           {
             "team": "Wolves",
             "venue": "away",
-            "matches": 31,
-            "points": 24,
-            "ppg": 0.774,
+            "matches": 16,
+            "points": 5,
+            "ppg": 0.312,
             "strength": 1
           }
         ],
@@ -1443,7 +331,7 @@
               "venue": "home",
               "score_for": 4,
               "score_against": 1,
-              "opponent_strength": 2,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "away"
             },
             {
@@ -1451,7 +339,7 @@
               "venue": "away",
               "score_for": 1,
               "score_against": 1,
-              "opponent_strength": 5,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "home"
             },
             {
@@ -1459,7 +347,7 @@
               "venue": "home",
               "score_for": 2,
               "score_against": 0,
-              "opponent_strength": 2,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "away"
             },
             {
@@ -1491,7 +379,7 @@
               "venue": "home",
               "score_for": 2,
               "score_against": 1,
-              "opponent_strength": 3,
+              "opponent_strength": 2,
               "opponent_venue_context_used": "away"
             },
             {
@@ -1515,7 +403,7 @@
               "venue": "home",
               "score_for": 0,
               "score_against": 0,
-              "opponent_strength": 4,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "away"
             },
             {
@@ -1523,7 +411,7 @@
               "venue": "away",
               "score_for": 0,
               "score_against": 0,
-              "opponent_strength": 3,
+              "opponent_strength": 1,
               "opponent_venue_context_used": "home"
             },
             {
@@ -1531,7 +419,7 @@
               "venue": "home",
               "score_for": 2,
               "score_against": 3,
-              "opponent_strength": 2,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "away"
             },
             {
@@ -1539,7 +427,7 @@
               "venue": "away",
               "score_for": 4,
               "score_against": 0,
-              "opponent_strength": 4,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "home"
             },
             {
@@ -1547,7 +435,7 @@
               "venue": "home",
               "score_for": 3,
               "score_against": 0,
-              "opponent_strength": 1,
+              "opponent_strength": 2,
               "opponent_venue_context_used": "away"
             }
           ],
@@ -1597,7 +485,7 @@
               "venue": "home",
               "score_for": 4,
               "score_against": 1,
-              "opponent_strength": 3,
+              "opponent_strength": 2,
               "opponent_venue_context_used": "away"
             },
             {
@@ -1605,7 +493,7 @@
               "venue": "home",
               "score_for": 0,
               "score_against": 0,
-              "opponent_strength": 2,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "away"
             },
             {
@@ -1621,7 +509,7 @@
               "venue": "home",
               "score_for": 3,
               "score_against": 0,
-              "opponent_strength": 1,
+              "opponent_strength": 2,
               "opponent_venue_context_used": "away"
             },
             {
@@ -1629,7 +517,7 @@
               "venue": "away",
               "score_for": 0,
               "score_against": 2,
-              "opponent_strength": 5,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "home"
             },
             {
@@ -1637,7 +525,7 @@
               "venue": "home",
               "score_for": 0,
               "score_against": 2,
-              "opponent_strength": 3,
+              "opponent_strength": 2,
               "opponent_venue_context_used": "away"
             },
             {
@@ -1653,7 +541,7 @@
               "venue": "away",
               "score_for": 3,
               "score_against": 2,
-              "opponent_strength": 5,
+              "opponent_strength": 4,
               "opponent_venue_context_used": "home"
             }
           ],
@@ -1695,7 +583,7 @@
               "venue": "home",
               "score_for": 2,
               "score_against": 3,
-              "opponent_strength": 2,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "away"
             }
           ],
@@ -1737,14 +625,14 @@
               "venue": "away",
               "score_for": 0,
               "score_against": 2,
-              "opponent_strength": 4,
+              "opponent_strength": 5,
               "opponent_venue_context_used": "home"
             }
           ]
         },
         "fixtures": {
           "Arsenal": {
-            "avg_strength": 2.62,
+            "avg_strength": 2.54,
             "fixtures": [
               {
                 "opponent": "Brentford",
@@ -1785,14 +673,14 @@
                 "opponent": "Everton",
                 "venue": "home",
                 "date": "15 Mar",
-                "opponent_strength": 3,
+                "opponent_strength": 4,
                 "opponent_venue_context_used": "away"
               },
               {
                 "opponent": "AFC Bournemouth",
                 "venue": "home",
                 "date": "01 Apr",
-                "opponent_strength": 3,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -1813,14 +701,14 @@
                 "opponent": "Fulham",
                 "venue": "home",
                 "date": "02 May",
-                "opponent_strength": 3,
+                "opponent_strength": 1,
                 "opponent_venue_context_used": "away"
               },
               {
                 "opponent": "West Ham United",
                 "venue": "away",
                 "date": "08 May",
-                "opponent_strength": 1,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "home"
               },
               {
@@ -1840,7 +728,7 @@
             ]
           },
           "Chelsea": {
-            "avg_strength": 3.23,
+            "avg_strength": 3.31,
             "fixtures": [
               {
                 "opponent": "Leeds United",
@@ -1895,7 +783,7 @@
                 "opponent": "Manchester United",
                 "venue": "home",
                 "date": "18 Apr",
-                "opponent_strength": 2,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -1909,7 +797,7 @@
                 "opponent": "Nottingham Forest",
                 "venue": "home",
                 "date": "02 May",
-                "opponent_strength": 3,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -1923,7 +811,7 @@
                 "opponent": "Tottenham Hotspur",
                 "venue": "home",
                 "date": "17 May",
-                "opponent_strength": 2,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -1936,13 +824,13 @@
             ]
           },
           "Manchester City": {
-            "avg_strength": 3.0,
+            "avg_strength": 2.77,
             "fixtures": [
               {
                 "opponent": "Fulham",
                 "venue": "home",
                 "date": "11 Feb",
-                "opponent_strength": 3,
+                "opponent_strength": 1,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -1956,35 +844,35 @@
                 "opponent": "Leeds United",
                 "venue": "away",
                 "date": "28 Feb",
-                "opponent_strength": 4,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "home"
               },
               {
                 "opponent": "Nottingham Forest",
                 "venue": "home",
                 "date": "04 Mar",
-                "opponent_strength": 3,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "away"
               },
               {
                 "opponent": "West Ham United",
                 "venue": "away",
                 "date": "14 Mar",
-                "opponent_strength": 1,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "home"
               },
               {
                 "opponent": "Crystal Palace",
                 "venue": "home",
                 "date": "21 Mar",
-                "opponent_strength": 3,
+                "opponent_strength": 4,
                 "opponent_venue_context_used": "away"
               },
               {
                 "opponent": "Chelsea",
                 "venue": "away",
                 "date": "01 Apr",
-                "opponent_strength": 5,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "home"
               },
               {
@@ -2012,7 +900,7 @@
                 "opponent": "Brentford",
                 "venue": "home",
                 "date": "08 May",
-                "opponent_strength": 2,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -2032,7 +920,7 @@
             ]
           },
           "Newcastle United": {
-            "avg_strength": 2.92,
+            "avg_strength": 2.85,
             "fixtures": [
               {
                 "opponent": "Tottenham Hotspur",
@@ -2052,28 +940,28 @@
                 "opponent": "Everton",
                 "venue": "home",
                 "date": "28 Feb",
-                "opponent_strength": 3,
+                "opponent_strength": 4,
                 "opponent_venue_context_used": "away"
               },
               {
                 "opponent": "Manchester United",
                 "venue": "home",
                 "date": "04 Mar",
-                "opponent_strength": 2,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "away"
               },
               {
                 "opponent": "Chelsea",
                 "venue": "away",
                 "date": "14 Mar",
-                "opponent_strength": 5,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "home"
               },
               {
                 "opponent": "Sunderland",
                 "venue": "home",
                 "date": "22 Mar",
-                "opponent_strength": 1,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -2087,7 +975,7 @@
                 "opponent": "AFC Bournemouth",
                 "venue": "home",
                 "date": "18 Apr",
-                "opponent_strength": 3,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -2101,14 +989,14 @@
                 "opponent": "Brighton",
                 "venue": "home",
                 "date": "02 May",
-                "opponent_strength": 3,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "away"
               },
               {
                 "opponent": "Nottingham Forest",
                 "venue": "away",
                 "date": "08 May",
-                "opponent_strength": 3,
+                "opponent_strength": 1,
                 "opponent_venue_context_used": "home"
               },
               {
@@ -2122,7 +1010,7 @@
                 "opponent": "Fulham",
                 "venue": "away",
                 "date": "24 May",
-                "opponent_strength": 3,
+                "opponent_strength": 5,
                 "opponent_venue_context_used": "home"
               }
             ]
@@ -2148,7 +1036,1119 @@
                 "opponent": "Fulham",
                 "venue": "away",
                 "date": "01 Mar",
+                "opponent_strength": 5,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Crystal Palace",
+                "venue": "home",
+                "date": "05 Mar",
+                "opponent_strength": 4,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Liverpool",
+                "venue": "away",
+                "date": "15 Mar",
+                "opponent_strength": 5,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Nottingham Forest",
+                "venue": "home",
+                "date": "22 Mar",
+                "opponent_strength": 2,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Sunderland",
+                "venue": "away",
+                "date": "11 Apr",
+                "opponent_strength": 5,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Brighton",
+                "venue": "home",
+                "date": "18 Apr",
+                "opponent_strength": 2,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Wolves",
+                "venue": "away",
+                "date": "25 Apr",
+                "opponent_strength": 1,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Aston Villa",
+                "venue": "away",
+                "date": "02 May",
+                "opponent_strength": 5,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Leeds United",
+                "venue": "home",
+                "date": "09 May",
+                "opponent_strength": 1,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Chelsea",
+                "venue": "away",
+                "date": "17 May",
                 "opponent_strength": 3,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Everton",
+                "venue": "home",
+                "date": "24 May",
+                "opponent_strength": 4,
+                "opponent_venue_context_used": "away"
+              }
+            ]
+          }
+        }
+      },
+      "combined": {
+        "ratings": [
+          {
+            "team": "Arsenal",
+            "venue": "home",
+            "matches": 35,
+            "points": 77,
+            "ppg": 2.2,
+            "strength": 5
+          },
+          {
+            "team": "Manchester City",
+            "venue": "home",
+            "matches": 34,
+            "points": 78,
+            "ppg": 2.294,
+            "strength": 5
+          },
+          {
+            "team": "Manchester United",
+            "venue": "home",
+            "matches": 35,
+            "points": 57,
+            "ppg": 1.629,
+            "strength": 4
+          },
+          {
+            "team": "Aston Villa",
+            "venue": "home",
+            "matches": 35,
+            "points": 72,
+            "ppg": 2.057,
+            "strength": 5
+          },
+          {
+            "team": "Liverpool",
+            "venue": "home",
+            "matches": 35,
+            "points": 77,
+            "ppg": 2.2,
+            "strength": 5
+          },
+          {
+            "team": "Sunderland",
+            "venue": "home",
+            "matches": 16,
+            "points": 29,
+            "ppg": 1.812,
+            "strength": 5
+          },
+          {
+            "team": "Fulham",
+            "venue": "home",
+            "matches": 35,
+            "points": 55,
+            "ppg": 1.571,
+            "strength": 4
+          },
+          {
+            "team": "Brentford",
+            "venue": "home",
+            "matches": 35,
+            "points": 58,
+            "ppg": 1.657,
+            "strength": 4
+          },
+          {
+            "team": "Brighton",
+            "venue": "home",
+            "matches": 35,
+            "points": 59,
+            "ppg": 1.686,
+            "strength": 4
+          },
+          {
+            "team": "AFC Bournemouth",
+            "venue": "home",
+            "matches": 35,
+            "points": 54,
+            "ppg": 1.543,
+            "strength": 4
+          },
+          {
+            "team": "Newcastle United",
+            "venue": "home",
+            "matches": 35,
+            "points": 64,
+            "ppg": 1.829,
+            "strength": 5
+          },
+          {
+            "team": "Chelsea",
+            "venue": "home",
+            "matches": 35,
+            "points": 64,
+            "ppg": 1.829,
+            "strength": 5
+          },
+          {
+            "team": "Leeds United",
+            "venue": "home",
+            "matches": 16,
+            "points": 23,
+            "ppg": 1.438,
+            "strength": 3
+          },
+          {
+            "team": "Everton",
+            "venue": "home",
+            "matches": 35,
+            "points": 46,
+            "ppg": 1.314,
+            "strength": 2
+          },
+          {
+            "team": "Crystal Palace",
+            "venue": "home",
+            "matches": 35,
+            "points": 44,
+            "ppg": 1.257,
+            "strength": 2
+          },
+          {
+            "team": "West Ham United",
+            "venue": "home",
+            "matches": 35,
+            "points": 36,
+            "ppg": 1.029,
+            "strength": 1
+          },
+          {
+            "team": "Nottingham Forest",
+            "venue": "home",
+            "matches": 35,
+            "points": 47,
+            "ppg": 1.343,
+            "strength": 3
+          },
+          {
+            "team": "Wolves",
+            "venue": "home",
+            "matches": 35,
+            "points": 33,
+            "ppg": 0.943,
+            "strength": 1
+          },
+          {
+            "team": "Burnley",
+            "venue": "home",
+            "matches": 16,
+            "points": 11,
+            "ppg": 0.688,
+            "strength": 1
+          },
+          {
+            "team": "Tottenham Hotspur",
+            "venue": "home",
+            "matches": 35,
+            "points": 31,
+            "ppg": 0.886,
+            "strength": 1
+          },
+          {
+            "team": "Arsenal",
+            "venue": "away",
+            "matches": 35,
+            "points": 67,
+            "ppg": 1.914,
+            "strength": 5
+          },
+          {
+            "team": "Manchester City",
+            "venue": "away",
+            "matches": 35,
+            "points": 57,
+            "ppg": 1.629,
+            "strength": 4
+          },
+          {
+            "team": "Chelsea",
+            "venue": "away",
+            "matches": 35,
+            "points": 53,
+            "ppg": 1.514,
+            "strength": 4
+          },
+          {
+            "team": "Everton",
+            "venue": "away",
+            "matches": 35,
+            "points": 49,
+            "ppg": 1.4,
+            "strength": 3
+          },
+          {
+            "team": "Crystal Palace",
+            "venue": "away",
+            "matches": 34,
+            "points": 51,
+            "ppg": 1.5,
+            "strength": 3
+          },
+          {
+            "team": "Aston Villa",
+            "venue": "away",
+            "matches": 35,
+            "points": 49,
+            "ppg": 1.4,
+            "strength": 3
+          },
+          {
+            "team": "Manchester United",
+            "venue": "away",
+            "matches": 35,
+            "points": 40,
+            "ppg": 1.143,
+            "strength": 2
+          },
+          {
+            "team": "Liverpool",
+            "venue": "away",
+            "matches": 35,
+            "points": 59,
+            "ppg": 1.686,
+            "strength": 4
+          },
+          {
+            "team": "Tottenham Hotspur",
+            "venue": "away",
+            "matches": 35,
+            "points": 37,
+            "ppg": 1.057,
+            "strength": 1
+          },
+          {
+            "team": "Brentford",
+            "venue": "away",
+            "matches": 35,
+            "points": 45,
+            "ppg": 1.286,
+            "strength": 2
+          },
+          {
+            "team": "Brighton",
+            "venue": "away",
+            "matches": 35,
+            "points": 48,
+            "ppg": 1.371,
+            "strength": 3
+          },
+          {
+            "team": "AFC Bournemouth",
+            "venue": "away",
+            "matches": 35,
+            "points": 47,
+            "ppg": 1.343,
+            "strength": 3
+          },
+          {
+            "team": "Nottingham Forest",
+            "venue": "away",
+            "matches": 35,
+            "points": 51,
+            "ppg": 1.457,
+            "strength": 3
+          },
+          {
+            "team": "Sunderland",
+            "venue": "away",
+            "matches": 16,
+            "points": 17,
+            "ppg": 1.062,
+            "strength": 2
+          },
+          {
+            "team": "Newcastle United",
+            "venue": "away",
+            "matches": 35,
+            "points": 44,
+            "ppg": 1.257,
+            "strength": 2
+          },
+          {
+            "team": "West Ham United",
+            "venue": "away",
+            "matches": 35,
+            "points": 39,
+            "ppg": 1.114,
+            "strength": 2
+          },
+          {
+            "team": "Fulham",
+            "venue": "away",
+            "matches": 35,
+            "points": 43,
+            "ppg": 1.229,
+            "strength": 2
+          },
+          {
+            "team": "Leeds United",
+            "venue": "away",
+            "matches": 16,
+            "points": 13,
+            "ppg": 0.812,
+            "strength": 1
+          },
+          {
+            "team": "Burnley",
+            "venue": "away",
+            "matches": 16,
+            "points": 9,
+            "ppg": 0.562,
+            "strength": 1
+          },
+          {
+            "team": "Wolves",
+            "venue": "away",
+            "matches": 35,
+            "points": 26,
+            "ppg": 0.743,
+            "strength": 1
+          }
+        ],
+        "form": {
+          "Arsenal": [
+            {
+              "opponent": "Tottenham Hotspur",
+              "venue": "home",
+              "score_for": 4,
+              "score_against": 1,
+              "opponent_strength": 1,
+              "opponent_venue_context_used": "away"
+            },
+            {
+              "opponent": "Chelsea",
+              "venue": "away",
+              "score_for": 1,
+              "score_against": 1,
+              "opponent_strength": 5,
+              "opponent_venue_context_used": "home"
+            },
+            {
+              "opponent": "Brentford",
+              "venue": "home",
+              "score_for": 2,
+              "score_against": 0,
+              "opponent_strength": 2,
+              "opponent_venue_context_used": "away"
+            },
+            {
+              "opponent": "Aston Villa",
+              "venue": "away",
+              "score_for": 1,
+              "score_against": 2,
+              "opponent_strength": 5,
+              "opponent_venue_context_used": "home"
+            },
+            {
+              "opponent": "Wolves",
+              "venue": "home",
+              "score_for": 2,
+              "score_against": 1,
+              "opponent_strength": 1,
+              "opponent_venue_context_used": "away"
+            },
+            {
+              "opponent": "Everton",
+              "venue": "away",
+              "score_for": 1,
+              "score_against": 1,
+              "opponent_strength": 2,
+              "opponent_venue_context_used": "home"
+            },
+            {
+              "opponent": "Brighton",
+              "venue": "home",
+              "score_for": 2,
+              "score_against": 1,
+              "opponent_strength": 3,
+              "opponent_venue_context_used": "away"
+            },
+            {
+              "opponent": "Aston Villa",
+              "venue": "home",
+              "score_for": 4,
+              "score_against": 1,
+              "opponent_strength": 3,
+              "opponent_venue_context_used": "away"
+            },
+            {
+              "opponent": "AFC Bournemouth",
+              "venue": "away",
+              "score_for": 3,
+              "score_against": 2,
+              "opponent_strength": 4,
+              "opponent_venue_context_used": "home"
+            },
+            {
+              "opponent": "Liverpool",
+              "venue": "home",
+              "score_for": 0,
+              "score_against": 0,
+              "opponent_strength": 4,
+              "opponent_venue_context_used": "away"
+            },
+            {
+              "opponent": "Nottingham Forest",
+              "venue": "away",
+              "score_for": 0,
+              "score_against": 0,
+              "opponent_strength": 3,
+              "opponent_venue_context_used": "home"
+            },
+            {
+              "opponent": "Manchester United",
+              "venue": "home",
+              "score_for": 2,
+              "score_against": 3,
+              "opponent_strength": 2,
+              "opponent_venue_context_used": "away"
+            },
+            {
+              "opponent": "Leeds United",
+              "venue": "away",
+              "score_for": 4,
+              "score_against": 0,
+              "opponent_strength": 3,
+              "opponent_venue_context_used": "home"
+            },
+            {
+              "opponent": "Sunderland",
+              "venue": "home",
+              "score_for": 3,
+              "score_against": 0,
+              "opponent_strength": 2,
+              "opponent_venue_context_used": "away"
+            }
+          ],
+          "Brentford": [
+            {
+              "opponent": "Newcastle United",
+              "venue": "home",
+              "score_for": 3,
+              "score_against": 2,
+              "opponent_strength": 2,
+              "opponent_venue_context_used": "away"
+            },
+            {
+              "opponent": "Arsenal",
+              "venue": "away",
+              "score_for": 0,
+              "score_against": 2,
+              "opponent_strength": 5,
+              "opponent_venue_context_used": "home"
+            },
+            {
+              "opponent": "Tottenham Hotspur",
+              "venue": "away",
+              "score_for": 0,
+              "score_against": 2,
+              "opponent_strength": 1,
+              "opponent_venue_context_used": "home"
+            },
+            {
+              "opponent": "Leeds United",
+              "venue": "home",
+              "score_for": 1,
+              "score_against": 1,
+              "opponent_strength": 1,
+              "opponent_venue_context_used": "away"
+            },
+            {
+              "opponent": "Wolves",
+              "venue": "away",
+              "score_for": 2,
+              "score_against": 0,
+              "opponent_strength": 1,
+              "opponent_venue_context_used": "home"
+            },
+            {
+              "opponent": "AFC Bournemouth",
+              "venue": "home",
+              "score_for": 4,
+              "score_against": 1,
+              "opponent_strength": 3,
+              "opponent_venue_context_used": "away"
+            },
+            {
+              "opponent": "Tottenham Hotspur",
+              "venue": "home",
+              "score_for": 0,
+              "score_against": 0,
+              "opponent_strength": 1,
+              "opponent_venue_context_used": "away"
+            },
+            {
+              "opponent": "Everton",
+              "venue": "away",
+              "score_for": 4,
+              "score_against": 2,
+              "opponent_strength": 2,
+              "opponent_venue_context_used": "home"
+            },
+            {
+              "opponent": "Sunderland",
+              "venue": "home",
+              "score_for": 3,
+              "score_against": 0,
+              "opponent_strength": 2,
+              "opponent_venue_context_used": "away"
+            },
+            {
+              "opponent": "Chelsea",
+              "venue": "away",
+              "score_for": 0,
+              "score_against": 2,
+              "opponent_strength": 5,
+              "opponent_venue_context_used": "home"
+            },
+            {
+              "opponent": "Nottingham Forest",
+              "venue": "home",
+              "score_for": 0,
+              "score_against": 2,
+              "opponent_strength": 3,
+              "opponent_venue_context_used": "away"
+            },
+            {
+              "opponent": "Aston Villa",
+              "venue": "away",
+              "score_for": 1,
+              "score_against": 0,
+              "opponent_strength": 5,
+              "opponent_venue_context_used": "home"
+            },
+            {
+              "opponent": "Newcastle United",
+              "venue": "away",
+              "score_for": 3,
+              "score_against": 2,
+              "opponent_strength": 5,
+              "opponent_venue_context_used": "home"
+            }
+          ],
+          "Newcastle United": [
+            {
+              "opponent": "Leeds United",
+              "venue": "home",
+              "score_for": 4,
+              "score_against": 3,
+              "opponent_strength": 1,
+              "opponent_venue_context_used": "away"
+            },
+            {
+              "opponent": "Wolves",
+              "venue": "away",
+              "score_for": 0,
+              "score_against": 0,
+              "opponent_strength": 1,
+              "opponent_venue_context_used": "home"
+            },
+            {
+              "opponent": "Aston Villa",
+              "venue": "home",
+              "score_for": 0,
+              "score_against": 2,
+              "opponent_strength": 3,
+              "opponent_venue_context_used": "away"
+            },
+            {
+              "opponent": "Liverpool",
+              "venue": "away",
+              "score_for": 1,
+              "score_against": 4,
+              "opponent_strength": 5,
+              "opponent_venue_context_used": "home"
+            },
+            {
+              "opponent": "Brentford",
+              "venue": "home",
+              "score_for": 2,
+              "score_against": 3,
+              "opponent_strength": 2,
+              "opponent_venue_context_used": "away"
+            }
+          ],
+          "Tottenham Hotspur": [
+            {
+              "opponent": "AFC Bournemouth",
+              "venue": "away",
+              "score_for": 2,
+              "score_against": 3,
+              "opponent_strength": 4,
+              "opponent_venue_context_used": "home"
+            },
+            {
+              "opponent": "West Ham United",
+              "venue": "home",
+              "score_for": 1,
+              "score_against": 2,
+              "opponent_strength": 2,
+              "opponent_venue_context_used": "away"
+            },
+            {
+              "opponent": "Burnley",
+              "venue": "away",
+              "score_for": 2,
+              "score_against": 2,
+              "opponent_strength": 1,
+              "opponent_venue_context_used": "home"
+            },
+            {
+              "opponent": "Manchester City",
+              "venue": "home",
+              "score_for": 2,
+              "score_against": 2,
+              "opponent_strength": 4,
+              "opponent_venue_context_used": "away"
+            },
+            {
+              "opponent": "Manchester United",
+              "venue": "away",
+              "score_for": 0,
+              "score_against": 2,
+              "opponent_strength": 4,
+              "opponent_venue_context_used": "home"
+            }
+          ]
+        },
+        "fixtures": {
+          "Arsenal": {
+            "avg_strength": 2.54,
+            "fixtures": [
+              {
+                "opponent": "Brentford",
+                "venue": "away",
+                "date": "12 Feb",
+                "opponent_strength": 4,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Wolves",
+                "venue": "away",
+                "date": "18 Feb",
+                "opponent_strength": 1,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Tottenham Hotspur",
+                "venue": "away",
+                "date": "22 Feb",
+                "opponent_strength": 1,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Chelsea",
+                "venue": "home",
+                "date": "01 Mar",
+                "opponent_strength": 4,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Brighton",
+                "venue": "away",
+                "date": "08 Mar",
+                "opponent_strength": 4,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Everton",
+                "venue": "home",
+                "date": "15 Mar",
+                "opponent_strength": 3,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "AFC Bournemouth",
+                "venue": "home",
+                "date": "01 Apr",
+                "opponent_strength": 3,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Manchester City",
+                "venue": "away",
+                "date": "08 Apr",
+                "opponent_strength": 5,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Newcastle United",
+                "venue": "home",
+                "date": "25 Apr",
+                "opponent_strength": 2,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Fulham",
+                "venue": "home",
+                "date": "02 May",
+                "opponent_strength": 2,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "West Ham United",
+                "venue": "away",
+                "date": "08 May",
+                "opponent_strength": 1,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Burnley",
+                "venue": "home",
+                "date": "17 May",
+                "opponent_strength": 1,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Crystal Palace",
+                "venue": "away",
+                "date": "24 May",
+                "opponent_strength": 2,
+                "opponent_venue_context_used": "home"
+              }
+            ]
+          },
+          "Chelsea": {
+            "avg_strength": 3.08,
+            "fixtures": [
+              {
+                "opponent": "Leeds United",
+                "venue": "home",
+                "date": "13 Feb",
+                "opponent_strength": 1,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Burnley",
+                "venue": "home",
+                "date": "21 Feb",
+                "opponent_strength": 1,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Arsenal",
+                "venue": "away",
+                "date": "28 Feb",
+                "opponent_strength": 5,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Aston Villa",
+                "venue": "away",
+                "date": "04 Mar",
+                "opponent_strength": 5,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Newcastle United",
+                "venue": "home",
+                "date": "14 Mar",
+                "opponent_strength": 2,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Everton",
+                "venue": "away",
+                "date": "21 Mar",
+                "opponent_strength": 2,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Manchester City",
+                "venue": "home",
+                "date": "01 Apr",
+                "opponent_strength": 4,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Manchester United",
+                "venue": "home",
+                "date": "18 Apr",
+                "opponent_strength": 2,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Brighton",
+                "venue": "away",
+                "date": "25 Apr",
+                "opponent_strength": 4,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Nottingham Forest",
+                "venue": "home",
+                "date": "02 May",
+                "opponent_strength": 3,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Liverpool",
+                "venue": "away",
+                "date": "09 May",
+                "opponent_strength": 5,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Tottenham Hotspur",
+                "venue": "home",
+                "date": "17 May",
+                "opponent_strength": 1,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Sunderland",
+                "venue": "away",
+                "date": "24 May",
+                "opponent_strength": 5,
+                "opponent_venue_context_used": "home"
+              }
+            ]
+          },
+          "Manchester City": {
+            "avg_strength": 2.77,
+            "fixtures": [
+              {
+                "opponent": "Fulham",
+                "venue": "home",
+                "date": "11 Feb",
+                "opponent_strength": 2,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Newcastle United",
+                "venue": "home",
+                "date": "21 Feb",
+                "opponent_strength": 2,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Leeds United",
+                "venue": "away",
+                "date": "28 Feb",
+                "opponent_strength": 3,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Nottingham Forest",
+                "venue": "home",
+                "date": "04 Mar",
+                "opponent_strength": 3,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "West Ham United",
+                "venue": "away",
+                "date": "14 Mar",
+                "opponent_strength": 1,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Crystal Palace",
+                "venue": "home",
+                "date": "21 Mar",
+                "opponent_strength": 3,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Chelsea",
+                "venue": "away",
+                "date": "01 Apr",
+                "opponent_strength": 5,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Arsenal",
+                "venue": "home",
+                "date": "13 Apr",
+                "opponent_strength": 5,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Burnley",
+                "venue": "away",
+                "date": "25 Apr",
+                "opponent_strength": 1,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Everton",
+                "venue": "away",
+                "date": "02 May",
+                "opponent_strength": 2,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Brentford",
+                "venue": "home",
+                "date": "08 May",
+                "opponent_strength": 2,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "AFC Bournemouth",
+                "venue": "away",
+                "date": "17 May",
+                "opponent_strength": 4,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Aston Villa",
+                "venue": "home",
+                "date": "24 May",
+                "opponent_strength": 3,
+                "opponent_venue_context_used": "away"
+              }
+            ]
+          },
+          "Newcastle United": {
+            "avg_strength": 3.08,
+            "fixtures": [
+              {
+                "opponent": "Tottenham Hotspur",
+                "venue": "away",
+                "date": "14 Feb",
+                "opponent_strength": 1,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Manchester City",
+                "venue": "away",
+                "date": "21 Feb",
+                "opponent_strength": 5,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Everton",
+                "venue": "home",
+                "date": "28 Feb",
+                "opponent_strength": 3,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Manchester United",
+                "venue": "home",
+                "date": "04 Mar",
+                "opponent_strength": 2,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Chelsea",
+                "venue": "away",
+                "date": "14 Mar",
+                "opponent_strength": 5,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Sunderland",
+                "venue": "home",
+                "date": "22 Mar",
+                "opponent_strength": 2,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Crystal Palace",
+                "venue": "away",
+                "date": "11 Apr",
+                "opponent_strength": 2,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "AFC Bournemouth",
+                "venue": "home",
+                "date": "18 Apr",
+                "opponent_strength": 3,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Arsenal",
+                "venue": "away",
+                "date": "25 Apr",
+                "opponent_strength": 5,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "Brighton",
+                "venue": "home",
+                "date": "02 May",
+                "opponent_strength": 3,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Nottingham Forest",
+                "venue": "away",
+                "date": "08 May",
+                "opponent_strength": 3,
+                "opponent_venue_context_used": "home"
+              },
+              {
+                "opponent": "West Ham United",
+                "venue": "home",
+                "date": "17 May",
+                "opponent_strength": 2,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Fulham",
+                "venue": "away",
+                "date": "24 May",
+                "opponent_strength": 4,
+                "opponent_venue_context_used": "home"
+              }
+            ]
+          },
+          "Tottenham Hotspur": {
+            "avg_strength": 3.46,
+            "fixtures": [
+              {
+                "opponent": "Newcastle United",
+                "venue": "home",
+                "date": "14 Feb",
+                "opponent_strength": 2,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Arsenal",
+                "venue": "home",
+                "date": "22 Feb",
+                "opponent_strength": 5,
+                "opponent_venue_context_used": "away"
+              },
+              {
+                "opponent": "Fulham",
+                "venue": "away",
+                "date": "01 Mar",
+                "opponent_strength": 4,
                 "opponent_venue_context_used": "home"
               },
               {
@@ -2232,362 +2232,362 @@
           {
             "team": "Arsenal",
             "venue": "home",
-            "matches": 13,
-            "points": 32,
-            "ppg": 2.462,
+            "matches": 16,
+            "points": 38,
+            "ppg": 2.375,
             "strength": 5,
-            "z": 1.947
+            "z": 2.101
           },
           {
             "team": "Manchester City",
             "venue": "home",
-            "matches": 12,
-            "points": 29,
-            "ppg": 2.417,
+            "matches": 15,
+            "points": 36,
+            "ppg": 2.4,
             "strength": 5,
-            "z": 1.867
+            "z": 2.153
           },
           {
             "team": "Manchester United",
             "venue": "home",
-            "matches": 13,
-            "points": 27,
-            "ppg": 2.077,
+            "matches": 16,
+            "points": 33,
+            "ppg": 2.062,
             "strength": 4,
-            "z": 1.264
-          },
-          {
-            "team": "Sunderland",
-            "venue": "home",
-            "matches": 12,
-            "points": 26,
-            "ppg": 2.167,
-            "strength": 4,
-            "z": 1.423
+            "z": 1.448
           },
           {
             "team": "Aston Villa",
             "venue": "home",
-            "matches": 12,
-            "points": 25,
-            "ppg": 2.083,
-            "strength": 4,
-            "z": 1.274
-          },
-          {
-            "team": "Brentford",
-            "venue": "home",
-            "matches": 12,
-            "points": 24,
+            "matches": 16,
+            "points": 32,
             "ppg": 2.0,
             "strength": 4,
-            "z": 1.127
+            "z": 1.319
           },
           {
             "team": "Liverpool",
             "venue": "home",
-            "matches": 13,
-            "points": 24,
-            "ppg": 1.846,
+            "matches": 16,
+            "points": 31,
+            "ppg": 1.938,
             "strength": 4,
-            "z": 0.854
+            "z": 1.19
+          },
+          {
+            "team": "Sunderland",
+            "venue": "home",
+            "matches": 16,
+            "points": 29,
+            "ppg": 1.812,
+            "strength": 4,
+            "z": 0.927
           },
           {
             "team": "Fulham",
             "venue": "home",
-            "matches": 13,
-            "points": 23,
-            "ppg": 1.769,
+            "matches": 16,
+            "points": 29,
+            "ppg": 1.812,
             "strength": 4,
-            "z": 0.717
+            "z": 0.927
           },
           {
-            "team": "AFC Bournemouth",
+            "team": "Brentford",
             "venue": "home",
-            "matches": 13,
-            "points": 23,
-            "ppg": 1.769,
-            "strength": 4,
-            "z": 0.717
-          },
-          {
-            "team": "Newcastle United",
-            "venue": "home",
-            "matches": 13,
-            "points": 23,
-            "ppg": 1.769,
-            "strength": 4,
-            "z": 0.717
-          },
-          {
-            "team": "Leeds United",
-            "venue": "home",
-            "matches": 13,
-            "points": 22,
-            "ppg": 1.692,
+            "matches": 16,
+            "points": 27,
+            "ppg": 1.688,
             "strength": 3,
-            "z": 0.58
-          },
-          {
-            "team": "Chelsea",
-            "venue": "home",
-            "matches": 12,
-            "points": 21,
-            "ppg": 1.75,
-            "strength": 3,
-            "z": 0.683
+            "z": 0.669
           },
           {
             "team": "Brighton",
             "venue": "home",
-            "matches": 13,
-            "points": 21,
-            "ppg": 1.615,
+            "matches": 16,
+            "points": 27,
+            "ppg": 1.688,
             "strength": 3,
-            "z": 0.444
+            "z": 0.669
+          },
+          {
+            "team": "AFC Bournemouth",
+            "venue": "home",
+            "matches": 16,
+            "points": 26,
+            "ppg": 1.625,
+            "strength": 3,
+            "z": 0.538
+          },
+          {
+            "team": "Newcastle United",
+            "venue": "home",
+            "matches": 16,
+            "points": 26,
+            "ppg": 1.625,
+            "strength": 3,
+            "z": 0.538
+          },
+          {
+            "team": "Chelsea",
+            "venue": "home",
+            "matches": 16,
+            "points": 23,
+            "ppg": 1.438,
+            "strength": 3,
+            "z": 0.148
+          },
+          {
+            "team": "Leeds United",
+            "venue": "home",
+            "matches": 16,
+            "points": 23,
+            "ppg": 1.438,
+            "strength": 3,
+            "z": 0.148
           },
           {
             "team": "Everton",
             "venue": "home",
-            "matches": 12,
-            "points": 16,
-            "ppg": 1.333,
+            "matches": 16,
+            "points": 22,
+            "ppg": 1.375,
             "strength": 3,
-            "z": -0.057
+            "z": 0.016
           },
           {
             "team": "Crystal Palace",
             "venue": "home",
-            "matches": 12,
-            "points": 12,
-            "ppg": 1.0,
+            "matches": 16,
+            "points": 19,
+            "ppg": 1.188,
             "strength": 3,
-            "z": -0.648
-          },
-          {
-            "team": "Nottingham Forest",
-            "venue": "home",
-            "matches": 12,
-            "points": 12,
-            "ppg": 1.0,
-            "strength": 3,
-            "z": -0.648
-          },
-          {
-            "team": "Tottenham Hotspur",
-            "venue": "home",
-            "matches": 12,
-            "points": 10,
-            "ppg": 0.833,
-            "strength": 2,
-            "z": -0.944
-          },
-          {
-            "team": "Burnley",
-            "venue": "home",
-            "matches": 13,
-            "points": 10,
-            "ppg": 0.769,
-            "strength": 2,
-            "z": -1.058
+            "z": -0.373
           },
           {
             "team": "West Ham United",
             "venue": "home",
-            "matches": 12,
-            "points": 10,
-            "ppg": 0.833,
+            "matches": 16,
+            "points": 16,
+            "ppg": 1.0,
             "strength": 2,
-            "z": -0.944
+            "z": -0.765
+          },
+          {
+            "team": "Nottingham Forest",
+            "venue": "home",
+            "matches": 16,
+            "points": 15,
+            "ppg": 0.938,
+            "strength": 2,
+            "z": -0.894
           },
           {
             "team": "Wolves",
             "venue": "home",
-            "matches": 13,
-            "points": 5,
-            "ppg": 0.385,
+            "matches": 16,
+            "points": 12,
+            "ppg": 0.75,
+            "strength": 2,
+            "z": -1.286
+          },
+          {
+            "team": "Burnley",
+            "venue": "home",
+            "matches": 16,
+            "points": 11,
+            "ppg": 0.688,
+            "strength": 2,
+            "z": -1.416
+          },
+          {
+            "team": "Tottenham Hotspur",
+            "venue": "home",
+            "matches": 16,
+            "points": 10,
+            "ppg": 0.625,
             "strength": 1,
-            "z": -1.739
+            "z": -1.547
           },
           {
             "team": "Arsenal",
             "venue": "away",
-            "matches": 12,
-            "points": 24,
+            "matches": 16,
+            "points": 32,
             "ppg": 2.0,
             "strength": 4,
-            "z": 1.127
-          },
-          {
-            "team": "Chelsea",
-            "venue": "away",
-            "matches": 13,
-            "points": 22,
-            "ppg": 1.692,
-            "strength": 3,
-            "z": 0.58
-          },
-          {
-            "team": "Aston Villa",
-            "venue": "away",
-            "matches": 13,
-            "points": 22,
-            "ppg": 1.692,
-            "strength": 3,
-            "z": 0.58
+            "z": 1.319
           },
           {
             "team": "Manchester City",
             "venue": "away",
-            "matches": 13,
-            "points": 21,
-            "ppg": 1.615,
+            "matches": 16,
+            "points": 28,
+            "ppg": 1.75,
+            "strength": 4,
+            "z": 0.798
+          },
+          {
+            "team": "Chelsea",
+            "venue": "away",
+            "matches": 16,
+            "points": 25,
+            "ppg": 1.562,
             "strength": 3,
-            "z": 0.444
+            "z": 0.406
           },
           {
             "team": "Everton",
             "venue": "away",
-            "matches": 13,
-            "points": 21,
-            "ppg": 1.615,
+            "matches": 16,
+            "points": 25,
+            "ppg": 1.562,
             "strength": 3,
-            "z": 0.444
+            "z": 0.406
           },
           {
             "team": "Crystal Palace",
             "venue": "away",
-            "matches": 13,
-            "points": 20,
-            "ppg": 1.538,
+            "matches": 15,
+            "points": 23,
+            "ppg": 1.533,
             "strength": 3,
-            "z": 0.307
+            "z": 0.346
           },
           {
-            "team": "Tottenham Hotspur",
+            "team": "Aston Villa",
             "venue": "away",
-            "matches": 13,
-            "points": 19,
-            "ppg": 1.462,
+            "matches": 16,
+            "points": 23,
+            "ppg": 1.438,
             "strength": 3,
-            "z": 0.172
+            "z": 0.148
           },
           {
             "team": "Manchester United",
             "venue": "away",
-            "matches": 12,
-            "points": 17,
-            "ppg": 1.417,
+            "matches": 16,
+            "points": 22,
+            "ppg": 1.375,
             "strength": 3,
-            "z": 0.092
+            "z": 0.016
           },
           {
             "team": "Liverpool",
             "venue": "away",
-            "matches": 12,
-            "points": 15,
+            "matches": 16,
+            "points": 21,
+            "ppg": 1.312,
+            "strength": 3,
+            "z": -0.115
+          },
+          {
+            "team": "Tottenham Hotspur",
+            "venue": "away",
+            "matches": 16,
+            "points": 20,
             "ppg": 1.25,
             "strength": 3,
-            "z": -0.204
+            "z": -0.244
           },
           {
             "team": "Brentford",
             "venue": "away",
-            "matches": 13,
-            "points": 15,
-            "ppg": 1.154,
+            "matches": 16,
+            "points": 20,
+            "ppg": 1.25,
             "strength": 3,
-            "z": -0.374
-          },
-          {
-            "team": "Nottingham Forest",
-            "venue": "away",
-            "matches": 13,
-            "points": 14,
-            "ppg": 1.077,
-            "strength": 3,
-            "z": -0.511
-          },
-          {
-            "team": "West Ham United",
-            "venue": "away",
-            "matches": 13,
-            "points": 13,
-            "ppg": 1.0,
-            "strength": 3,
-            "z": -0.648
-          },
-          {
-            "team": "Fulham",
-            "venue": "away",
-            "matches": 12,
-            "points": 11,
-            "ppg": 0.917,
-            "strength": 2,
-            "z": -0.795
-          },
-          {
-            "team": "AFC Bournemouth",
-            "venue": "away",
-            "matches": 12,
-            "points": 11,
-            "ppg": 0.917,
-            "strength": 2,
-            "z": -0.795
+            "z": -0.244
           },
           {
             "team": "Brighton",
             "venue": "away",
-            "matches": 12,
-            "points": 10,
-            "ppg": 0.833,
-            "strength": 2,
-            "z": -0.944
+            "matches": 16,
+            "points": 19,
+            "ppg": 1.188,
+            "strength": 3,
+            "z": -0.373
           },
           {
-            "team": "Newcastle United",
+            "team": "AFC Bournemouth",
             "venue": "away",
-            "matches": 12,
-            "points": 10,
-            "ppg": 0.833,
-            "strength": 2,
-            "z": -0.944
+            "matches": 16,
+            "points": 19,
+            "ppg": 1.188,
+            "strength": 3,
+            "z": -0.373
+          },
+          {
+            "team": "Nottingham Forest",
+            "venue": "away",
+            "matches": 16,
+            "points": 18,
+            "ppg": 1.125,
+            "strength": 3,
+            "z": -0.505
           },
           {
             "team": "Sunderland",
             "venue": "away",
-            "matches": 13,
-            "points": 10,
-            "ppg": 0.769,
+            "matches": 16,
+            "points": 17,
+            "ppg": 1.062,
+            "strength": 3,
+            "z": -0.636
+          },
+          {
+            "team": "Newcastle United",
+            "venue": "away",
+            "matches": 16,
+            "points": 16,
+            "ppg": 1.0,
             "strength": 2,
-            "z": -1.058
+            "z": -0.765
+          },
+          {
+            "team": "West Ham United",
+            "venue": "away",
+            "matches": 16,
+            "points": 16,
+            "ppg": 1.0,
+            "strength": 2,
+            "z": -0.765
+          },
+          {
+            "team": "Fulham",
+            "venue": "away",
+            "matches": 16,
+            "points": 15,
+            "ppg": 0.938,
+            "strength": 2,
+            "z": -0.894
           },
           {
             "team": "Leeds United",
             "venue": "away",
-            "matches": 12,
-            "points": 7,
-            "ppg": 0.583,
+            "matches": 16,
+            "points": 13,
+            "ppg": 0.812,
             "strength": 2,
-            "z": -1.388
+            "z": -1.157
           },
           {
             "team": "Burnley",
             "venue": "away",
-            "matches": 12,
-            "points": 5,
-            "ppg": 0.417,
+            "matches": 16,
+            "points": 9,
+            "ppg": 0.562,
             "strength": 1,
-            "z": -1.682
+            "z": -1.678
           },
           {
             "team": "Wolves",
             "venue": "away",
-            "matches": 12,
-            "points": 3,
-            "ppg": 0.25,
+            "matches": 16,
+            "points": 5,
+            "ppg": 0.312,
             "strength": 1,
-            "z": -1.979
+            "z": -2.199
           }
         ],
         "form": {
@@ -2645,7 +2645,7 @@
               "venue": "home",
               "score_for": 2,
               "score_against": 1,
-              "opponent_strength": 2,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "away"
             },
             {
@@ -2661,7 +2661,7 @@
               "venue": "away",
               "score_for": 3,
               "score_against": 2,
-              "opponent_strength": 4,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "home"
             },
             {
@@ -2677,7 +2677,7 @@
               "venue": "away",
               "score_for": 0,
               "score_against": 0,
-              "opponent_strength": 3,
+              "opponent_strength": 2,
               "opponent_venue_context_used": "home"
             },
             {
@@ -2701,7 +2701,7 @@
               "venue": "home",
               "score_for": 3,
               "score_against": 0,
-              "opponent_strength": 2,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "away"
             }
           ],
@@ -2727,7 +2727,7 @@
               "venue": "away",
               "score_for": 0,
               "score_against": 2,
-              "opponent_strength": 2,
+              "opponent_strength": 1,
               "opponent_venue_context_used": "home"
             },
             {
@@ -2743,7 +2743,7 @@
               "venue": "away",
               "score_for": 2,
               "score_against": 0,
-              "opponent_strength": 1,
+              "opponent_strength": 2,
               "opponent_venue_context_used": "home"
             },
             {
@@ -2751,7 +2751,7 @@
               "venue": "home",
               "score_for": 4,
               "score_against": 1,
-              "opponent_strength": 2,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "away"
             },
             {
@@ -2775,7 +2775,7 @@
               "venue": "home",
               "score_for": 3,
               "score_against": 0,
-              "opponent_strength": 2,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "away"
             },
             {
@@ -2807,7 +2807,7 @@
               "venue": "away",
               "score_for": 3,
               "score_against": 2,
-              "opponent_strength": 4,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "home"
             }
           ],
@@ -2825,7 +2825,7 @@
               "venue": "away",
               "score_for": 0,
               "score_against": 0,
-              "opponent_strength": 1,
+              "opponent_strength": 2,
               "opponent_venue_context_used": "home"
             },
             {
@@ -2859,7 +2859,7 @@
               "venue": "away",
               "score_for": 2,
               "score_against": 3,
-              "opponent_strength": 4,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "home"
             },
             {
@@ -2867,7 +2867,7 @@
               "venue": "home",
               "score_for": 1,
               "score_against": 2,
-              "opponent_strength": 3,
+              "opponent_strength": 2,
               "opponent_venue_context_used": "away"
             },
             {
@@ -2883,7 +2883,7 @@
               "venue": "home",
               "score_for": 2,
               "score_against": 2,
-              "opponent_strength": 3,
+              "opponent_strength": 4,
               "opponent_venue_context_used": "away"
             },
             {
@@ -2904,21 +2904,21 @@
                 "opponent": "Brentford",
                 "venue": "away",
                 "date": "12 Feb",
-                "opponent_strength": 4,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "home"
               },
               {
                 "opponent": "Wolves",
                 "venue": "away",
                 "date": "18 Feb",
-                "opponent_strength": 1,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "home"
               },
               {
                 "opponent": "Tottenham Hotspur",
                 "venue": "away",
                 "date": "22 Feb",
-                "opponent_strength": 2,
+                "opponent_strength": 1,
                 "opponent_venue_context_used": "home"
               },
               {
@@ -2946,7 +2946,7 @@
                 "opponent": "AFC Bournemouth",
                 "venue": "home",
                 "date": "01 Apr",
-                "opponent_strength": 2,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -2994,7 +2994,7 @@
             ]
           },
           "Chelsea": {
-            "avg_strength": 3.08,
+            "avg_strength": 3.15,
             "fixtures": [
               {
                 "opponent": "Leeds United",
@@ -3042,7 +3042,7 @@
                 "opponent": "Manchester City",
                 "venue": "home",
                 "date": "01 Apr",
-                "opponent_strength": 3,
+                "opponent_strength": 4,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -3090,7 +3090,7 @@
             ]
           },
           "Manchester City": {
-            "avg_strength": 2.85,
+            "avg_strength": 2.77,
             "fixtures": [
               {
                 "opponent": "Fulham",
@@ -3173,7 +3173,7 @@
                 "opponent": "AFC Bournemouth",
                 "venue": "away",
                 "date": "17 May",
-                "opponent_strength": 4,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "home"
               },
               {
@@ -3192,7 +3192,7 @@
                 "opponent": "Tottenham Hotspur",
                 "venue": "away",
                 "date": "14 Feb",
-                "opponent_strength": 2,
+                "opponent_strength": 1,
                 "opponent_venue_context_used": "home"
               },
               {
@@ -3227,7 +3227,7 @@
                 "opponent": "Sunderland",
                 "venue": "home",
                 "date": "22 Mar",
-                "opponent_strength": 2,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -3241,7 +3241,7 @@
                 "opponent": "AFC Bournemouth",
                 "venue": "home",
                 "date": "18 Apr",
-                "opponent_strength": 2,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -3255,21 +3255,21 @@
                 "opponent": "Brighton",
                 "venue": "home",
                 "date": "02 May",
-                "opponent_strength": 2,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "away"
               },
               {
                 "opponent": "Nottingham Forest",
                 "venue": "away",
                 "date": "08 May",
-                "opponent_strength": 3,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "home"
               },
               {
                 "opponent": "West Ham United",
                 "venue": "home",
                 "date": "17 May",
-                "opponent_strength": 3,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -3282,7 +3282,7 @@
             ]
           },
           "Tottenham Hotspur": {
-            "avg_strength": 3.0,
+            "avg_strength": 3.15,
             "fixtures": [
               {
                 "opponent": "Newcastle United",
@@ -3337,14 +3337,14 @@
                 "opponent": "Brighton",
                 "venue": "home",
                 "date": "18 Apr",
-                "opponent_strength": 2,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "away"
               },
               {
                 "opponent": "Wolves",
                 "venue": "away",
                 "date": "25 Apr",
-                "opponent_strength": 1,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "home"
               },
               {
@@ -3384,362 +3384,362 @@
           {
             "team": "Arsenal",
             "venue": "home",
-            "matches": 32,
-            "points": 71,
-            "ppg": 2.219,
+            "matches": 35,
+            "points": 77,
+            "ppg": 2.2,
             "strength": 5,
-            "z": 1.729
+            "z": 1.9
           },
           {
             "team": "Manchester City",
             "venue": "home",
-            "matches": 31,
-            "points": 71,
-            "ppg": 2.29,
+            "matches": 34,
+            "points": 78,
+            "ppg": 2.294,
             "strength": 5,
-            "z": 1.883
+            "z": 2.129
           },
           {
             "team": "Manchester United",
             "venue": "home",
-            "matches": 32,
-            "points": 51,
-            "ppg": 1.594,
+            "matches": 35,
+            "points": 57,
+            "ppg": 1.629,
             "strength": 3,
-            "z": 0.37
-          },
-          {
-            "team": "Sunderland",
-            "venue": "home",
-            "matches": 12,
-            "points": 26,
-            "ppg": 2.167,
-            "strength": 5,
-            "z": 1.616
+            "z": 0.514
           },
           {
             "team": "Aston Villa",
             "venue": "home",
-            "matches": 31,
-            "points": 65,
-            "ppg": 2.097,
-            "strength": 4,
-            "z": 1.464
-          },
-          {
-            "team": "Brentford",
-            "venue": "home",
-            "matches": 31,
-            "points": 55,
-            "ppg": 1.774,
-            "strength": 4,
-            "z": 0.762
+            "matches": 35,
+            "points": 72,
+            "ppg": 2.057,
+            "strength": 5,
+            "z": 1.553
           },
           {
             "team": "Liverpool",
             "venue": "home",
-            "matches": 32,
-            "points": 70,
-            "ppg": 2.188,
+            "matches": 35,
+            "points": 77,
+            "ppg": 2.2,
             "strength": 5,
-            "z": 1.661
+            "z": 1.9
+          },
+          {
+            "team": "Sunderland",
+            "venue": "home",
+            "matches": 16,
+            "points": 29,
+            "ppg": 1.812,
+            "strength": 4,
+            "z": 0.959
           },
           {
             "team": "Fulham",
             "venue": "home",
-            "matches": 32,
-            "points": 49,
-            "ppg": 1.531,
+            "matches": 35,
+            "points": 55,
+            "ppg": 1.571,
             "strength": 3,
-            "z": 0.233
+            "z": 0.374
           },
           {
-            "team": "AFC Bournemouth",
+            "team": "Brentford",
             "venue": "home",
-            "matches": 32,
-            "points": 51,
-            "ppg": 1.594,
+            "matches": 35,
+            "points": 58,
+            "ppg": 1.657,
             "strength": 3,
-            "z": 0.37
-          },
-          {
-            "team": "Newcastle United",
-            "venue": "home",
-            "matches": 32,
-            "points": 61,
-            "ppg": 1.906,
-            "strength": 4,
-            "z": 1.048
-          },
-          {
-            "team": "Leeds United",
-            "venue": "home",
-            "matches": 13,
-            "points": 22,
-            "ppg": 1.692,
-            "strength": 3,
-            "z": 0.583
-          },
-          {
-            "team": "Chelsea",
-            "venue": "home",
-            "matches": 31,
-            "points": 62,
-            "ppg": 2.0,
-            "strength": 4,
-            "z": 1.253
+            "z": 0.582
           },
           {
             "team": "Brighton",
             "venue": "home",
-            "matches": 32,
-            "points": 53,
-            "ppg": 1.656,
+            "matches": 35,
+            "points": 59,
+            "ppg": 1.686,
             "strength": 3,
-            "z": 0.505
+            "z": 0.653
+          },
+          {
+            "team": "AFC Bournemouth",
+            "venue": "home",
+            "matches": 35,
+            "points": 54,
+            "ppg": 1.543,
+            "strength": 3,
+            "z": 0.306
+          },
+          {
+            "team": "Newcastle United",
+            "venue": "home",
+            "matches": 35,
+            "points": 64,
+            "ppg": 1.829,
+            "strength": 4,
+            "z": 1.0
+          },
+          {
+            "team": "Chelsea",
+            "venue": "home",
+            "matches": 35,
+            "points": 64,
+            "ppg": 1.829,
+            "strength": 4,
+            "z": 1.0
+          },
+          {
+            "team": "Leeds United",
+            "venue": "home",
+            "matches": 16,
+            "points": 23,
+            "ppg": 1.438,
+            "strength": 3,
+            "z": 0.051
           },
           {
             "team": "Everton",
             "venue": "home",
-            "matches": 31,
-            "points": 40,
-            "ppg": 1.29,
+            "matches": 35,
+            "points": 46,
+            "ppg": 1.314,
             "strength": 3,
-            "z": -0.29
+            "z": -0.25
           },
           {
             "team": "Crystal Palace",
             "venue": "home",
-            "matches": 31,
-            "points": 37,
-            "ppg": 1.194,
-            "strength": 3,
-            "z": -0.499
-          },
-          {
-            "team": "Nottingham Forest",
-            "venue": "home",
-            "matches": 31,
+            "matches": 35,
             "points": 44,
-            "ppg": 1.419,
+            "ppg": 1.257,
             "strength": 3,
-            "z": -0.01
-          },
-          {
-            "team": "Tottenham Hotspur",
-            "venue": "home",
-            "matches": 31,
-            "points": 31,
-            "ppg": 1.0,
-            "strength": 2,
-            "z": -0.921
-          },
-          {
-            "team": "Burnley",
-            "venue": "home",
-            "matches": 13,
-            "points": 10,
-            "ppg": 0.769,
-            "strength": 2,
-            "z": -1.423
+            "z": -0.389
           },
           {
             "team": "West Ham United",
             "venue": "home",
-            "matches": 31,
-            "points": 30,
-            "ppg": 0.968,
+            "matches": 35,
+            "points": 36,
+            "ppg": 1.029,
             "strength": 2,
-            "z": -0.99
+            "z": -0.942
+          },
+          {
+            "team": "Nottingham Forest",
+            "venue": "home",
+            "matches": 35,
+            "points": 47,
+            "ppg": 1.343,
+            "strength": 3,
+            "z": -0.18
           },
           {
             "team": "Wolves",
             "venue": "home",
-            "matches": 32,
-            "points": 26,
-            "ppg": 0.812,
+            "matches": 35,
+            "points": 33,
+            "ppg": 0.943,
             "strength": 2,
-            "z": -1.329
+            "z": -1.151
+          },
+          {
+            "team": "Burnley",
+            "venue": "home",
+            "matches": 16,
+            "points": 11,
+            "ppg": 0.688,
+            "strength": 1,
+            "z": -1.77
+          },
+          {
+            "team": "Tottenham Hotspur",
+            "venue": "home",
+            "matches": 35,
+            "points": 31,
+            "ppg": 0.886,
+            "strength": 2,
+            "z": -1.289
           },
           {
             "team": "Arsenal",
             "venue": "away",
-            "matches": 31,
-            "points": 59,
-            "ppg": 1.903,
+            "matches": 35,
+            "points": 67,
+            "ppg": 1.914,
             "strength": 4,
-            "z": 1.042
-          },
-          {
-            "team": "Chelsea",
-            "venue": "away",
-            "matches": 32,
-            "points": 50,
-            "ppg": 1.562,
-            "strength": 3,
-            "z": 0.301
-          },
-          {
-            "team": "Aston Villa",
-            "venue": "away",
-            "matches": 32,
-            "points": 48,
-            "ppg": 1.5,
-            "strength": 3,
-            "z": 0.166
+            "z": 1.206
           },
           {
             "team": "Manchester City",
             "venue": "away",
-            "matches": 32,
-            "points": 50,
-            "ppg": 1.562,
+            "matches": 35,
+            "points": 57,
+            "ppg": 1.629,
             "strength": 3,
-            "z": 0.301
+            "z": 0.514
+          },
+          {
+            "team": "Chelsea",
+            "venue": "away",
+            "matches": 35,
+            "points": 53,
+            "ppg": 1.514,
+            "strength": 3,
+            "z": 0.235
           },
           {
             "team": "Everton",
             "venue": "away",
-            "matches": 32,
-            "points": 45,
-            "ppg": 1.406,
+            "matches": 35,
+            "points": 49,
+            "ppg": 1.4,
             "strength": 3,
-            "z": -0.038
+            "z": -0.042
           },
           {
             "team": "Crystal Palace",
             "venue": "away",
-            "matches": 32,
-            "points": 48,
+            "matches": 34,
+            "points": 51,
             "ppg": 1.5,
             "strength": 3,
-            "z": 0.166
+            "z": 0.201
           },
           {
-            "team": "Tottenham Hotspur",
+            "team": "Aston Villa",
             "venue": "away",
-            "matches": 32,
-            "points": 36,
-            "ppg": 1.125,
+            "matches": 35,
+            "points": 49,
+            "ppg": 1.4,
             "strength": 3,
-            "z": -0.649
+            "z": -0.042
           },
           {
             "team": "Manchester United",
             "venue": "away",
-            "matches": 31,
-            "points": 35,
-            "ppg": 1.129,
+            "matches": 35,
+            "points": 40,
+            "ppg": 1.143,
             "strength": 3,
-            "z": -0.64
+            "z": -0.665
           },
           {
             "team": "Liverpool",
             "venue": "away",
-            "matches": 31,
-            "points": 53,
-            "ppg": 1.71,
+            "matches": 35,
+            "points": 59,
+            "ppg": 1.686,
             "strength": 3,
-            "z": 0.622
+            "z": 0.653
+          },
+          {
+            "team": "Tottenham Hotspur",
+            "venue": "away",
+            "matches": 35,
+            "points": 37,
+            "ppg": 1.057,
+            "strength": 2,
+            "z": -0.874
           },
           {
             "team": "Brentford",
             "venue": "away",
-            "matches": 32,
-            "points": 40,
-            "ppg": 1.25,
+            "matches": 35,
+            "points": 45,
+            "ppg": 1.286,
             "strength": 3,
-            "z": -0.377
-          },
-          {
-            "team": "Nottingham Forest",
-            "venue": "away",
-            "matches": 32,
-            "points": 47,
-            "ppg": 1.469,
-            "strength": 3,
-            "z": 0.099
-          },
-          {
-            "team": "West Ham United",
-            "venue": "away",
-            "matches": 32,
-            "points": 36,
-            "ppg": 1.125,
-            "strength": 3,
-            "z": -0.649
-          },
-          {
-            "team": "Fulham",
-            "venue": "away",
-            "matches": 31,
-            "points": 39,
-            "ppg": 1.258,
-            "strength": 3,
-            "z": -0.36
-          },
-          {
-            "team": "AFC Bournemouth",
-            "venue": "away",
-            "matches": 31,
-            "points": 39,
-            "ppg": 1.258,
-            "strength": 3,
-            "z": -0.36
+            "z": -0.318
           },
           {
             "team": "Brighton",
             "venue": "away",
-            "matches": 31,
-            "points": 39,
-            "ppg": 1.258,
+            "matches": 35,
+            "points": 48,
+            "ppg": 1.371,
             "strength": 3,
-            "z": -0.36
+            "z": -0.112
           },
           {
-            "team": "Newcastle United",
+            "team": "AFC Bournemouth",
             "venue": "away",
-            "matches": 31,
-            "points": 38,
-            "ppg": 1.226,
+            "matches": 35,
+            "points": 47,
+            "ppg": 1.343,
             "strength": 3,
-            "z": -0.429
+            "z": -0.18
+          },
+          {
+            "team": "Nottingham Forest",
+            "venue": "away",
+            "matches": 35,
+            "points": 51,
+            "ppg": 1.457,
+            "strength": 3,
+            "z": 0.097
           },
           {
             "team": "Sunderland",
             "venue": "away",
-            "matches": 13,
-            "points": 10,
-            "ppg": 0.769,
+            "matches": 16,
+            "points": 17,
+            "ppg": 1.062,
             "strength": 2,
-            "z": -1.423
+            "z": -0.862
+          },
+          {
+            "team": "Newcastle United",
+            "venue": "away",
+            "matches": 35,
+            "points": 44,
+            "ppg": 1.257,
+            "strength": 3,
+            "z": -0.389
+          },
+          {
+            "team": "West Ham United",
+            "venue": "away",
+            "matches": 35,
+            "points": 39,
+            "ppg": 1.114,
+            "strength": 2,
+            "z": -0.736
+          },
+          {
+            "team": "Fulham",
+            "venue": "away",
+            "matches": 35,
+            "points": 43,
+            "ppg": 1.229,
+            "strength": 3,
+            "z": -0.457
           },
           {
             "team": "Leeds United",
             "venue": "away",
-            "matches": 12,
-            "points": 7,
-            "ppg": 0.583,
-            "strength": 1,
-            "z": -1.827
+            "matches": 16,
+            "points": 13,
+            "ppg": 0.812,
+            "strength": 2,
+            "z": -1.469
           },
           {
             "team": "Burnley",
             "venue": "away",
-            "matches": 12,
-            "points": 5,
-            "ppg": 0.417,
+            "matches": 16,
+            "points": 9,
+            "ppg": 0.562,
             "strength": 1,
-            "z": -2.188
+            "z": -2.076
           },
           {
             "team": "Wolves",
             "venue": "away",
-            "matches": 31,
-            "points": 24,
-            "ppg": 0.774,
-            "strength": 2,
-            "z": -1.412
+            "matches": 35,
+            "points": 26,
+            "ppg": 0.743,
+            "strength": 1,
+            "z": -1.636
           }
         ],
         "form": {
@@ -3749,7 +3749,7 @@
               "venue": "home",
               "score_for": 4,
               "score_against": 1,
-              "opponent_strength": 3,
+              "opponent_strength": 2,
               "opponent_venue_context_used": "away"
             },
             {
@@ -3773,7 +3773,7 @@
               "venue": "away",
               "score_for": 1,
               "score_against": 2,
-              "opponent_strength": 4,
+              "opponent_strength": 5,
               "opponent_venue_context_used": "home"
             },
             {
@@ -3781,7 +3781,7 @@
               "venue": "home",
               "score_for": 2,
               "score_against": 1,
-              "opponent_strength": 2,
+              "opponent_strength": 1,
               "opponent_venue_context_used": "away"
             },
             {
@@ -3887,7 +3887,7 @@
               "venue": "home",
               "score_for": 1,
               "score_against": 1,
-              "opponent_strength": 1,
+              "opponent_strength": 2,
               "opponent_venue_context_used": "away"
             },
             {
@@ -3911,7 +3911,7 @@
               "venue": "home",
               "score_for": 0,
               "score_against": 0,
-              "opponent_strength": 3,
+              "opponent_strength": 2,
               "opponent_venue_context_used": "away"
             },
             {
@@ -3951,7 +3951,7 @@
               "venue": "away",
               "score_for": 1,
               "score_against": 0,
-              "opponent_strength": 4,
+              "opponent_strength": 5,
               "opponent_venue_context_used": "home"
             },
             {
@@ -3969,7 +3969,7 @@
               "venue": "home",
               "score_for": 4,
               "score_against": 3,
-              "opponent_strength": 1,
+              "opponent_strength": 2,
               "opponent_venue_context_used": "away"
             },
             {
@@ -4019,7 +4019,7 @@
               "venue": "home",
               "score_for": 1,
               "score_against": 2,
-              "opponent_strength": 3,
+              "opponent_strength": 2,
               "opponent_venue_context_used": "away"
             },
             {
@@ -4027,7 +4027,7 @@
               "venue": "away",
               "score_for": 2,
               "score_against": 2,
-              "opponent_strength": 2,
+              "opponent_strength": 1,
               "opponent_venue_context_used": "home"
             },
             {
@@ -4050,13 +4050,13 @@
         },
         "fixtures": {
           "Arsenal": {
-            "avg_strength": 2.85,
+            "avg_strength": 2.77,
             "fixtures": [
               {
                 "opponent": "Brentford",
                 "venue": "away",
                 "date": "12 Feb",
-                "opponent_strength": 4,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "home"
               },
               {
@@ -4152,7 +4152,7 @@
                 "opponent": "Leeds United",
                 "venue": "home",
                 "date": "13 Feb",
-                "opponent_strength": 1,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -4173,7 +4173,7 @@
                 "opponent": "Aston Villa",
                 "venue": "away",
                 "date": "04 Mar",
-                "opponent_strength": 4,
+                "opponent_strength": 5,
                 "opponent_venue_context_used": "home"
               },
               {
@@ -4229,20 +4229,20 @@
                 "opponent": "Tottenham Hotspur",
                 "venue": "home",
                 "date": "17 May",
-                "opponent_strength": 3,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "away"
               },
               {
                 "opponent": "Sunderland",
                 "venue": "away",
                 "date": "24 May",
-                "opponent_strength": 5,
+                "opponent_strength": 4,
                 "opponent_venue_context_used": "home"
               }
             ]
           },
           "Manchester City": {
-            "avg_strength": 3.0,
+            "avg_strength": 2.92,
             "fixtures": [
               {
                 "opponent": "Fulham",
@@ -4304,7 +4304,7 @@
                 "opponent": "Burnley",
                 "venue": "away",
                 "date": "25 Apr",
-                "opponent_strength": 2,
+                "opponent_strength": 1,
                 "opponent_venue_context_used": "home"
               },
               {
@@ -4338,7 +4338,7 @@
             ]
           },
           "Newcastle United": {
-            "avg_strength": 3.23,
+            "avg_strength": 3.15,
             "fixtures": [
               {
                 "opponent": "Tottenham Hotspur",
@@ -4421,7 +4421,7 @@
                 "opponent": "West Ham United",
                 "venue": "home",
                 "date": "17 May",
-                "opponent_strength": 3,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -4434,7 +4434,7 @@
             ]
           },
           "Tottenham Hotspur": {
-            "avg_strength": 3.31,
+            "avg_strength": 3.38,
             "fixtures": [
               {
                 "opponent": "Newcastle United",
@@ -4482,7 +4482,7 @@
                 "opponent": "Sunderland",
                 "venue": "away",
                 "date": "11 Apr",
-                "opponent_strength": 5,
+                "opponent_strength": 4,
                 "opponent_venue_context_used": "home"
               },
               {
@@ -4503,14 +4503,14 @@
                 "opponent": "Aston Villa",
                 "venue": "away",
                 "date": "02 May",
-                "opponent_strength": 4,
+                "opponent_strength": 5,
                 "opponent_venue_context_used": "home"
               },
               {
                 "opponent": "Leeds United",
                 "venue": "home",
                 "date": "09 May",
-                "opponent_strength": 1,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -4538,321 +4538,321 @@
           {
             "team": "Arsenal",
             "venue": "home",
-            "matches": 13,
-            "points": 32,
-            "ppg": 2.462,
+            "matches": 16,
+            "points": 38,
+            "ppg": 2.375,
             "strength": 5
           },
           {
             "team": "Manchester City",
             "venue": "home",
-            "matches": 12,
-            "points": 29,
-            "ppg": 2.417,
+            "matches": 15,
+            "points": 36,
+            "ppg": 2.4,
             "strength": 5
           },
           {
             "team": "Manchester United",
             "venue": "home",
-            "matches": 13,
-            "points": 27,
-            "ppg": 2.077,
+            "matches": 16,
+            "points": 33,
+            "ppg": 2.062,
+            "strength": 5
+          },
+          {
+            "team": "Aston Villa",
+            "venue": "home",
+            "matches": 16,
+            "points": 32,
+            "ppg": 2.0,
+            "strength": 5
+          },
+          {
+            "team": "Liverpool",
+            "venue": "home",
+            "matches": 16,
+            "points": 31,
+            "ppg": 1.938,
             "strength": 4
           },
           {
             "team": "Sunderland",
             "venue": "home",
-            "matches": 12,
-            "points": 26,
-            "ppg": 2.167,
-            "strength": 5
-          },
-          {
-            "team": "Aston Villa",
-            "venue": "home",
-            "matches": 12,
-            "points": 25,
-            "ppg": 2.083,
-            "strength": 5
-          },
-          {
-            "team": "Brentford",
-            "venue": "home",
-            "matches": 12,
-            "points": 24,
-            "ppg": 2.0,
-            "strength": 4
-          },
-          {
-            "team": "Liverpool",
-            "venue": "home",
-            "matches": 13,
-            "points": 24,
-            "ppg": 1.846,
+            "matches": 16,
+            "points": 29,
+            "ppg": 1.812,
             "strength": 4
           },
           {
             "team": "Fulham",
             "venue": "home",
-            "matches": 13,
-            "points": 23,
-            "ppg": 1.769,
+            "matches": 16,
+            "points": 29,
+            "ppg": 1.812,
             "strength": 4
           },
           {
-            "team": "AFC Bournemouth",
+            "team": "Brentford",
             "venue": "home",
-            "matches": 13,
-            "points": 23,
-            "ppg": 1.769,
-            "strength": 4
-          },
-          {
-            "team": "Newcastle United",
-            "venue": "home",
-            "matches": 13,
-            "points": 23,
-            "ppg": 1.769,
-            "strength": 4
-          },
-          {
-            "team": "Leeds United",
-            "venue": "home",
-            "matches": 13,
-            "points": 22,
-            "ppg": 1.692,
-            "strength": 4
-          },
-          {
-            "team": "Chelsea",
-            "venue": "home",
-            "matches": 12,
-            "points": 21,
-            "ppg": 1.75,
+            "matches": 16,
+            "points": 27,
+            "ppg": 1.688,
             "strength": 4
           },
           {
             "team": "Brighton",
             "venue": "home",
-            "matches": 13,
-            "points": 21,
-            "ppg": 1.615,
+            "matches": 16,
+            "points": 27,
+            "ppg": 1.688,
+            "strength": 4
+          },
+          {
+            "team": "AFC Bournemouth",
+            "venue": "home",
+            "matches": 16,
+            "points": 26,
+            "ppg": 1.625,
+            "strength": 4
+          },
+          {
+            "team": "Newcastle United",
+            "venue": "home",
+            "matches": 16,
+            "points": 26,
+            "ppg": 1.625,
+            "strength": 4
+          },
+          {
+            "team": "Chelsea",
+            "venue": "home",
+            "matches": 16,
+            "points": 23,
+            "ppg": 1.438,
+            "strength": 3
+          },
+          {
+            "team": "Leeds United",
+            "venue": "home",
+            "matches": 16,
+            "points": 23,
+            "ppg": 1.438,
             "strength": 3
           },
           {
             "team": "Everton",
             "venue": "home",
-            "matches": 12,
-            "points": 16,
-            "ppg": 1.333,
+            "matches": 16,
+            "points": 22,
+            "ppg": 1.375,
             "strength": 3
           },
           {
             "team": "Crystal Palace",
             "venue": "home",
-            "matches": 12,
-            "points": 12,
-            "ppg": 1.0,
+            "matches": 16,
+            "points": 19,
+            "ppg": 1.188,
             "strength": 3
-          },
-          {
-            "team": "Nottingham Forest",
-            "venue": "home",
-            "matches": 12,
-            "points": 12,
-            "ppg": 1.0,
-            "strength": 3
-          },
-          {
-            "team": "Tottenham Hotspur",
-            "venue": "home",
-            "matches": 12,
-            "points": 10,
-            "ppg": 0.833,
-            "strength": 2
-          },
-          {
-            "team": "Burnley",
-            "venue": "home",
-            "matches": 13,
-            "points": 10,
-            "ppg": 0.769,
-            "strength": 2
           },
           {
             "team": "West Ham United",
             "venue": "home",
-            "matches": 12,
-            "points": 10,
-            "ppg": 0.833,
+            "matches": 16,
+            "points": 16,
+            "ppg": 1.0,
+            "strength": 2
+          },
+          {
+            "team": "Nottingham Forest",
+            "venue": "home",
+            "matches": 16,
+            "points": 15,
+            "ppg": 0.938,
             "strength": 2
           },
           {
             "team": "Wolves",
             "venue": "home",
-            "matches": 13,
-            "points": 5,
-            "ppg": 0.385,
+            "matches": 16,
+            "points": 12,
+            "ppg": 0.75,
+            "strength": 2
+          },
+          {
+            "team": "Burnley",
+            "venue": "home",
+            "matches": 16,
+            "points": 11,
+            "ppg": 0.688,
+            "strength": 1
+          },
+          {
+            "team": "Tottenham Hotspur",
+            "venue": "home",
+            "matches": 16,
+            "points": 10,
+            "ppg": 0.625,
             "strength": 1
           },
           {
             "team": "Arsenal",
             "venue": "away",
-            "matches": 12,
-            "points": 24,
+            "matches": 16,
+            "points": 32,
             "ppg": 2.0,
+            "strength": 5
+          },
+          {
+            "team": "Manchester City",
+            "venue": "away",
+            "matches": 16,
+            "points": 28,
+            "ppg": 1.75,
             "strength": 4
           },
           {
             "team": "Chelsea",
             "venue": "away",
-            "matches": 13,
-            "points": 22,
-            "ppg": 1.692,
+            "matches": 16,
+            "points": 25,
+            "ppg": 1.562,
             "strength": 4
-          },
-          {
-            "team": "Aston Villa",
-            "venue": "away",
-            "matches": 13,
-            "points": 22,
-            "ppg": 1.692,
-            "strength": 4
-          },
-          {
-            "team": "Manchester City",
-            "venue": "away",
-            "matches": 13,
-            "points": 21,
-            "ppg": 1.615,
-            "strength": 3
           },
           {
             "team": "Everton",
             "venue": "away",
-            "matches": 13,
-            "points": 21,
-            "ppg": 1.615,
-            "strength": 3
+            "matches": 16,
+            "points": 25,
+            "ppg": 1.562,
+            "strength": 4
           },
           {
             "team": "Crystal Palace",
             "venue": "away",
-            "matches": 13,
-            "points": 20,
-            "ppg": 1.538,
+            "matches": 15,
+            "points": 23,
+            "ppg": 1.533,
             "strength": 3
           },
           {
-            "team": "Tottenham Hotspur",
+            "team": "Aston Villa",
             "venue": "away",
-            "matches": 13,
-            "points": 19,
-            "ppg": 1.462,
+            "matches": 16,
+            "points": 23,
+            "ppg": 1.438,
             "strength": 3
           },
           {
             "team": "Manchester United",
             "venue": "away",
-            "matches": 12,
-            "points": 17,
-            "ppg": 1.417,
+            "matches": 16,
+            "points": 22,
+            "ppg": 1.375,
             "strength": 3
           },
           {
             "team": "Liverpool",
             "venue": "away",
-            "matches": 12,
-            "points": 15,
+            "matches": 16,
+            "points": 21,
+            "ppg": 1.312,
+            "strength": 3
+          },
+          {
+            "team": "Tottenham Hotspur",
+            "venue": "away",
+            "matches": 16,
+            "points": 20,
             "ppg": 1.25,
             "strength": 3
           },
           {
             "team": "Brentford",
             "venue": "away",
-            "matches": 13,
-            "points": 15,
-            "ppg": 1.154,
+            "matches": 16,
+            "points": 20,
+            "ppg": 1.25,
+            "strength": 3
+          },
+          {
+            "team": "Brighton",
+            "venue": "away",
+            "matches": 16,
+            "points": 19,
+            "ppg": 1.188,
+            "strength": 3
+          },
+          {
+            "team": "AFC Bournemouth",
+            "venue": "away",
+            "matches": 16,
+            "points": 19,
+            "ppg": 1.188,
             "strength": 3
           },
           {
             "team": "Nottingham Forest",
             "venue": "away",
-            "matches": 13,
-            "points": 14,
-            "ppg": 1.077,
-            "strength": 3
-          },
-          {
-            "team": "West Ham United",
-            "venue": "away",
-            "matches": 13,
-            "points": 13,
-            "ppg": 1.0,
-            "strength": 3
-          },
-          {
-            "team": "Fulham",
-            "venue": "away",
-            "matches": 12,
-            "points": 11,
-            "ppg": 0.917,
-            "strength": 2
-          },
-          {
-            "team": "AFC Bournemouth",
-            "venue": "away",
-            "matches": 12,
-            "points": 11,
-            "ppg": 0.917,
-            "strength": 2
-          },
-          {
-            "team": "Brighton",
-            "venue": "away",
-            "matches": 12,
-            "points": 10,
-            "ppg": 0.833,
-            "strength": 2
-          },
-          {
-            "team": "Newcastle United",
-            "venue": "away",
-            "matches": 12,
-            "points": 10,
-            "ppg": 0.833,
+            "matches": 16,
+            "points": 18,
+            "ppg": 1.125,
             "strength": 2
           },
           {
             "team": "Sunderland",
             "venue": "away",
-            "matches": 13,
-            "points": 10,
-            "ppg": 0.769,
+            "matches": 16,
+            "points": 17,
+            "ppg": 1.062,
+            "strength": 2
+          },
+          {
+            "team": "Newcastle United",
+            "venue": "away",
+            "matches": 16,
+            "points": 16,
+            "ppg": 1.0,
+            "strength": 2
+          },
+          {
+            "team": "West Ham United",
+            "venue": "away",
+            "matches": 16,
+            "points": 16,
+            "ppg": 1.0,
+            "strength": 2
+          },
+          {
+            "team": "Fulham",
+            "venue": "away",
+            "matches": 16,
+            "points": 15,
+            "ppg": 0.938,
             "strength": 2
           },
           {
             "team": "Leeds United",
             "venue": "away",
-            "matches": 12,
-            "points": 7,
-            "ppg": 0.583,
-            "strength": 1
+            "matches": 16,
+            "points": 13,
+            "ppg": 0.812,
+            "strength": 2
           },
           {
             "team": "Burnley",
             "venue": "away",
-            "matches": 12,
-            "points": 5,
-            "ppg": 0.417,
+            "matches": 16,
+            "points": 9,
+            "ppg": 0.562,
             "strength": 1
           },
           {
             "team": "Wolves",
             "venue": "away",
-            "matches": 12,
-            "points": 3,
-            "ppg": 0.25,
+            "matches": 16,
+            "points": 5,
+            "ppg": 0.312,
             "strength": 1
           }
         ],
@@ -4871,7 +4871,7 @@
               "venue": "away",
               "score_for": 1,
               "score_against": 1,
-              "opponent_strength": 4,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "home"
             },
             {
@@ -4911,7 +4911,7 @@
               "venue": "home",
               "score_for": 2,
               "score_against": 1,
-              "opponent_strength": 2,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "away"
             },
             {
@@ -4919,7 +4919,7 @@
               "venue": "home",
               "score_for": 4,
               "score_against": 1,
-              "opponent_strength": 4,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "away"
             },
             {
@@ -4943,7 +4943,7 @@
               "venue": "away",
               "score_for": 0,
               "score_against": 0,
-              "opponent_strength": 3,
+              "opponent_strength": 2,
               "opponent_venue_context_used": "home"
             },
             {
@@ -4959,7 +4959,7 @@
               "venue": "away",
               "score_for": 4,
               "score_against": 0,
-              "opponent_strength": 4,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "home"
             },
             {
@@ -4993,7 +4993,7 @@
               "venue": "away",
               "score_for": 0,
               "score_against": 2,
-              "opponent_strength": 2,
+              "opponent_strength": 1,
               "opponent_venue_context_used": "home"
             },
             {
@@ -5001,7 +5001,7 @@
               "venue": "home",
               "score_for": 1,
               "score_against": 1,
-              "opponent_strength": 1,
+              "opponent_strength": 2,
               "opponent_venue_context_used": "away"
             },
             {
@@ -5009,7 +5009,7 @@
               "venue": "away",
               "score_for": 2,
               "score_against": 0,
-              "opponent_strength": 1,
+              "opponent_strength": 2,
               "opponent_venue_context_used": "home"
             },
             {
@@ -5017,7 +5017,7 @@
               "venue": "home",
               "score_for": 4,
               "score_against": 1,
-              "opponent_strength": 2,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "away"
             },
             {
@@ -5049,7 +5049,7 @@
               "venue": "away",
               "score_for": 0,
               "score_against": 2,
-              "opponent_strength": 4,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "home"
             },
             {
@@ -5057,7 +5057,7 @@
               "venue": "home",
               "score_for": 0,
               "score_against": 2,
-              "opponent_strength": 3,
+              "opponent_strength": 2,
               "opponent_venue_context_used": "away"
             },
             {
@@ -5083,7 +5083,7 @@
               "venue": "home",
               "score_for": 4,
               "score_against": 3,
-              "opponent_strength": 1,
+              "opponent_strength": 2,
               "opponent_venue_context_used": "away"
             },
             {
@@ -5091,7 +5091,7 @@
               "venue": "away",
               "score_for": 0,
               "score_against": 0,
-              "opponent_strength": 1,
+              "opponent_strength": 2,
               "opponent_venue_context_used": "home"
             },
             {
@@ -5099,7 +5099,7 @@
               "venue": "home",
               "score_for": 0,
               "score_against": 2,
-              "opponent_strength": 4,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "away"
             },
             {
@@ -5133,7 +5133,7 @@
               "venue": "home",
               "score_for": 1,
               "score_against": 2,
-              "opponent_strength": 3,
+              "opponent_strength": 2,
               "opponent_venue_context_used": "away"
             },
             {
@@ -5141,7 +5141,7 @@
               "venue": "away",
               "score_for": 2,
               "score_against": 2,
-              "opponent_strength": 2,
+              "opponent_strength": 1,
               "opponent_venue_context_used": "home"
             },
             {
@@ -5149,7 +5149,7 @@
               "venue": "home",
               "score_for": 2,
               "score_against": 2,
-              "opponent_strength": 3,
+              "opponent_strength": 4,
               "opponent_venue_context_used": "away"
             },
             {
@@ -5157,14 +5157,14 @@
               "venue": "away",
               "score_for": 0,
               "score_against": 2,
-              "opponent_strength": 4,
+              "opponent_strength": 5,
               "opponent_venue_context_used": "home"
             }
           ]
         },
         "fixtures": {
           "Arsenal": {
-            "avg_strength": 2.62,
+            "avg_strength": 2.85,
             "fixtures": [
               {
                 "opponent": "Brentford",
@@ -5177,14 +5177,14 @@
                 "opponent": "Wolves",
                 "venue": "away",
                 "date": "18 Feb",
-                "opponent_strength": 1,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "home"
               },
               {
                 "opponent": "Tottenham Hotspur",
                 "venue": "away",
                 "date": "22 Feb",
-                "opponent_strength": 2,
+                "opponent_strength": 1,
                 "opponent_venue_context_used": "home"
               },
               {
@@ -5198,21 +5198,21 @@
                 "opponent": "Brighton",
                 "venue": "away",
                 "date": "08 Mar",
-                "opponent_strength": 3,
+                "opponent_strength": 4,
                 "opponent_venue_context_used": "home"
               },
               {
                 "opponent": "Everton",
                 "venue": "home",
                 "date": "15 Mar",
-                "opponent_strength": 3,
+                "opponent_strength": 4,
                 "opponent_venue_context_used": "away"
               },
               {
                 "opponent": "AFC Bournemouth",
                 "venue": "home",
                 "date": "01 Apr",
-                "opponent_strength": 2,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -5260,13 +5260,13 @@
             ]
           },
           "Chelsea": {
-            "avg_strength": 3.15,
+            "avg_strength": 3.23,
             "fixtures": [
               {
                 "opponent": "Leeds United",
                 "venue": "home",
                 "date": "13 Feb",
-                "opponent_strength": 1,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -5308,7 +5308,7 @@
                 "opponent": "Manchester City",
                 "venue": "home",
                 "date": "01 Apr",
-                "opponent_strength": 3,
+                "opponent_strength": 4,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -5322,14 +5322,14 @@
                 "opponent": "Brighton",
                 "venue": "away",
                 "date": "25 Apr",
-                "opponent_strength": 3,
+                "opponent_strength": 4,
                 "opponent_venue_context_used": "home"
               },
               {
                 "opponent": "Nottingham Forest",
                 "venue": "home",
                 "date": "02 May",
-                "opponent_strength": 3,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -5350,13 +5350,13 @@
                 "opponent": "Sunderland",
                 "venue": "away",
                 "date": "24 May",
-                "opponent_strength": 5,
+                "opponent_strength": 4,
                 "opponent_venue_context_used": "home"
               }
             ]
           },
           "Manchester City": {
-            "avg_strength": 3.08,
+            "avg_strength": 2.77,
             "fixtures": [
               {
                 "opponent": "Fulham",
@@ -5376,14 +5376,14 @@
                 "opponent": "Leeds United",
                 "venue": "away",
                 "date": "28 Feb",
-                "opponent_strength": 4,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "home"
               },
               {
                 "opponent": "Nottingham Forest",
                 "venue": "home",
                 "date": "04 Mar",
-                "opponent_strength": 3,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -5404,21 +5404,21 @@
                 "opponent": "Chelsea",
                 "venue": "away",
                 "date": "01 Apr",
-                "opponent_strength": 4,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "home"
               },
               {
                 "opponent": "Arsenal",
                 "venue": "home",
                 "date": "13 Apr",
-                "opponent_strength": 4,
+                "opponent_strength": 5,
                 "opponent_venue_context_used": "away"
               },
               {
                 "opponent": "Burnley",
                 "venue": "away",
                 "date": "25 Apr",
-                "opponent_strength": 2,
+                "opponent_strength": 1,
                 "opponent_venue_context_used": "home"
               },
               {
@@ -5446,19 +5446,19 @@
                 "opponent": "Aston Villa",
                 "venue": "home",
                 "date": "24 May",
-                "opponent_strength": 4,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "away"
               }
             ]
           },
           "Newcastle United": {
-            "avg_strength": 3.15,
+            "avg_strength": 3.08,
             "fixtures": [
               {
                 "opponent": "Tottenham Hotspur",
                 "venue": "away",
                 "date": "14 Feb",
-                "opponent_strength": 2,
+                "opponent_strength": 1,
                 "opponent_venue_context_used": "home"
               },
               {
@@ -5472,7 +5472,7 @@
                 "opponent": "Everton",
                 "venue": "home",
                 "date": "28 Feb",
-                "opponent_strength": 3,
+                "opponent_strength": 4,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -5486,7 +5486,7 @@
                 "opponent": "Chelsea",
                 "venue": "away",
                 "date": "14 Mar",
-                "opponent_strength": 4,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "home"
               },
               {
@@ -5507,7 +5507,7 @@
                 "opponent": "AFC Bournemouth",
                 "venue": "home",
                 "date": "18 Apr",
-                "opponent_strength": 2,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -5521,21 +5521,21 @@
                 "opponent": "Brighton",
                 "venue": "home",
                 "date": "02 May",
-                "opponent_strength": 2,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "away"
               },
               {
                 "opponent": "Nottingham Forest",
                 "venue": "away",
                 "date": "08 May",
-                "opponent_strength": 3,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "home"
               },
               {
                 "opponent": "West Ham United",
                 "venue": "home",
                 "date": "17 May",
-                "opponent_strength": 3,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -5548,7 +5548,7 @@
             ]
           },
           "Tottenham Hotspur": {
-            "avg_strength": 3.15,
+            "avg_strength": 3.31,
             "fixtures": [
               {
                 "opponent": "Newcastle United",
@@ -5561,7 +5561,7 @@
                 "opponent": "Arsenal",
                 "venue": "home",
                 "date": "22 Feb",
-                "opponent_strength": 4,
+                "opponent_strength": 5,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -5589,28 +5589,28 @@
                 "opponent": "Nottingham Forest",
                 "venue": "home",
                 "date": "22 Mar",
-                "opponent_strength": 3,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "away"
               },
               {
                 "opponent": "Sunderland",
                 "venue": "away",
                 "date": "11 Apr",
-                "opponent_strength": 5,
+                "opponent_strength": 4,
                 "opponent_venue_context_used": "home"
               },
               {
                 "opponent": "Brighton",
                 "venue": "home",
                 "date": "18 Apr",
-                "opponent_strength": 2,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "away"
               },
               {
                 "opponent": "Wolves",
                 "venue": "away",
                 "date": "25 Apr",
-                "opponent_strength": 1,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "home"
               },
               {
@@ -5624,21 +5624,21 @@
                 "opponent": "Leeds United",
                 "venue": "home",
                 "date": "09 May",
-                "opponent_strength": 1,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "away"
               },
               {
                 "opponent": "Chelsea",
                 "venue": "away",
                 "date": "17 May",
-                "opponent_strength": 4,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "home"
               },
               {
                 "opponent": "Everton",
                 "venue": "home",
                 "date": "24 May",
-                "opponent_strength": 3,
+                "opponent_strength": 4,
                 "opponent_venue_context_used": "away"
               }
             ]
@@ -5650,322 +5650,322 @@
           {
             "team": "Arsenal",
             "venue": "home",
-            "matches": 32,
-            "points": 71,
-            "ppg": 2.219,
+            "matches": 35,
+            "points": 77,
+            "ppg": 2.2,
             "strength": 5
           },
           {
             "team": "Manchester City",
             "venue": "home",
-            "matches": 31,
-            "points": 71,
-            "ppg": 2.29,
+            "matches": 34,
+            "points": 78,
+            "ppg": 2.294,
             "strength": 5
           },
           {
             "team": "Manchester United",
             "venue": "home",
-            "matches": 32,
-            "points": 51,
-            "ppg": 1.594,
+            "matches": 35,
+            "points": 57,
+            "ppg": 1.629,
             "strength": 4
-          },
-          {
-            "team": "Sunderland",
-            "venue": "home",
-            "matches": 12,
-            "points": 26,
-            "ppg": 2.167,
-            "strength": 5
           },
           {
             "team": "Aston Villa",
             "venue": "home",
-            "matches": 31,
-            "points": 65,
-            "ppg": 2.097,
+            "matches": 35,
+            "points": 72,
+            "ppg": 2.057,
+            "strength": 5
+          },
+          {
+            "team": "Liverpool",
+            "venue": "home",
+            "matches": 35,
+            "points": 77,
+            "ppg": 2.2,
+            "strength": 5
+          },
+          {
+            "team": "Sunderland",
+            "venue": "home",
+            "matches": 16,
+            "points": 29,
+            "ppg": 1.812,
+            "strength": 4
+          },
+          {
+            "team": "Fulham",
+            "venue": "home",
+            "matches": 35,
+            "points": 55,
+            "ppg": 1.571,
             "strength": 4
           },
           {
             "team": "Brentford",
             "venue": "home",
-            "matches": 31,
-            "points": 55,
-            "ppg": 1.774,
-            "strength": 4
-          },
-          {
-            "team": "Liverpool",
-            "venue": "home",
-            "matches": 32,
-            "points": 70,
-            "ppg": 2.188,
-            "strength": 5
-          },
-          {
-            "team": "Fulham",
-            "venue": "home",
-            "matches": 32,
-            "points": 49,
-            "ppg": 1.531,
-            "strength": 3
-          },
-          {
-            "team": "AFC Bournemouth",
-            "venue": "home",
-            "matches": 32,
-            "points": 51,
-            "ppg": 1.594,
-            "strength": 4
-          },
-          {
-            "team": "Newcastle United",
-            "venue": "home",
-            "matches": 32,
-            "points": 61,
-            "ppg": 1.906,
-            "strength": 4
-          },
-          {
-            "team": "Leeds United",
-            "venue": "home",
-            "matches": 13,
-            "points": 22,
-            "ppg": 1.692,
-            "strength": 4
-          },
-          {
-            "team": "Chelsea",
-            "venue": "home",
-            "matches": 31,
-            "points": 62,
-            "ppg": 2.0,
+            "matches": 35,
+            "points": 58,
+            "ppg": 1.657,
             "strength": 4
           },
           {
             "team": "Brighton",
             "venue": "home",
-            "matches": 32,
-            "points": 53,
-            "ppg": 1.656,
+            "matches": 35,
+            "points": 59,
+            "ppg": 1.686,
             "strength": 4
+          },
+          {
+            "team": "AFC Bournemouth",
+            "venue": "home",
+            "matches": 35,
+            "points": 54,
+            "ppg": 1.543,
+            "strength": 3
+          },
+          {
+            "team": "Newcastle United",
+            "venue": "home",
+            "matches": 35,
+            "points": 64,
+            "ppg": 1.829,
+            "strength": 4
+          },
+          {
+            "team": "Chelsea",
+            "venue": "home",
+            "matches": 35,
+            "points": 64,
+            "ppg": 1.829,
+            "strength": 4
+          },
+          {
+            "team": "Leeds United",
+            "venue": "home",
+            "matches": 16,
+            "points": 23,
+            "ppg": 1.438,
+            "strength": 3
           },
           {
             "team": "Everton",
             "venue": "home",
-            "matches": 31,
-            "points": 40,
-            "ppg": 1.29,
+            "matches": 35,
+            "points": 46,
+            "ppg": 1.314,
             "strength": 3
           },
           {
             "team": "Crystal Palace",
             "venue": "home",
-            "matches": 31,
-            "points": 37,
-            "ppg": 1.194,
+            "matches": 35,
+            "points": 44,
+            "ppg": 1.257,
+            "strength": 2
+          },
+          {
+            "team": "West Ham United",
+            "venue": "home",
+            "matches": 35,
+            "points": 36,
+            "ppg": 1.029,
             "strength": 2
           },
           {
             "team": "Nottingham Forest",
             "venue": "home",
-            "matches": 31,
-            "points": 44,
-            "ppg": 1.419,
+            "matches": 35,
+            "points": 47,
+            "ppg": 1.343,
             "strength": 3
           },
           {
-            "team": "Tottenham Hotspur",
+            "team": "Wolves",
             "venue": "home",
-            "matches": 31,
-            "points": 31,
-            "ppg": 1.0,
+            "matches": 35,
+            "points": 33,
+            "ppg": 0.943,
             "strength": 2
           },
           {
             "team": "Burnley",
             "venue": "home",
-            "matches": 13,
-            "points": 10,
-            "ppg": 0.769,
+            "matches": 16,
+            "points": 11,
+            "ppg": 0.688,
             "strength": 1
           },
           {
-            "team": "West Ham United",
+            "team": "Tottenham Hotspur",
             "venue": "home",
-            "matches": 31,
-            "points": 30,
-            "ppg": 0.968,
-            "strength": 2
-          },
-          {
-            "team": "Wolves",
-            "venue": "home",
-            "matches": 32,
-            "points": 26,
-            "ppg": 0.812,
+            "matches": 35,
+            "points": 31,
+            "ppg": 0.886,
             "strength": 2
           },
           {
             "team": "Arsenal",
             "venue": "away",
-            "matches": 31,
-            "points": 59,
-            "ppg": 1.903,
+            "matches": 35,
+            "points": 67,
+            "ppg": 1.914,
+            "strength": 4
+          },
+          {
+            "team": "Manchester City",
+            "venue": "away",
+            "matches": 35,
+            "points": 57,
+            "ppg": 1.629,
             "strength": 4
           },
           {
             "team": "Chelsea",
             "venue": "away",
-            "matches": 32,
-            "points": 50,
-            "ppg": 1.562,
-            "strength": 3
-          },
-          {
-            "team": "Aston Villa",
-            "venue": "away",
-            "matches": 32,
-            "points": 48,
-            "ppg": 1.5,
-            "strength": 3
-          },
-          {
-            "team": "Manchester City",
-            "venue": "away",
-            "matches": 32,
-            "points": 50,
-            "ppg": 1.562,
+            "matches": 35,
+            "points": 53,
+            "ppg": 1.514,
             "strength": 3
           },
           {
             "team": "Everton",
             "venue": "away",
-            "matches": 32,
-            "points": 45,
-            "ppg": 1.406,
+            "matches": 35,
+            "points": 49,
+            "ppg": 1.4,
             "strength": 3
           },
           {
             "team": "Crystal Palace",
             "venue": "away",
-            "matches": 32,
-            "points": 48,
+            "matches": 34,
+            "points": 51,
             "ppg": 1.5,
             "strength": 3
           },
           {
-            "team": "Tottenham Hotspur",
+            "team": "Aston Villa",
             "venue": "away",
-            "matches": 32,
-            "points": 36,
-            "ppg": 1.125,
-            "strength": 2
+            "matches": 35,
+            "points": 49,
+            "ppg": 1.4,
+            "strength": 3
           },
           {
             "team": "Manchester United",
             "venue": "away",
-            "matches": 31,
-            "points": 35,
-            "ppg": 1.129,
+            "matches": 35,
+            "points": 40,
+            "ppg": 1.143,
             "strength": 2
           },
           {
             "team": "Liverpool",
             "venue": "away",
-            "matches": 31,
-            "points": 53,
-            "ppg": 1.71,
+            "matches": 35,
+            "points": 59,
+            "ppg": 1.686,
             "strength": 4
+          },
+          {
+            "team": "Tottenham Hotspur",
+            "venue": "away",
+            "matches": 35,
+            "points": 37,
+            "ppg": 1.057,
+            "strength": 2
           },
           {
             "team": "Brentford",
             "venue": "away",
-            "matches": 32,
-            "points": 40,
-            "ppg": 1.25,
-            "strength": 2
-          },
-          {
-            "team": "Nottingham Forest",
-            "venue": "away",
-            "matches": 32,
-            "points": 47,
-            "ppg": 1.469,
-            "strength": 3
-          },
-          {
-            "team": "West Ham United",
-            "venue": "away",
-            "matches": 32,
-            "points": 36,
-            "ppg": 1.125,
-            "strength": 2
-          },
-          {
-            "team": "Fulham",
-            "venue": "away",
-            "matches": 31,
-            "points": 39,
-            "ppg": 1.258,
-            "strength": 3
-          },
-          {
-            "team": "AFC Bournemouth",
-            "venue": "away",
-            "matches": 31,
-            "points": 39,
-            "ppg": 1.258,
+            "matches": 35,
+            "points": 45,
+            "ppg": 1.286,
             "strength": 3
           },
           {
             "team": "Brighton",
             "venue": "away",
-            "matches": 31,
-            "points": 39,
-            "ppg": 1.258,
+            "matches": 35,
+            "points": 48,
+            "ppg": 1.371,
             "strength": 3
           },
           {
-            "team": "Newcastle United",
+            "team": "AFC Bournemouth",
             "venue": "away",
-            "matches": 31,
-            "points": 38,
-            "ppg": 1.226,
-            "strength": 2
+            "matches": 35,
+            "points": 47,
+            "ppg": 1.343,
+            "strength": 3
+          },
+          {
+            "team": "Nottingham Forest",
+            "venue": "away",
+            "matches": 35,
+            "points": 51,
+            "ppg": 1.457,
+            "strength": 3
           },
           {
             "team": "Sunderland",
             "venue": "away",
-            "matches": 13,
-            "points": 10,
-            "ppg": 0.769,
-            "strength": 1
+            "matches": 16,
+            "points": 17,
+            "ppg": 1.062,
+            "strength": 2
+          },
+          {
+            "team": "Newcastle United",
+            "venue": "away",
+            "matches": 35,
+            "points": 44,
+            "ppg": 1.257,
+            "strength": 2
+          },
+          {
+            "team": "West Ham United",
+            "venue": "away",
+            "matches": 35,
+            "points": 39,
+            "ppg": 1.114,
+            "strength": 2
+          },
+          {
+            "team": "Fulham",
+            "venue": "away",
+            "matches": 35,
+            "points": 43,
+            "ppg": 1.229,
+            "strength": 2
           },
           {
             "team": "Leeds United",
             "venue": "away",
-            "matches": 12,
-            "points": 7,
-            "ppg": 0.583,
+            "matches": 16,
+            "points": 13,
+            "ppg": 0.812,
             "strength": 1
           },
           {
             "team": "Burnley",
             "venue": "away",
-            "matches": 12,
-            "points": 5,
-            "ppg": 0.417,
+            "matches": 16,
+            "points": 9,
+            "ppg": 0.562,
             "strength": 1
           },
           {
             "team": "Wolves",
             "venue": "away",
-            "matches": 31,
-            "points": 24,
-            "ppg": 0.774,
-            "strength": 2
+            "matches": 35,
+            "points": 26,
+            "ppg": 0.743,
+            "strength": 1
           }
         ],
         "form": {
@@ -5991,7 +5991,7 @@
               "venue": "home",
               "score_for": 2,
               "score_against": 0,
-              "opponent_strength": 2,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "away"
             },
             {
@@ -5999,7 +5999,7 @@
               "venue": "away",
               "score_for": 1,
               "score_against": 2,
-              "opponent_strength": 4,
+              "opponent_strength": 5,
               "opponent_venue_context_used": "home"
             },
             {
@@ -6007,7 +6007,7 @@
               "venue": "home",
               "score_for": 2,
               "score_against": 1,
-              "opponent_strength": 2,
+              "opponent_strength": 1,
               "opponent_venue_context_used": "away"
             },
             {
@@ -6039,7 +6039,7 @@
               "venue": "away",
               "score_for": 3,
               "score_against": 2,
-              "opponent_strength": 4,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "home"
             },
             {
@@ -6071,7 +6071,7 @@
               "venue": "away",
               "score_for": 4,
               "score_against": 0,
-              "opponent_strength": 4,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "home"
             },
             {
@@ -6079,7 +6079,7 @@
               "venue": "home",
               "score_for": 3,
               "score_against": 0,
-              "opponent_strength": 1,
+              "opponent_strength": 2,
               "opponent_venue_context_used": "away"
             }
           ],
@@ -6153,7 +6153,7 @@
               "venue": "home",
               "score_for": 3,
               "score_against": 0,
-              "opponent_strength": 1,
+              "opponent_strength": 2,
               "opponent_venue_context_used": "away"
             },
             {
@@ -6177,7 +6177,7 @@
               "venue": "away",
               "score_for": 1,
               "score_against": 0,
-              "opponent_strength": 4,
+              "opponent_strength": 5,
               "opponent_venue_context_used": "home"
             },
             {
@@ -6227,7 +6227,7 @@
               "venue": "home",
               "score_for": 2,
               "score_against": 3,
-              "opponent_strength": 2,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "away"
             }
           ],
@@ -6237,7 +6237,7 @@
               "venue": "away",
               "score_for": 2,
               "score_against": 3,
-              "opponent_strength": 4,
+              "opponent_strength": 3,
               "opponent_venue_context_used": "home"
             },
             {
@@ -6261,7 +6261,7 @@
               "venue": "home",
               "score_for": 2,
               "score_against": 2,
-              "opponent_strength": 3,
+              "opponent_strength": 4,
               "opponent_venue_context_used": "away"
             },
             {
@@ -6276,7 +6276,7 @@
         },
         "fixtures": {
           "Arsenal": {
-            "avg_strength": 2.77,
+            "avg_strength": 2.69,
             "fixtures": [
               {
                 "opponent": "Brentford",
@@ -6345,7 +6345,7 @@
                 "opponent": "Fulham",
                 "venue": "home",
                 "date": "02 May",
-                "opponent_strength": 3,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -6372,7 +6372,7 @@
             ]
           },
           "Chelsea": {
-            "avg_strength": 3.08,
+            "avg_strength": 3.15,
             "fixtures": [
               {
                 "opponent": "Leeds United",
@@ -6399,7 +6399,7 @@
                 "opponent": "Aston Villa",
                 "venue": "away",
                 "date": "04 Mar",
-                "opponent_strength": 4,
+                "opponent_strength": 5,
                 "opponent_venue_context_used": "home"
               },
               {
@@ -6420,7 +6420,7 @@
                 "opponent": "Manchester City",
                 "venue": "home",
                 "date": "01 Apr",
-                "opponent_strength": 3,
+                "opponent_strength": 4,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -6462,19 +6462,19 @@
                 "opponent": "Sunderland",
                 "venue": "away",
                 "date": "24 May",
-                "opponent_strength": 5,
+                "opponent_strength": 4,
                 "opponent_venue_context_used": "home"
               }
             ]
           },
           "Manchester City": {
-            "avg_strength": 2.92,
+            "avg_strength": 2.77,
             "fixtures": [
               {
                 "opponent": "Fulham",
                 "venue": "home",
                 "date": "11 Feb",
-                "opponent_strength": 3,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -6488,7 +6488,7 @@
                 "opponent": "Leeds United",
                 "venue": "away",
                 "date": "28 Feb",
-                "opponent_strength": 4,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "home"
               },
               {
@@ -6544,14 +6544,14 @@
                 "opponent": "Brentford",
                 "venue": "home",
                 "date": "08 May",
-                "opponent_strength": 2,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "away"
               },
               {
                 "opponent": "AFC Bournemouth",
                 "venue": "away",
                 "date": "17 May",
-                "opponent_strength": 4,
+                "opponent_strength": 3,
                 "opponent_venue_context_used": "home"
               },
               {
@@ -6564,7 +6564,7 @@
             ]
           },
           "Newcastle United": {
-            "avg_strength": 2.92,
+            "avg_strength": 3.08,
             "fixtures": [
               {
                 "opponent": "Tottenham Hotspur",
@@ -6605,7 +6605,7 @@
                 "opponent": "Sunderland",
                 "venue": "home",
                 "date": "22 Mar",
-                "opponent_strength": 1,
+                "opponent_strength": 2,
                 "opponent_venue_context_used": "away"
               },
               {
@@ -6654,13 +6654,13 @@
                 "opponent": "Fulham",
                 "venue": "away",
                 "date": "24 May",
-                "opponent_strength": 3,
+                "opponent_strength": 4,
                 "opponent_venue_context_used": "home"
               }
             ]
           },
           "Tottenham Hotspur": {
-            "avg_strength": 3.23,
+            "avg_strength": 3.31,
             "fixtures": [
               {
                 "opponent": "Newcastle United",
@@ -6680,7 +6680,7 @@
                 "opponent": "Fulham",
                 "venue": "away",
                 "date": "01 Mar",
-                "opponent_strength": 3,
+                "opponent_strength": 4,
                 "opponent_venue_context_used": "home"
               },
               {
@@ -6708,7 +6708,7 @@
                 "opponent": "Sunderland",
                 "venue": "away",
                 "date": "11 Apr",
-                "opponent_strength": 5,
+                "opponent_strength": 4,
                 "opponent_venue_context_used": "home"
               },
               {
@@ -6729,7 +6729,7 @@
                 "opponent": "Aston Villa",
                 "venue": "away",
                 "date": "02 May",
-                "opponent_strength": 4,
+                "opponent_strength": 5,
                 "opponent_venue_context_used": "home"
               },
               {
@@ -6777,7 +6777,7 @@
         "venue": "away",
         "score_for": 0,
         "score_against": 0,
-        "opponent_strength": 3,
+        "opponent_strength": 2,
         "opponent_venue_context_used": "home",
         "opponent_short": "Forest",
         "outcome": "draw",
@@ -6799,7 +6799,7 @@
         "venue": "away",
         "score_for": 4,
         "score_against": 0,
-        "opponent_strength": 4,
+        "opponent_strength": 3,
         "opponent_venue_context_used": "home",
         "opponent_short": "Leeds United",
         "outcome": "win",
@@ -6834,7 +6834,7 @@
         "venue": "away",
         "score_for": 0,
         "score_against": 2,
-        "opponent_strength": 4,
+        "opponent_strength": 3,
         "opponent_venue_context_used": "home",
         "opponent_short": "Chelsea",
         "outcome": "loss",
@@ -6845,7 +6845,7 @@
         "venue": "home",
         "score_for": 0,
         "score_against": 2,
-        "opponent_strength": 3,
+        "opponent_strength": 2,
         "opponent_venue_context_used": "away",
         "opponent_short": "Forest",
         "outcome": "loss",

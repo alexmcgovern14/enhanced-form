@@ -1,6 +1,6 @@
 {
   "Arsenal": {
-    "avg_strength": 2.62,
+    "avg_strength": 2.85,
     "fixtures": [
       {
         "opponent": "Brentford",
@@ -13,14 +13,14 @@
         "opponent": "Wolves",
         "venue": "away",
         "date": "18 Feb",
-        "opponent_strength": 1,
+        "opponent_strength": 2,
         "opponent_venue_context_used": "home"
       },
       {
         "opponent": "Tottenham Hotspur",
         "venue": "away",
         "date": "22 Feb",
-        "opponent_strength": 2,
+        "opponent_strength": 1,
         "opponent_venue_context_used": "home"
       },
       {
@@ -34,21 +34,21 @@
         "opponent": "Brighton",
         "venue": "away",
         "date": "08 Mar",
-        "opponent_strength": 3,
+        "opponent_strength": 4,
         "opponent_venue_context_used": "home"
       },
       {
         "opponent": "Everton",
         "venue": "home",
         "date": "15 Mar",
-        "opponent_strength": 3,
+        "opponent_strength": 4,
         "opponent_venue_context_used": "away"
       },
       {
         "opponent": "AFC Bournemouth",
         "venue": "home",
         "date": "01 Apr",
-        "opponent_strength": 2,
+        "opponent_strength": 3,
         "opponent_venue_context_used": "away"
       },
       {
@@ -96,13 +96,13 @@
     ]
   },
   "Chelsea": {
-    "avg_strength": 3.15,
+    "avg_strength": 3.23,
     "fixtures": [
       {
         "opponent": "Leeds United",
         "venue": "home",
         "date": "13 Feb",
-        "opponent_strength": 1,
+        "opponent_strength": 2,
         "opponent_venue_context_used": "away"
       },
       {
@@ -144,7 +144,7 @@
         "opponent": "Manchester City",
         "venue": "home",
         "date": "01 Apr",
-        "opponent_strength": 3,
+        "opponent_strength": 4,
         "opponent_venue_context_used": "away"
       },
       {
@@ -158,14 +158,14 @@
         "opponent": "Brighton",
         "venue": "away",
         "date": "25 Apr",
-        "opponent_strength": 3,
+        "opponent_strength": 4,
         "opponent_venue_context_used": "home"
       },
       {
         "opponent": "Nottingham Forest",
         "venue": "home",
         "date": "02 May",
-        "opponent_strength": 3,
+        "opponent_strength": 2,
         "opponent_venue_context_used": "away"
       },
       {
@@ -186,13 +186,13 @@
         "opponent": "Sunderland",
         "venue": "away",
         "date": "24 May",
-        "opponent_strength": 5,
+        "opponent_strength": 4,
         "opponent_venue_context_used": "home"
       }
     ]
   },
   "Manchester City": {
-    "avg_strength": 3.08,
+    "avg_strength": 2.77,
     "fixtures": [
       {
         "opponent": "Fulham",
@@ -212,14 +212,14 @@
         "opponent": "Leeds United",
         "venue": "away",
         "date": "28 Feb",
-        "opponent_strength": 4,
+        "opponent_strength": 3,
         "opponent_venue_context_used": "home"
       },
       {
         "opponent": "Nottingham Forest",
         "venue": "home",
         "date": "04 Mar",
-        "opponent_strength": 3,
+        "opponent_strength": 2,
         "opponent_venue_context_used": "away"
       },
       {
@@ -240,21 +240,21 @@
         "opponent": "Chelsea",
         "venue": "away",
         "date": "01 Apr",
-        "opponent_strength": 4,
+        "opponent_strength": 3,
         "opponent_venue_context_used": "home"
       },
       {
         "opponent": "Arsenal",
         "venue": "home",
         "date": "13 Apr",
-        "opponent_strength": 4,
+        "opponent_strength": 5,
         "opponent_venue_context_used": "away"
       },
       {
         "opponent": "Burnley",
         "venue": "away",
         "date": "25 Apr",
-        "opponent_strength": 2,
+        "opponent_strength": 1,
         "opponent_venue_context_used": "home"
       },
       {
@@ -282,19 +282,19 @@
         "opponent": "Aston Villa",
         "venue": "home",
         "date": "24 May",
-        "opponent_strength": 4,
+        "opponent_strength": 3,
         "opponent_venue_context_used": "away"
       }
     ]
   },
   "Newcastle United": {
-    "avg_strength": 3.15,
+    "avg_strength": 3.08,
     "fixtures": [
       {
         "opponent": "Tottenham Hotspur",
         "venue": "away",
         "date": "14 Feb",
-        "opponent_strength": 2,
+        "opponent_strength": 1,
         "opponent_venue_context_used": "home"
       },
       {
@@ -308,7 +308,7 @@
         "opponent": "Everton",
         "venue": "home",
         "date": "28 Feb",
-        "opponent_strength": 3,
+        "opponent_strength": 4,
         "opponent_venue_context_used": "away"
       },
       {
@@ -322,7 +322,7 @@
         "opponent": "Chelsea",
         "venue": "away",
         "date": "14 Mar",
-        "opponent_strength": 4,
+        "opponent_strength": 3,
         "opponent_venue_context_used": "home"
       },
       {
@@ -343,7 +343,7 @@
         "opponent": "AFC Bournemouth",
         "venue": "home",
         "date": "18 Apr",
-        "opponent_strength": 2,
+        "opponent_strength": 3,
         "opponent_venue_context_used": "away"
       },
       {
@@ -357,21 +357,21 @@
         "opponent": "Brighton",
         "venue": "home",
         "date": "02 May",
-        "opponent_strength": 2,
+        "opponent_strength": 3,
         "opponent_venue_context_used": "away"
       },
       {
         "opponent": "Nottingham Forest",
         "venue": "away",
         "date": "08 May",
-        "opponent_strength": 3,
+        "opponent_strength": 2,
         "opponent_venue_context_used": "home"
       },
       {
         "opponent": "West Ham United",
         "venue": "home",
         "date": "17 May",
-        "opponent_strength": 3,
+        "opponent_strength": 2,
         "opponent_venue_context_used": "away"
       },
       {
@@ -384,7 +384,7 @@
     ]
   },
   "Tottenham Hotspur": {
-    "avg_strength": 3.15,
+    "avg_strength": 3.31,
     "fixtures": [
       {
         "opponent": "Newcastle United",
@@ -397,7 +397,7 @@
         "opponent": "Arsenal",
         "venue": "home",
         "date": "22 Feb",
-        "opponent_strength": 4,
+        "opponent_strength": 5,
         "opponent_venue_context_used": "away"
       },
       {
@@ -425,28 +425,28 @@
         "opponent": "Nottingham Forest",
         "venue": "home",
         "date": "22 Mar",
-        "opponent_strength": 3,
+        "opponent_strength": 2,
         "opponent_venue_context_used": "away"
       },
       {
         "opponent": "Sunderland",
         "venue": "away",
         "date": "11 Apr",
-        "opponent_strength": 5,
+        "opponent_strength": 4,
         "opponent_venue_context_used": "home"
       },
       {
         "opponent": "Brighton",
         "venue": "home",
         "date": "18 Apr",
-        "opponent_strength": 2,
+        "opponent_strength": 3,
         "opponent_venue_context_used": "away"
       },
       {
         "opponent": "Wolves",
         "venue": "away",
         "date": "25 Apr",
-        "opponent_strength": 1,
+        "opponent_strength": 2,
         "opponent_venue_context_used": "home"
       },
       {
@@ -460,21 +460,21 @@
         "opponent": "Leeds United",
         "venue": "home",
         "date": "09 May",
-        "opponent_strength": 1,
+        "opponent_strength": 2,
         "opponent_venue_context_used": "away"
       },
       {
         "opponent": "Chelsea",
         "venue": "away",
         "date": "17 May",
-        "opponent_strength": 4,
+        "opponent_strength": 3,
         "opponent_venue_context_used": "home"
       },
       {
         "opponent": "Everton",
         "venue": "home",
         "date": "24 May",
-        "opponent_strength": 3,
+        "opponent_strength": 4,
         "opponent_venue_context_used": "away"
       }
     ]
